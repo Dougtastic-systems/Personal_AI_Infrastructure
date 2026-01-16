@@ -1,0 +1,267 @@
+{
+  "session_date": "2026-01-07",
+  "claims_extraction_id": "claims-2026-01-07",
+  "validated_at": "2026-01-11T01:06:21.008Z",
+  "results": [
+    {
+      "claim_id": "claim-001",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-rishi-paralysis",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-002",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-rishi-decade",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-003",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-rishi-sports",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-004",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-gio-singing",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-005",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-gio-stuck",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-006",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-greg-jobs",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-007",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-greg-vision",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-008",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-greg-takeaway",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-009",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-doug-pattern",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-010",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-rick-affirmations",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-011",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-rishi-commitment",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-012",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-gio-commitment",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-013",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-greg-commitment",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-014",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-lizzy-commitment",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-015",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-doug-commitment",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-016",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-doug-walking",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-017",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-melissa-doug",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-018",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20260107-stara-podcast",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    }
+  ],
+  "stats": {
+    "total_claims": 18,
+    "verified": 0,
+    "confirmed": 0,
+    "questionable": 18,
+    "rejected": 0
+  },
+  "validated_claims": []
+}

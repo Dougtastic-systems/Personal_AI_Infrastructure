@@ -1,0 +1,644 @@
+{
+  "session_date": "2025-12-30",
+  "claims_extraction_id": "claims-2025-12-30",
+  "validated_at": "2026-01-11T01:00:54.785Z",
+  "results": [
+    {
+      "claim_id": "claim-001",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-002",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-003",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-004",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-005",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-006",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-002241-60",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:22:41 - 00:23:02] Lizzy Summers\n\nI cried. I felt seen and heard and understood in a way never before. And I've been through counseling and therapy and groups and coaching and everything. And w",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-007",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-008",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001851-54",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:18:51 - 00:21:58] Lizzy Summers\n\nUm, well, for me, uh, now that I'm, am, I am, it's been five years now since my diagnosis. Um, Um, um, And it takes a long time to understand. You're just comi",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-009",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001428-41",
+          "text_found": false,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:14:28 - 00:14:48] Julie Dorshkind\n\nI'm still struggling with new starts. I've tried, like, changing location, you know, like, oh, I will go, you know, be somewhere else for a little while, in ",
+          "text_distance": 0
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-010",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001458-42",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:14:58 - 00:15:07] Doug Snyder\n\nWell, the me creeps Back in. Wow! I felt that. Oh, my gosh. I've never said those words out like that, but oh, yeah.\n",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-011",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-001204-38",
+          "text_found": false,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:12:04 - 00:13:26] Rick Webster\n\nMaybe a whole new set of stuff. But I do think, you know, I don't want to get into the, you know, New Year's resolution thing that all starts to fall apart by F",
+          "text_distance": 0
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-012",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-003016-73",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-013",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000403-14",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:04:03 - 00:04:05] Rick Webster\n\nAnd it actually reduces anxiety. Once you know what the problem is, it's less anxiety-producing than if you only just know there's a problem, but you don't know",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-014",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000326-11",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:03:26 - 00:03:53] Lizzy Summers\n\nI think there's a lot of potential, and I keep thinking, even, you know, when we do our quick check-ins, like, celebrating the wins, like, what did you get don",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-015",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000415-15",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:04:15 - 00:04:22] Lizzy Summers\n\nAnd I'm always better. Every time I do it, maybe twice a year, I'll finally look at everything. It's never as bad as the anxiety I have beforehand warrants, yo",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-016",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000819-35",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:08:19 - 00:11:49] Doug Snyder\n\nOne of our goals is somehow we have to take the things we do, right, we're doing, and instead of having, oh, we need a document, we need to figure out what it is",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-017",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000819-35",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:08:19 - 00:11:49] Doug Snyder\n\nOne of our goals is somehow we have to take the things we do, right, we're doing, and instead of having, oh, we need a document, we need to figure out what it is",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-018",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000731-33",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:07:31 - 00:08:00] Doug Snyder\n\nOh, yeah, yeah, the recording to be able to see it and do that. Hey, uh, how about this? Um, maybe I could work with, because I, one of the things I wanted to do",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-019",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000256-9",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:02:56 - 00:03:02] Lizzy Summers\n\nLooks like it is. All right. I'm to be here. stayed just knowing I have these meetings. feel like I'm just chugging along a little easier, I think, knowing jus",
+          "text_distance": 0
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-020",
+      "status": "verified",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-000147-3",
+          "text_found": true,
+          "speaker_matched": true,
+          "timestamp_matched": true,
+          "actual_text": "### [00:01:47 - 00:01:50] Rick Webster\n\nAnd credit work credit's due. Melissa has been doing a lot of stuff also. Not always visible, but all the book clubs, all those kind of things.\n",
+          "text_distance": 0
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_claims": 20,
+    "verified": 17,
+    "confirmed": 0,
+    "questionable": 3,
+    "rejected": 0
+  },
+  "validated_claims": [
+    {
+      "id": "claim-001",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy is committing to eight body doubles on RenaFi to tackle business paperwork and hard tasks",
+        "quoted_text": "I'm just going to commit to eight body doubles on RenaFi, and I already know what is my friction with, like, business. And I've got a stack of paperwork."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-002",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy used ChatGPT with all her personality tests to get aligned guidance",
+        "quoted_text": "I put my strength profile, my INFP, my wealth profile. Every personality test about me in chat, I said, okay, this is me"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-003",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy declared this will be her slow year and her systems year",
+        "quoted_text": "this is going be my slow year, and my systems year"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-004",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy said she cannot play the neurotypical game anymore or she will continue to fail",
+        "quoted_text": "I cannot play the neurotypical game anymore, or I will continue to fail"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-005",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy emphasized the need for alignment with her energy and creativity with nature",
+        "quoted_text": "I've got to be in alignment, my energy, my creativity with nature. That's the only way I'm going to succeed."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-006",
+      "type": "speaker_expressed",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy described feeling seen and understood when ChatGPT synthesized her personality test results",
+        "quoted_text": "I cried. I felt seen and heard and understood in a way never before."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-002241-60",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 269,
+            "end": 272
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-007",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy committed to completing 8 body doubles on RenaFi for business paperwork",
+        "quoted_text": "I'm just going to commit to eight body doubles on RenaFi"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-008",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy shared her new approach includes nature, rest, dogs, eating healthy, walking in the woods, reflecting, social life, and hobbies",
+        "quoted_text": "it feels doable because I know it includes nature, rest, dogs, eating healthy, walking in the woods, reflecting, hanging out with you guys, having more social life, having a hobby"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001851-54",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 245,
+            "end": 248
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-010",
+      "type": "speaker_reacted",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug reacted strongly to Julie's phrase 'the me creeps back in'",
+        "quoted_text": "Well, the me creeps Back in. Wow! I felt that. Oh, my gosh. I've never said those words out like that, but oh, yeah.",
+        "related_speakers": [
+          "Julie Dorshkind"
+        ]
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-001458-42",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 197,
+            "end": 200
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-013",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick said knowing what the problem is reduces anxiety compared to just knowing there is a problem",
+        "quoted_text": "Once you know what the problem is, it's less anxiety-producing than if you only just know there's a problem, but you don't know what it is exactly."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000403-14",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 85,
+            "end": 88
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-014",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy opened all her bills yesterday, hasn't paid any, but knows where they are",
+        "quoted_text": "I did open all of my bills yesterday. I haven't paid any, but I know where they are."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000326-11",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 73,
+            "end": 76
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-015",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy said the anxiety beforehand is always worse than the actual reality",
+        "quoted_text": "It's never as bad as the anxiety I have beforehand warrants, you know?"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000415-15",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 89,
+            "end": 92
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-016",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug proposed the concept of 'new starts' for discussion - resetting when things get chaotic",
+        "quoted_text": "how do you guys do new starts when it gets so chaotic that you declare bankruptcy on everything"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000819-35",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 169,
+            "end": 172
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-017",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug said our work should be our documentation, not requiring separate documentation after the fact",
+        "quoted_text": "Our work should be our documentation."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000819-35",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 169,
+            "end": 172
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-018",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug committed to piloting meeting summary service with David",
+        "quoted_text": "you and I can work as a just quick pilot to say, I'm gonna try it for you and kind of isolate it"
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000731-33",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 161,
+            "end": 164
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-019",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy expressed feeling energized by having the mastermind meetings as support",
+        "quoted_text": "knowing I have these meetings. feel like I'm just chugging along a little easier, I think, knowing just energetically you have the support of the M&Ms, masterminds."
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000256-9",
+          "relationship": "contains_quote",
+          "source_lines": {
+            "start": 65,
+            "end": 68
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-020",
+      "type": "attribution_given",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick credited Melissa for doing a lot of work including book clubs",
+        "quoted_text": "And credit work credit's due. Melissa has been doing a lot of stuff also. Not always visible, but all the book clubs, all those kind of things.",
+        "related_speakers": [
+          "Melissa Reskof"
+        ]
+      },
+      "evidence": [
+        {
+          "utterance_id": "utt-000147-3",
+          "relationship": "exact_quote",
+          "source_lines": {
+            "start": 41,
+            "end": 44
+          }
+        }
+      ],
+      "confidence": "verbatim"
+    }
+  ]
+}

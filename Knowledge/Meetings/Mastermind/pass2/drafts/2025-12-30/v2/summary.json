@@ -1,0 +1,152 @@
+{
+  "session_date": "2025-12-30",
+  "session_title": "DCM - MasterMind Pilot",
+  "duration_minutes": 94,
+  "fathom_url": "https://fathom.video/share/QHk27d_kexdKUwF6ECwir7m4HzRyArN1",
+
+  "attendees": [
+    {"name": "Doug Snyder", "email": "doug.s.snyder@gmail.com"},
+    {"name": "Rick Webster", "email": "rwebster@rena-fi.com"},
+    {"name": "Jasmine Mahmoud", "email": "jasmine.enetwork@gmail.com"},
+    {"name": "Lizzy Summers", "email": "elisabethcarr23@gmail.com"},
+    {"name": "Stara Shakti", "email": "starashaktilmft@gmail.com"},
+    {"name": "Julie Dorshkind", "email": "jdorshkind@yahoo.com"},
+    {"name": "David Ludwig", "email": "davidludwig7@gmail.com"},
+    {"name": "Melissa Reskof", "email": "melissa.reskof@gmail.com"},
+    {"name": "Gio", "email": "gilyrics@gmail.com", "arrived_late": true}
+  ],
+
+  "overview": "Our pilot session focused on introductions, sharing what's on our minds, and discovering common threads around productivity, nervous system regulation, and accountability. Jasmine's framework on interrupting rumination spirals sparked significant discussion and immediate application from the group.",
+
+  "topics_covered": [
+    "The 'New Start' concept - resetting vs unsustainable resolutions",
+    "Rick's Life Category Worksheet - analyzing time/energy allocation",
+    "Jasmine's Daily Success Question framework",
+    "Nervous system interventions vs productivity hacks",
+    "Body doubling and accountability structures",
+    "Strategies: quit before exhaustion, slower approach, reframe failures as learning"
+  ],
+
+  "member_checkins": [
+    {
+      "name": "David Ludwig",
+      "shared": "Experienced significant procrastination and distraction, linking it to lack of sleep.",
+      "challenge": "Getting started when energy is low",
+      "insight": null,
+      "commitment": "Start with small, manageable tasks (e.g., laundry) to build momentum"
+    },
+    {
+      "name": "Julie Dorshkind",
+      "shared": "Met the goal of working on resume daily, but stalled on applications.",
+      "challenge": "Frustration with using AI to extract outcome-based metrics from old documents",
+      "insight": "The group's accountability was a key motivator for the progress made",
+      "commitment": null
+    },
+    {
+      "name": "Lizzy Summers",
+      "shared": "Committing to 8 body doubles on RenaFi to tackle business paperwork.",
+      "challenge": "Anxiety about adhering to a fixed schedule - a skill not built from traditional career path",
+      "insight": "Shifting from neurotypical grind to a 'slow year' focused on systems and meaning-driven work",
+      "commitment": "Mix morning and afternoon sessions to desensitize to schedule anxiety"
+    },
+    {
+      "name": "Stara Shakti",
+      "shared": "Overwhelmed by family dynamics and a sick VA, leading to loss of focus and fear of visibility.",
+      "challenge": "Fear of being seen, sharing work publicly",
+      "insight": "Acknowledged strength in building relationships - pivoting to collaborative business model",
+      "commitment": "Prioritize self-care, set realistic goals based on daily capacity"
+    }
+  ],
+
+  "standout_moments": [
+    {
+      "title": "Framework: Interrupting Rumination Spirals",
+      "speaker": "Jasmine Mahmoud",
+      "time_range": "00:52:00 - 01:15:00",
+      "description": "Jasmine shared a framework she developed for breaking out of unproductive mental loops. The core problem: when we're stuck, we ask ourselves questions like 'How am I going to do this?' or 'What if it doesn't work?' - questions that keep us in a bad state.",
+      "the_framework": [
+        "Notice when you're in a rumination spiral (anxiety, paralysis, negative self-talk)",
+        "Recognize the unhelpful questions: 'How am I going to do this?' or 'What if it doesn't work?'",
+        "Replace with: 'What would make today successful?' or 'Given my capacity today, what does success look like?'",
+        "This isn't a productivity hack - it's a nervous system intervention"
+      ],
+      "framework_categories": [
+        {"name": "Maintain the Present", "description": "Home logistics, health basics"},
+        {"name": "Invest in the Future", "description": "Learning, long-term projects"},
+        {"name": "Restore & Regulate", "description": "Rest, movement, connection"}
+      ],
+      "key_quotes": [
+        "We don't need generic productivity hacks. We actually need nervous system interventions.",
+        "On the horizon, potentially countering culture of despair... that's what gets me excited."
+      ],
+      "group_response": [
+        {"speaker": "Julie Dorshkind", "reaction": "This is amazing. I've never heard a framework like that before."},
+        {"speaker": "Stara Shakti", "reaction": "This could be a TED talk."},
+        {"speaker": "Doug Snyder", "reaction": "Challenged Jasmine to use her own framework and report back."},
+        {"speaker": "Lizzy Summers", "reaction": "Immediately applied it: 'I'll figure out one thing I want to do today. Just one thing.'"}
+      ],
+      "ripple": "Julie noted the power of language: 'What would make today successful?' vs 'What do I need to get done?' creates completely different energy."
+    }
+  ],
+
+  "themes": [
+    {
+      "name": "Nervous System Over Productivity",
+      "description": "We don't need better productivity hacks - we need interventions that regulate our nervous system state first.",
+      "contributors": ["Jasmine Mahmoud", "Stara Shakti", "Lizzy Summers"]
+    },
+    {
+      "name": "The Power of Better Questions",
+      "description": "The specific words we use in self-inquiry change our state and outcomes. 'What would make today successful?' vs 'What do I need to get done?' creates completely different energy.",
+      "contributors": ["Jasmine Mahmoud", "Julie Dorshkind"]
+    }
+  ],
+
+  "commitments": [
+    {
+      "person": "Jasmine Mahmoud",
+      "action": "Use her own framework and report back",
+      "due": "next session",
+      "context": "Doug challenged her to apply what she's teaching"
+    },
+    {
+      "person": "Jasmine Mahmoud",
+      "action": "Share the Daily Success Question presentation with the group",
+      "due": "this week",
+      "context": null
+    },
+    {
+      "person": "Doug Snyder",
+      "action": "Pilot meeting summary service with David",
+      "due": null,
+      "context": null
+    },
+    {
+      "person": "Stara Shakti",
+      "action": "Meet with Melissa to discuss live enrollment parties for decolonizing therapy group",
+      "due": null,
+      "context": null
+    },
+    {
+      "person": "Lizzy Summers",
+      "action": "Complete 8 body doubles on RenaFi for business paperwork",
+      "due": "this week",
+      "context": "Mixing morning and afternoon sessions"
+    },
+    {
+      "person": "David Ludwig",
+      "action": "Start with small manageable tasks to build momentum",
+      "due": "today",
+      "context": "Breaking procrastination cycle"
+    }
+  ],
+
+  "announcements": [],
+
+
+  "_meta": {
+    "version": 1,
+    "created_at": "2026-01-10T22:15:00.000Z",
+    "status": "draft"
+  }
+}

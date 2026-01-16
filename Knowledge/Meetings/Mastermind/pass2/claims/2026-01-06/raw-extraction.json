@@ -1,0 +1,3397 @@
+{
+  "session_date": "2026-01-06",
+  "transcript_path": "/Users/DSnyder/Personal_AI_Infrastructure/Knowledge/Meetings/Mastermind/raw/2026-01-06/transcript.md",
+  "transcript_hash": "6048736fb4a2bb86cb0a7b60919ed6565364f2600748483b53ed1361d87c7c86",
+  "extracted_at": "2026-01-11T00:55:23.502Z",
+  "utterances": [
+    {
+      "id": "utt-000001-0",
+      "speaker": "Rick Webster",
+      "verbatim_text": "And all the note-takers.",
+      "source_lines": {
+        "start": 31,
+        "end": 34
+      },
+      "timestamp": "00:00:01",
+      "text_hash": "112a8092"
+    },
+    {
+      "id": "utt-000004-1",
+      "speaker": "Rishi Badlani",
+      "verbatim_text": "Okay.",
+      "source_lines": {
+        "start": 35,
+        "end": 38
+      },
+      "timestamp": "00:00:04",
+      "text_hash": "2342c971"
+    },
+    {
+      "id": "utt-000009-2",
+      "speaker": "Rick Webster",
+      "verbatim_text": "So I thought we'd just take the first five minutes just to see how everybody's doing, questions you have, or comments for us. We're basically halfway through at this point.",
+      "source_lines": {
+        "start": 39,
+        "end": 42
+      },
+      "timestamp": "00:00:09",
+      "timestamp_end": "00:00:19",
+      "text_hash": "8b521dd8"
+    },
+    {
+      "id": "utt-000025-3",
+      "speaker": "Gio",
+      "verbatim_text": "That was quick.",
+      "source_lines": {
+        "start": 43,
+        "end": 46
+      },
+      "timestamp": "00:00:25",
+      "text_hash": "27b6de4a"
+    },
+    {
+      "id": "utt-000026-4",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah. Well, it was only meant to be six or eight weeks. Yeah. Yeah. Did you work on any, or have you been working on any particular project? Maybe today you'll be able to get started with that.",
+      "source_lines": {
+        "start": 47,
+        "end": 50
+      },
+      "timestamp": "00:00:26",
+      "timestamp_end": "00:00:38",
+      "text_hash": "f074cce2"
+    },
+    {
+      "id": "utt-000042-5",
+      "speaker": "Gio",
+      "verbatim_text": "Yeah. Actually, I was glad that I had something to share that I actually had. The what lights me up. I went. um I had some really, a lot of fun anyway, in GarageBand, I don't know if I mentioned that, and I was working on some music, creating some music, and stayed up all night for a couple of nights in a row, and I was like, oh yeah, I really like this. But I'm not sure how to apply it. I'm mainly just, and I've done this before, I knew I was into it. I didn't realize how much, but it's more so for me, you know, making it. I wrote a song for my daughters, a song about being depressed. I'm working on something now, I can't remember, or maybe it is the Depressed song, but yeah, I'm like really into, yeah, putting like the puzzle pieces together to make up what I think is a good song, and stream of consciousness, injecting your life into the song, yeah, very cool.",
+      "source_lines": {
+        "start": 51,
+        "end": 54
+      },
+      "timestamp": "00:00:42",
+      "timestamp_end": "00:02:00",
+      "text_hash": "ce01dd0b"
+    },
+    {
+      "id": "utt-000229-6",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, who else, just looking for, in the first five minutes, we've got two minutes left, just thoughts about how things have been going in this group, and if there's something you think we should know about and do differently, or something that's working for you? Hello, Bernice, good to see you back. Let's see, I can just tell you have something to say.",
+      "source_lines": {
+        "start": 55,
+        "end": 58
+      },
+      "timestamp": "00:02:29",
+      "timestamp_end": "00:02:54",
+      "text_hash": "7c741743"
+    },
+    {
+      "id": "utt-000259-7",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Not right now in a little bit though, I'm just like racing to get here and my heart's still beating, and so I'll just settle down, but yeah, I'll share soon.",
+      "source_lines": {
+        "start": 59,
+        "end": 62
+      },
+      "timestamp": "00:02:59",
+      "text_hash": "3471f19c"
+    },
+    {
+      "id": "utt-000311-8",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I'm on the same page as you, before I was supposed to be here, but just one of those things, of course I can squeeze one more thing in. Rishi, I don't know how much you've been here, do you have a project you're working on?",
+      "source_lines": {
+        "start": 63,
+        "end": 66
+      },
+      "timestamp": "00:03:11",
+      "timestamp_end": "00:03:25",
+      "text_hash": "acb45016"
+    },
+    {
+      "id": "utt-000330-9",
+      "speaker": "Rishi Badlani",
+      "verbatim_text": "I mean, like I I don't have, I've been here consistently enough to comment, I remember the one time I did join, I was like, you know, it is, it is helpful, it's just, it's just different, because this starts when I'm like at four, and you know, I'm still working, so right now I'm even working, but I do believe it helps, the projects I've started on was just, honestly, the first step was just updating my resume. And I'm kind of honed in on the fact that, I just, you know, I'm just looking. I'm for a new a new job, and I don't want to keep the job parallel, because that I can do pretty easily. I'd rather, you know, try something, learn something, and then do something that's purposeful, I suppose. I guess that would be the word.",
+      "source_lines": {
+        "start": 67,
+        "end": 70
+      },
+      "timestamp": "00:03:30",
+      "timestamp_end": "00:04:18",
+      "text_hash": "d02fe8cc"
+    },
+    {
+      "id": "utt-000420-10",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Absolutely. And you're in the right crowd. I'd say, possibly everyone in this room is making some, you know, career changes, one sort or another. Doug?",
+      "source_lines": {
+        "start": 71,
+        "end": 74
+      },
+      "timestamp": "00:04:20",
+      "timestamp_end": "00:04:31",
+      "text_hash": "96140050"
+    },
+    {
+      "id": "utt-000433-11",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Yeah, I just want to celebrate that the hard thing that I had to do, which was my annual performance appraisal. I did get it done. It was two weeks late, but my boss was gone for those two weeks. So, yay, it's done. This time I... It was hard in a different way where I was trying to do it for myself for once, instead of this perfunctory, I got to do this, that some magic will happen that I'll be validated, kind of like, oh, what actually happened, what am I going to do next based on that, and that was a harder, different evolution, but yet more rewarding, and I found myself procrastinating, so kind of getting clear around what that's around. Some of it was, oh, I got to do this thing about myself. Part of it, it's a hard job to go back and do all this forensics because the disjointed saving of what happened, right? I didn't have a narrative that was updated over time to go, oh, this is what happened. So trying to figure that out. And I also think there was a lot of times where I was not in a safe space. Like, I was still activated from a bunch of other things to be able to be calm to actually look at it. So just noticing that part of my avoidance. So procrastination really was a signal that I wasn't taking care of myself. I needed to kind of finally relax and I could look at it and not be tapping into any fear stuff. Like, oh, I'd be looking at something and I should have done something better. So I tried to treat it as that instead of, oh, that thing that sucks again.",
+      "source_lines": {
+        "start": 75,
+        "end": 78
+      },
+      "timestamp": "00:04:33",
+      "timestamp_end": "00:06:15",
+      "text_hash": "f69dbb95"
+    },
+    {
+      "id": "utt-000621-12",
+      "speaker": "Rick Webster",
+      "verbatim_text": "And I learned some things and it was hard. Well, I can certainly identify with the two weeks late. It actually wasn't two weeks late. It was two weeks, two weeks beyond when you thought you would do it, but it was right on time because you did it when the boss came back. That was your, probably, you knew that was the real deadline. That's how it would have worked for me anyway. Yeah, Richard, go for it.",
+      "source_lines": {
+        "start": 79,
+        "end": 82
+      },
+      "timestamp": "00:06:21",
+      "timestamp_end": "00:06:41",
+      "text_hash": "d748998e"
+    },
+    {
+      "id": "utt-000643-13",
+      "speaker": "Rich Malsch",
+      "verbatim_text": "I have a kind of a question, just a discussion I've seen recently about performance reviews is that your boss already has an idea of what you're going to get. And if you're noting anything on your, on your review, if anything's a surprise, then it's going to get it. You Then that's going to count against you. And anybody beyond your direct manager is only going to just know what they, what you've been communicating out to them. So, you know, anything from your skip level on up is going to be somewhat oblivious to your individual contributions, unless you're standing out. So, are performance reviews, is really good in 2026 is what I would say.",
+      "source_lines": {
+        "start": 83,
+        "end": 86
+      },
+      "timestamp": "00:06:43",
+      "timestamp_end": "00:07:22",
+      "text_hash": "eb622d65"
+    },
+    {
+      "id": "utt-000734-14",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "So, I think that's a, that's a great, great question. And, and I think a couple things were kind of baked into. I'm glad you actually said this. I also said, who's this really for? Right. And before it was a performative, somehow I'll say something magic that will make up for that screw up that I'm still, you know, mad about versus that exact thing. Like what has my boss been saying? What is his real expectation? And how is this ammunition? is this ammunition? It's for him to continue championing me, and to be clear, I'm in a new to me but wonderful place where my boss is a giant champion and has done many things to help me slow down, focus, adjust my work schedule, and he's been telling me that I'm doing great, and in fact, he's upgraded me several times on my reviews to get top marks across the board, which that only sticks if C-levels approve, and they're very resistant to having people get top marks, so part of the pressure was honoring what he's been saying, so actually that was in there, and that was hard, because it's like, I don't feel like that, because I know all the sausage was made, and the failures, and I could have done better, instead of, he's positioning us, me and him, to do something next, and he's been saying this, this message, and I need We needed to factor through that way, too, which was uncomfortable writing. So, Richard, you really tapped into probably a key aspect that was different than the dread and performative part and that question of is it really necessary or is this connect with what has been saying? And I've been terrible with this kind of communication because I've been oblivious. So thanks for letting me share that, everybody. That was actually an important learning for me to tease out that I had not thought of before.",
+      "source_lines": {
+        "start": 87,
+        "end": 90
+      },
+      "timestamp": "00:07:34",
+      "timestamp_end": "00:09:21",
+      "text_hash": "a55377cd"
+    },
+    {
+      "id": "utt-000927-15",
+      "speaker": "Rich Malsch",
+      "verbatim_text": "So I would summarize that as saying you are clarifying what he's going to bring in into the stack ranking communication, because every company does it, regardless if they say they do or not. Microsoft famously said, we're not doing it anymore. And I'm going like, no, you're still doing it. doesn't matter. So you're basically presenting the language that your manager will bring to the other managers about your massively performative task. You've been doing and the achievements thing is that I've never been. I've stack ranks very well, so unfortunately, I don't want to point out any kind of mistakes I've ever had, even though my manager probably is happy to bring them up during stack ranks and up to my skip level on up and things like that. So it's been a different experience for me, but I can kind of see how it would be good for you. But, you know, once again, they'll always tell you, don't spend more than two hours on it, and that's all BS because you're going to spend weeks of worrying about it. But anyways, yeah, so I've never been in that position where I really have to, you know, really have to champion myself, except maybe on the resume, but I can kind of see how that would then, your time invested would be carefully, you know, would be valid to put into words, you know, on your resume, things like that, so that your manager can better express what you've done.",
+      "source_lines": {
+        "start": 91,
+        "end": 94
+      },
+      "timestamp": "00:09:27",
+      "timestamp_end": "00:10:25",
+      "text_hash": "48838e6e"
+    },
+    {
+      "id": "utt-001050-16",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, let's hop into phase two of this. Not behind schedule, but I want to keep right on the schedule. What I had in mind for today. One two people to make presentations about what they're working on, what their goal is, if they're trying to upgrade to a different job, or if they're trying to create, you know, a business of their own of some sort. Two presentations, kind of impromptu. Yeah, so, but before we do that, I want to speak maybe for 10 or 15 minutes about basically being good peer coaches for each other. Um, because I think that's a big concept here of a mastermind group is, we don't want to just be, you know, giving the, the advice of, if I were in your shoes, I would do such and such. We all know that doesn't work, because we're not in someone else's shoes, and we never will be. We might begin to empathize in some way, but we're never really going to know what there's going on for them. So, just want to be careful about that sort of thing. I, I like the idea that, uh, that Hallowell's where I first idea that it's a The Ferrari brain and the bicycle brakes. I think it's interesting. mean, like any metaphor, it has its limitations. But we are very creative and sometimes what, as a general, as a species, right, ADHD people are pretty creative. And so their ideas may not come out in a way that you think is going to work because they haven't had a chance to process it and get it all out there. it takes a while for that communication to happen. So we want to be careful not to, you know, decide something won't work. Just because, just that's all we knew, it wouldn't work. I want to, we want to be clear that, you know, being a peer coach is what I'm going to call this. It's not, you're not being a mechanic, right? You're not trying to fix a broken engine. And you're not a traffic cop, you know, punishing someone for whatever, running the stop sign or something. But I do think we can help people kind of recalculate where they're at and what they're doing and maybe, Provide some ideas that they can either take or leave, and they can massage those ideas later and figure it out. So I think one of the things I had in my notes here is to just presume competence, right? It's not your field. It might not even be their field yet, but they will figure it out. And so just presume that they know what they're talking about. And if you're not sure what they're talking about, ask more questions, right? Don't decide it won't work. It's amazing how many big ideas people have been told for years that their idea wouldn't work. So I think there's a certain skill to it. So we'll emphasize curiosity over interrogation. And I see you nodding, Star. There are people in the room that know more how to do this than I do. So I'll count on you guys to help guide us along. So I think, you know, we do struggle with some of these things, and we just want to be careful with them. Um, I've got a little bit more here, but questions on that, or thoughts on that process? That beginning, you know, don't be the traffic cop kind of thing?",
+      "source_lines": {
+        "start": 95,
+        "end": 98
+      },
+      "timestamp": "00:10:50",
+      "timestamp_end": "00:14:05",
+      "text_hash": "017cf016"
+    },
+    {
+      "id": "utt-001412-17",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Nope? I think it was great. Every word was just wonderful. I'm still trying to kiss my breath, my heart's really beating, but I'm going to have a presentation. I actually have something I could pull together pretty quickly.",
+      "source_lines": {
+        "start": 99,
+        "end": 102
+      },
+      "timestamp": "00:14:12",
+      "timestamp_end": "00:14:23",
+      "text_hash": "39de4321"
+    },
+    {
+      "id": "utt-001427-18",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay.",
+      "source_lines": {
+        "start": 103,
+        "end": 106
+      },
+      "timestamp": "00:14:27",
+      "text_hash": "2342c971"
+    },
+    {
+      "id": "utt-001429-19",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Okay. not right just now, whenever, just in a little bit.",
+      "source_lines": {
+        "start": 107,
+        "end": 110
+      },
+      "timestamp": "00:14:29",
+      "text_hash": "67efe51b"
+    },
+    {
+      "id": "utt-001433-20",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yep, yep. A little bit meaning today?",
+      "source_lines": {
+        "start": 111,
+        "end": 114
+      },
+      "timestamp": "00:14:33",
+      "text_hash": "0c80e7f8"
+    },
+    {
+      "id": "utt-001437-21",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Maybe seven or nine minutes, or...",
+      "source_lines": {
+        "start": 115,
+        "end": 118
+      },
+      "timestamp": "00:14:37",
+      "text_hash": "f21b0c24"
+    },
+    {
+      "id": "utt-001439-22",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Oh, yeah. No problem.",
+      "source_lines": {
+        "start": 119,
+        "end": 122
+      },
+      "timestamp": "00:14:39",
+      "timestamp_end": "00:14:40",
+      "text_hash": "119e7c70"
+    },
+    {
+      "id": "utt-001440-23",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "No problem. I'm still just slowing my heart rate. My husband's good and everything, but we went to a doctor. He is in heart failure. He's staying alive with seven medications, you know, or waiting for the ablation. So, you know, my heart, I just, I get it. I feel logically we're going to be okay. He's got that defibrillator, but... It's just calming down my nervous system.",
+      "source_lines": {
+        "start": 123,
+        "end": 126
+      },
+      "timestamp": "00:14:40",
+      "timestamp_end": "00:15:00",
+      "text_hash": "330c0c3d"
+    },
+    {
+      "id": "utt-001503-24",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Well, I'm glad you're here. Me too. does remind me of something that I kind of learned real early when I was just starting to kind of host Chad meeting, someone who kind of drafted me into it and say, yeah, I can do that. You just, especially in these kind of groups, you don't know what's behind someone's smile. People are struggling with things that, you know, that we haven't seen, that they prefer to keep unseen sometimes. And we just have to be aware that there's things going on beneath the surface that we might not know about. Again, so we're not the traffic cop and we're not saying, if I were in your shoes, because you have no idea what their shoes are like sometimes. Stara, a thought on that?",
+      "source_lines": {
+        "start": 127,
+        "end": 130
+      },
+      "timestamp": "00:15:03",
+      "timestamp_end": "00:15:45",
+      "text_hash": "fa1c8d16"
+    },
+    {
+      "id": "utt-001547-25",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah, absolutely. I didn't realize I was unmuted, sorry, if I made noise. But anyway, yeah, we all have trauma. I think some of us might have more than others. Yep. I think. We all come from different places. all come from different backgrounds. We all are different. We're a very diverse group, which is, I love that. So amazing. And yes, I think it's important to be sensitive to the fact that, yeah, some of us are struggling more than others, you know? And to just treat everyone with kindness and respect. And I really love what you said, Rick, about presuming competence. Even if it's not there right now, that person will get there, you know? And they do know what they're doing. We all do. We all know something about whatever it is that we do. So, yeah, I think sensitivity is really key, kindness and compassion.",
+      "source_lines": {
+        "start": 131,
+        "end": 134
+      },
+      "timestamp": "00:15:47",
+      "timestamp_end": "00:16:43",
+      "text_hash": "54759f5c"
+    },
+    {
+      "id": "utt-001649-26",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "I remember some of the beautiful words. mean, I'm literally almost hyperventilating, but I'm almost catching my breath. But it was just that, that, to have comedy. . I have to have confidence in ourselves too, I think that's so important, I think, I tell myself, there's no way I can handle this, I mean, I have to move, I have to find a house, I mean, I'm telling myself, while you were talking, okay, I'm confident, there is a part of me that's going to know, I'm always divinely guided, or I have the next answer, even if I don't know where I'm going to be, or what's going to happen in two months, or you know, you right now, just got to know, some days, I just have to breathe, and just Yep. Get through the day, or like, today, so I can do anything, but go through different breath patterns, is, um, that's when I can build things, build a canvas, or, you know, put a ground down, or, you know, physical stuff, so, and this, wow, segue into my pitch is, Another thing, I love to do are these panels, because I love big art, and the dream, well, how this came about was after Stephen's first cardiac arrest in Bay, he was so sensitive to the light, and we have this, a huge wall of windows, so I made these out of just the...",
+      "source_lines": {
+        "start": 135,
+        "end": 138
+      },
+      "timestamp": "00:16:49",
+      "timestamp_end": "00:18:00",
+      "text_hash": "d3a2ca2f"
+    },
+    {
+      "id": "utt-001818-27",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Lizzy, let's get to that soon, right, because I want to get through a few more. I think what, this is all, this is why we call it a pilot group, right, we're figuring out how to do this. I think there's going to be like a mini coaching lesson on how to be a coach, actually, which is kind of funny, because two of my clients actually plan on being coaches, that's why they engaged me to figure out how to do it, which I think is a little odd, because I'm not even sure how to do it myself, but the idea is we need to become good peer coaches for each other, and there are certain landmines that we want to avoid stepping on, and you might even be aware of them until you're there, right? So we want to kind of make those kind of visible. скажут hingek� much. Bye. And then there's certain ways to say things like, you know, in my notes here, says, not such a good question as, did you try setting an alarm? You know, that's kind of dismissive. That implies that they didn't try or they're stupid or something, right? So it might be better to say, you know, what kind of environment do you need to get into flow? You know, what hurdle is stopping you? What's getting in your way? Things that will help them process. I like to avoid anything that can be answered with a yes or a no. So just, I like to have something where I can ask a fairly short question and then just like winding up, let them talk, let them process whatever it is that they need. That's not hard and fast. mean, some questions are yes or no, but basically, mostly I like deeper questions than that. So one concept here is everybody in this room is a relatively high functioning adult with ADHD, right? There are people that They're struggling with whole lot harder than what we're dealing with, at least on the ADHD level, on this other background things we may have in our lives, but we've also heard over the course of our lifetimes about being lazy and irresponsible and forgetful and, you know, all these character-assassinating kind of things, so keep in mind that people can be a little triggery because we've been there, we don't like being taken back to our, you know, sixth-grade self in some sense, so, so, and I think another piece here, I'm going to wrap this up in just a minute so we stay on time, kind of separating the person from the system, kind of reframe it, you know, you don't really say, I failed because I'm disorganized. I mean, someone might say that in a way, but we want to move that to the system you're using is failing, right, and it's not working for you, so how might we be able to rethink that system or redesign it in some way? And even Even if it's a really painful thing, usually it's not throw the whole thing out, you know, don't throw the baby out with the bathwater, right? Usually there's some fixes to what it is. So, you know, we don't want to ask people like the you questions that, you know, you need to be more self-disciplined or, you know, things like that. I think we're all aware of that. So I have more here, but I think that's good enough for now. Any, like, one minute's worth of questions on that? Somebody have a comment? ADHD grip is quiet. ADHD Well, I've seen that all the time. All right. So I did have in mind listening to two and maybe three. Doug, how long do you think a presentation should be? Let's divide it into two pieces. The presentation for what the person wants to do and the period of time when we have a discussion about it. And then it keeps... In their mind, there's, you know, 11 people in room besides us.",
+      "source_lines": {
+        "start": 139,
+        "end": 142
+      },
+      "timestamp": "00:18:18",
+      "timestamp_end": "00:22:00",
+      "text_hash": "352816b5"
+    },
+    {
+      "id": "utt-002205-28",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Okay, so I think it's a great question. And really, what would our goals be out of this? part of it would be, oh, I'd like to share this thing, and this is what I need from you guys. Or this is what I would like to get out of it. And it's okay just to say that I want to say it out loud just so I can make it real for me. So you as an audience, to be witness, it's perfectly fine. You don't have to say, oh, I need this and this from you. But if you have, I need, I'm still sorting it out. I have specific things that I want some feedback. try to identify that. So if we say, maybe for one person, half the time for sharing and half the time for us to ask questions. Questions that they want some inquiry around or suggest patterns that we see instead of, oh, I know. We the answer here because we probably don't, but it's practices that thing. So maybe half and half. So if we have two blocks and we only want 30 minutes, then, you know, 15 each and then seven half each. Or if we want to extend it out, looking at the time, we got an hour or so. Spitball in here. Let's say 20 minutes per person and, you know, half explaining, half for us reacting and being in inquiry with that with her. And that gets us 40 minutes and then time to wrap up. How's that sound?",
+      "source_lines": {
+        "start": 143,
+        "end": 146
+      },
+      "timestamp": "00:22:05",
+      "timestamp_end": "00:23:30",
+      "text_hash": "b23901ea"
+    },
+    {
+      "id": "utt-002333-29",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I'd modify it just a little bit, but I'm open to whatever.",
+      "source_lines": {
+        "start": 147,
+        "end": 150
+      },
+      "timestamp": "00:23:33",
+      "text_hash": "5d3ac552"
+    },
+    {
+      "id": "utt-002336-30",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "No, go ahead. Go. You asked me that. I put it out there.",
+      "source_lines": {
+        "start": 151,
+        "end": 154
+      },
+      "timestamp": "00:23:36",
+      "timestamp_end": "00:23:37",
+      "text_hash": "9b598537"
+    },
+    {
+      "id": "utt-002338-31",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Five minutes of that presentation. And then, you know, 10 minutes or so of, you know, this back and forth and, you know, brainstorming the thing. And then the last five minutes of that present time being, okay, here's what I've heard you say. Here are some things I think I might want to implement. So they still get their 10, but it shouldn't take more than five. They're a half. Thank If your idea takes more than five minutes to express, you know, you might have to think about it more, right? We might want to consolidate that down into something, just an idea. Yep.",
+      "source_lines": {
+        "start": 155,
+        "end": 158
+      },
+      "timestamp": "00:23:38",
+      "timestamp_end": "00:24:12",
+      "text_hash": "052a10d2"
+    },
+    {
+      "id": "utt-002413-32",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I like that addition, Rick, that modification.",
+      "source_lines": {
+        "start": 159,
+        "end": 162
+      },
+      "timestamp": "00:24:13",
+      "text_hash": "a2556e59"
+    },
+    {
+      "id": "utt-002418-33",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah. And it's still 40 minutes. Time is going to be really tough. Not only are with ADHD, we're not very good at time in the first place, but also we haven't done this before. We don't know how the things are going to go. So Lizzy wants to make a presentation. Who else would like to start? Okay. And Jasmine. Somebody might have to go tomorrow. time is it? We have an hour. Well, actually, we jumped in right now. We could do that. Okay. So we're going to start with Lizzy. She's ready to go. And then Stara and then Jasmine. If we have the 20 minutes at the end of this, we will. And if not, you'll do it tomorrow. Actually, that was presumptuous. Are you available tomorrow? That's a yes?",
+      "source_lines": {
+        "start": 163,
+        "end": 166
+      },
+      "timestamp": "00:24:18",
+      "timestamp_end": "00:25:03",
+      "text_hash": "1dd793e0"
+    },
+    {
+      "id": "utt-002504-34",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Yeah, sure, I'll do it tomorrow.",
+      "source_lines": {
+        "start": 167,
+        "end": 170
+      },
+      "timestamp": "00:25:04",
+      "text_hash": "1fc25fef"
+    },
+    {
+      "id": "utt-002505-35",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Sorry, I was muted. Okay, okay. I didn't want to put you off to tomorrow if you had something that was going to be in way. Okay, so, Lizzy, you're on the clock. What's five minutes of what you're trying to accomplish?",
+      "source_lines": {
+        "start": 171,
+        "end": 174
+      },
+      "timestamp": "00:25:05",
+      "timestamp_end": "00:25:13",
+      "text_hash": "76932d99"
+    },
+    {
+      "id": "utt-002516-36",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Okay. Okay, so I'm at this impasse. This happens over and over and over. It's my groundhog nightmare. I'm doing computer work, building the online store. I can't do that work because my brain's in a schism. I do physical work. So I love these big panels. So I Every product I have, every step I get, there's a thousand other steps I need to do. The goal when I reviewed the goal for this mastermind is to have an income at the end of it. We're halfway through. It's like more and more and more. And I keep going back to the thing, have a thousand true fans. They give you a hundred dollars. You got a hundred thousand dollars. If you reverse it, if I come up with a product that's a thousand dollars, dollars. So I A hundred times, you got a good income. When Steven has his cardiac arrest, he can see the light. I made these really cool, big abstract art paintings that are just really awesome for background, but also, they're window coverings. You can put them on window coverings, and they're insulating. They black out a room. You can also divide rooms with them, which I love, which if I can share my screen, I can show you. Anyway, I don't need to share now. Do I jump ship? This is the other channel in my brain. It's like there's this thing, because I remember when I did that interview with you, was in the cargo trailer at the farmhouse doing art and selling out of the car, which I still have that cargo trailer out of the farmhouse, but then I start working on and on my business trying to make a product, and it's everything. And then there's life drama. But Anyway, I got four weeks, I wanted to make $2,000, I've got freaking products out the wazoo, I should be able to do it, I could either go and stand on a street corner and sell this one for $1,000, I was going to turn these into a book for $7, make your own room, there's so many things, oh if I share my screen now, that's it, that's my pitch, so do I keep plugging along on this freaking accessory thing, which I love, the comfort nest pack, because I love the comfort I love to have, when I travel, I need all my stuff, everything that has its place, you know, and this can fit in there, in here, I love these big pillowcases that you can actually put clothes in, and when you're on an airplane, you only get one carry on, but you can bring a pillow, and you can put your clothes in here, that",
+      "source_lines": {
+        "start": 175,
+        "end": 178
+      },
+      "timestamp": "00:25:16",
+      "timestamp_end": "00:27:00",
+      "text_hash": "cfd00c03"
+    },
+    {
+      "id": "utt-002800-37",
+      "speaker": "Rick Webster",
+      "verbatim_text": "And you have a pillow, then you have your blankets, which I love. the challenge how to market these things?",
+      "source_lines": {
+        "start": 179,
+        "end": 182
+      },
+      "timestamp": "00:28:00",
+      "timestamp_end": "00:28:04",
+      "text_hash": "88abb251"
+    },
+    {
+      "id": "utt-002807-38",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Anyway, I'm on Etsy, everything, when I look at that, you have to do all the description, and you have to do this, and this is like my 400th groundhog day, this is my fifth Etsy store, my 500th product, and I look at those steps again, and I go into that mental skill. And because it's like, oh my God, you know, when am I going to go, like, forward, and when am I going to make some freaking money, when I got, you know, so the next four weeks, where do you think that my priority or my times should be that are activities for money, that are not too nervous system-packing, because also, I'm dealing with a husband and heart failure, And I have to move across states in March and pack up the house, so something that can make money fast, least output, least amount of nervous system stress. So that's why I went back to thinking about these, because of all the tag words, window coverings, and I could sell them between 9 and 12 for the big windows or half, I don't know.",
+      "source_lines": {
+        "start": 183,
+        "end": 186
+      },
+      "timestamp": "00:28:07",
+      "timestamp_end": "00:29:14",
+      "text_hash": "fd41acf7"
+    },
+    {
+      "id": "utt-002927-39",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, so let's get some input, but before that, I just want people to understand the scale or scope. Walk back to that picture in the back with the steer, because people look at that and they say, ah, it's just another, you know, 2 by 3 foot painting. That's the size of a person.",
+      "source_lines": {
+        "start": 187,
+        "end": 190
+      },
+      "timestamp": "00:29:27",
+      "timestamp_end": "00:29:42",
+      "text_hash": "d92a38ae"
+    },
+    {
+      "id": "utt-002945-40",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Oh, my God. Can you give us the dimensions?",
+      "source_lines": {
+        "start": 191,
+        "end": 194
+      },
+      "timestamp": "00:29:45",
+      "timestamp_end": "00:29:46",
+      "text_hash": "f3513be9"
+    },
+    {
+      "id": "utt-002948-41",
+      "speaker": "Rick Webster",
+      "verbatim_text": "That is amazing. Seven feet by four.",
+      "source_lines": {
+        "start": 195,
+        "end": 198
+      },
+      "timestamp": "00:29:48",
+      "timestamp_end": "00:29:49",
+      "text_hash": "5d1179cf"
+    },
+    {
+      "id": "utt-002956-42",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "You're muted, Lizzie.",
+      "source_lines": {
+        "start": 199,
+        "end": 202
+      },
+      "timestamp": "00:29:56",
+      "text_hash": "c80e63a9"
+    },
+    {
+      "id": "utt-002957-43",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Seven foot by four foot, and that's oil. I'm on verse, these, and that takes months, these, I can whip something out, like I just textured one, painted it in a day, and it's working with my nervous system, if I can't, if I'm not mentally right, it's something I can do, my body can do this activity, you know, so I don't know if I should jump ship and go into that, okay.",
+      "source_lines": {
+        "start": 203,
+        "end": 206
+      },
+      "timestamp": "00:29:57",
+      "timestamp_end": "00:30:00",
+      "text_hash": "ab648d6a"
+    },
+    {
+      "id": "utt-003026-44",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, yeah, let's get some, and let's, if we can all, you know, do like 20 second comments each, and try to go around the room as much as we can, and Doug's got his hand up, and then Stara.",
+      "source_lines": {
+        "start": 207,
+        "end": 210
+      },
+      "timestamp": "00:30:26",
+      "text_hash": "6f333856"
+    },
+    {
+      "id": "utt-003038-45",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Just a quick question, so the question is, do you pivot to that, as a first, okay, and, and so a couple questions I would have myself is, compare, are you, is, is painting on the board for the other stuff, a different size? Next question for you, or is it a different craft?",
+      "source_lines": {
+        "start": 211,
+        "end": 214
+      },
+      "timestamp": "00:30:38",
+      "timestamp_end": "00:30:53",
+      "text_hash": "be127cd8"
+    },
+    {
+      "id": "utt-003059-46",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "On the other side of the.",
+      "source_lines": {
+        "start": 215,
+        "end": 218
+      },
+      "timestamp": "00:30:59",
+      "text_hash": "d6bdcdaa"
+    },
+    {
+      "id": "utt-003100-47",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "No, yeah, no, I mean, is, is big painting or is it smaller paintings or something completely different?",
+      "source_lines": {
+        "start": 219,
+        "end": 222
+      },
+      "timestamp": "00:31:00",
+      "text_hash": "de768a2c"
+    },
+    {
+      "id": "utt-003107-48",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Oh, well, that's another thing. I have all the originals, but if I can make prints with them, I get a higher price point. Like for a print, you get a couple hundred dollars, you know, profit rather than the accessories. You get literally like, you know, four to twenty dollars. Okay.",
+      "source_lines": {
+        "start": 223,
+        "end": 226
+      },
+      "timestamp": "00:31:07",
+      "timestamp_end": "00:31:26",
+      "text_hash": "dad222b4"
+    },
+    {
+      "id": "utt-003126-49",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "All So the, so the, the question I would have as a purchaser, assuming that I love the art and everything. So they say, hey, it's awesome. I wish I could have that. I don't know how to get something like that, that big and where to put it. It's a pretty big thing. And I'm, I'm not sure why I would put that in my house. So I might not be the right customer because of my living condition. So, uh, I'm just wondering is the format and also the, um, subject, are there specific specific people that it would suit, um, better and how would you talk to them?",
+      "source_lines": {
+        "start": 227,
+        "end": 230
+      },
+      "timestamp": "00:31:26",
+      "timestamp_end": "00:31:47",
+      "text_hash": "57014972"
+    },
+    {
+      "id": "utt-003159-50",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "And that's. That's the side, that's the back end, yeah, yeah, yeah, and that's probably, I've sold the most prints of that, I've sold the Gazelle prints, I think once I get a comfort pack that has the Longhorn on it, I think that one's going to sell off the racks, because that's been the print, I've done some prints, but you have to test them, you have to buy them, you have to see how they print, there's so many steps.",
+      "source_lines": {
+        "start": 231,
+        "end": 234
+      },
+      "timestamp": "00:31:59",
+      "timestamp_end": "00:32:00",
+      "text_hash": "93139c89"
+    },
+    {
+      "id": "utt-003227-51",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, so Stara, what do you think, and then not two.",
+      "source_lines": {
+        "start": 235,
+        "end": 238
+      },
+      "timestamp": "00:32:27",
+      "text_hash": "ef73dd85"
+    },
+    {
+      "id": "utt-003236-52",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Lizzy, your artwork is amazing. It's, I mean, it's really amazing. The first thing I think that I would suggest is to, maybe before you start figuring out what you're going to do, to like, actually work with your nervous system first. your paperwork And because the reason I say that is because I'm like you, I get very overwhelmed when there are lots of steps, there's lots of ideas, there's lots of projects, there's lots of steps, and I'm like, oh my God, I don't even know where to begin, and then shut down. Can't do anything, right? Overwhelmed. Working with your nervous system first, before you start thinking about how you're going to, and planning how you're going to be getting your artwork out there and all of that kind of stuff that may help. And also for me, breaking things down, like maybe prioritizing a few projects versus all of the projects, like maybe the ones that will like bring you, you think will bring you the most money or who's been in the most interest with people or, and then breaking it down into steps and maybe just focusing on, you know, like only a few steps at a time. And even for me, that's really helped me to like ground my nervous system and to actually take action.",
+      "source_lines": {
+        "start": 239,
+        "end": 242
+      },
+      "timestamp": "00:32:36",
+      "timestamp_end": "00:33:53",
+      "text_hash": "92aefd72"
+    },
+    {
+      "id": "utt-003400-53",
+      "speaker": "Rick Webster",
+      "verbatim_text": "And not just be in overwhelm, and yeah, so, that's it. I think that's great, and so will you keep asking questions? Lizzy probably has the answers in her own head.",
+      "source_lines": {
+        "start": 243,
+        "end": 246
+      },
+      "timestamp": "00:34:00",
+      "timestamp_end": "00:34:10",
+      "text_hash": "3219d735"
+    },
+    {
+      "id": "utt-003412-54",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Will you just keep asking? Yeah, yeah, well, that was good, but yeah, right now it's not art. I'm playing the game with myself. My challenge is I'm gonna go out and make money in the next eight weeks. I've been hitting that freaking Etsy store regularly for four weeks. Take it. I haven't told anybody about it or sent out an email or done a post or any of that. So, because really, I'm still, the product, really, I thought I had the product, but it's not nailed down. I'm still waiting on samples. Like, the first sample order I got got stuck in China. Or wherever. I didn't even get any of them. And so, now I just had to put another sample in, and you have You do samples, I spend a lot on samples, but you have to do that, so I'm thinking, what is a product I can make and sell that's not like, oh, is this fine art, do I like this? No, it's like something that's functional, that divides your room if you need to keep your toddler or your pet in, you cover your windowsill if you need it dark, you know, you make a little playpen in front of the couch, you know, open concept was big, now it's trending effectively, I here, I I there's so many people at home, your house is so loud, you know, to have a little quiet division, that's what me and Stephen do, sometimes I close off that whole upper area, and anyway, so, yeah, you can just do one sales page, see if it bites, sell it first, make it, make it a thousand bucks in a week, that'd be, you know, tell them it takes three weeks, they're custom made, sold out, then I have an income, and then I'm doing Something that kind of settles, on, see what's going on. Hey, baby, I'm in my mastermind.",
+      "source_lines": {
+        "start": 247,
+        "end": 250
+      },
+      "timestamp": "00:34:12",
+      "timestamp_end": "00:36:04",
+      "text_hash": "71a2c13e"
+    },
+    {
+      "id": "utt-003606-55",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, so let's move to Raghu. 20, 30 seconds, and if we can ask Lizzy questions, that might elicit more depth. So Raghu, do you have a question for Lizzy?",
+      "source_lines": {
+        "start": 251,
+        "end": 254
+      },
+      "timestamp": "00:36:06",
+      "timestamp_end": "00:36:17",
+      "text_hash": "ed8c0b12"
+    },
+    {
+      "id": "utt-003621-56",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Yeah, I do. So what I'm kind of trying to understand here is the core problem here, and I heard a few things, so I would like to clarify. One is, is selling on Etsy a challenge because there's a lot of, like, you have to create a lot of marketing content in terms of you put a product, but then there's always a lot of catalog content that you need to create, which is a challenge here. Um, or, the- The second question that I have is, you think you have, I mean, you have a product, like an artwork and then a back, but you do not know whether the users are going to, like, who are the users? Are you looking for users who would need this?",
+      "source_lines": {
+        "start": 255,
+        "end": 258
+      },
+      "timestamp": "00:36:21",
+      "timestamp_end": "00:37:20",
+      "text_hash": "aab7c1d9"
+    },
+    {
+      "id": "utt-003726-57",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Because... Okay, so you don't have to explain why you asked her, let's just let her answer. Right.",
+      "source_lines": {
+        "start": 259,
+        "end": 262
+      },
+      "timestamp": "00:37:26",
+      "timestamp_end": "00:37:31",
+      "text_hash": "5eebde79"
+    },
+    {
+      "id": "utt-003731-58",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Yes, I think, I think they would freaking sell for window coverings, blackout insulated window coverings, that are also art, you know, you can take it off the window. We did it in our master bedroom, I love it, it's a niche. I know, I can name five people right now that need blackout curtains, because they go to work at 11pm, and they sleep during the day. But then it's so multifunctional, I made a, I enclosed our... There's porch in the back, because we get the wind from the north back there. So I made some myself. And now, because I have this inventor mind, I was thinking you could put magnets on the edges, and they're kind of like Lego panels for adults. You could like make your own little spaces or... Right, right.",
+      "source_lines": {
+        "start": 263,
+        "end": 266
+      },
+      "timestamp": "00:37:31",
+      "timestamp_end": "00:38:17",
+      "text_hash": "6c171601"
+    },
+    {
+      "id": "utt-003818-59",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "So if I may ask, so I think, not that I'm interrupting, but I think what I'm trying to kind of get to it is, you, I mean, the work is amazing. And I clearly see that you are, like, you're really in love with the product. The question, I think the key question here is, are there people out there, and do you know that there are people out there who are ready to buy this for, say, $100? Or say nine, like, I'm just making up a number, $49, $100? I mean, have you, like, it's sort of coming back to, how do I put it, like, it's kind of market research or user research, whether are there people out there who will buy the product? Have you sent any sort of a feeler or some sort of survey?",
+      "source_lines": {
+        "start": 267,
+        "end": 270
+      },
+      "timestamp": "00:38:18",
+      "timestamp_end": "00:39:21",
+      "text_hash": "22b751b5"
+    },
+    {
+      "id": "utt-003925-60",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Let's let him answer. Let's What do I think?",
+      "source_lines": {
+        "start": 271,
+        "end": 274
+      },
+      "timestamp": "00:39:25",
+      "timestamp_end": "00:39:29",
+      "text_hash": "599d8d22"
+    },
+    {
+      "id": "utt-003930-61",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "Oh, no, and that's exactly what I require, and that art, like, I think I am such a fast thinker and creator, and I think of products, and I keep a book, and I can make the prototype pretty quick, but then it's like writing about it, I have some kind of language thing, you know, and writing, and, you know, I can do it, and I'm a very very good emotional writer, but there's going to be a lot of gaps. keep moving. And I'm going share justifts. what, And anyway, so the description, when I go to write the description of the products in my Etsy store, it, I get, anyway, yeah, it's the cataloging, the naming, the logging, the, yeah.",
+      "source_lines": {
+        "start": 275,
+        "end": 278
+      },
+      "timestamp": "00:39:30",
+      "timestamp_end": "00:40:01",
+      "text_hash": "066b41cc"
+    },
+    {
+      "id": "utt-004014-62",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, so we're to have to move a little bit, but Lizzy, I point out that Stara's got a pretty good question in the chat. Maybe you want to respond to that in chat, because we need to move on if we're going to get everybody in. But this has been great, and hopefully you've come away with some thoughts and ideas that might move this forward a little bit for you. And we'll go at this again, this is not the only time we'll do it. Stara, you're up.",
+      "source_lines": {
+        "start": 279,
+        "end": 282
+      },
+      "timestamp": "00:40:14",
+      "timestamp_end": "00:40:37",
+      "text_hash": "352d3981"
+    },
+    {
+      "id": "utt-004046-63",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Okay. Excuse me, one second. Sorry, I just followed. love Okay, sorry about that. Okay, so as you all know, I'm kind of moving from 10 years of doing trauma therapy into my spiritual business, Shakti Fire Rising. I just met with my business coach before this, and I'm in meeting with her every two weeks, and she's helping me stay focused on organized. So I have a lot of different projects I'm working on, but the main one right now that seems to be most promising for bringing in income is the decolonizing therapy book discussion coaching group, a 12-week program that I'm creating based off of the book, so therapists can read it, of book. started You And because it's about decolonizing, a lot of things come up, so I will also be providing a framework around it, like I will be helping them with doing some somatic trauma release work and like clearing, you know, it's a lot of anger, lot of rage and things that will come up. So, um, close the shot. Okay. Distracting. Um, so she suggested that I, so she said I said just focus on this for the next, um, three weeks on enrollment, uh, enrolling for this program. I have one person so far who has said yes, that she wants to do it. My VA is working on, um, the Eventbrite page, which is very confusing. There's so many steps. And anyway, it's overwhelming, but she's working on And then, um, um, She suggested I make some videos, too, like, about it, like, sharing my passion for it and why I'm doing it and why we should do it anyway and, like, what people will get out of it and all of that. So, yeah, she was suggesting I should do that, like, anyway, like, some Facebook Rails and a YouTube, longer YouTube video. And so I have some to-do items from that meeting. I am also going to be on Melissa's podcast on Sunday, so you all should watch it. Hopefully, I don't know if Melissa has a link or if she can drop her or anything, but please check it out on Conversations with Melissa. Melissa. I am excited about that. And so that's That's a little win.",
+      "source_lines": {
+        "start": 283,
+        "end": 286
+      },
+      "timestamp": "00:40:46",
+      "timestamp_end": "00:44:00",
+      "text_hash": "098ff358"
+    },
+    {
+      "id": "utt-004401-64",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Do you have a question for us? Maybe one specific aspect of this that is refuddling?",
+      "source_lines": {
+        "start": 287,
+        "end": 290
+      },
+      "timestamp": "00:44:01",
+      "timestamp_end": "00:44:03",
+      "text_hash": "2877c015"
+    },
+    {
+      "id": "utt-004407-65",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah, yeah, yeah, yeah. Well, I think my question is around staying organized, and especially staying organized with follow-up and follow-through items. Like, I have individual people, like, who I know will be Fath people who would be interested. Like, so, but I don't know how to, like, I put these things on a to-do list, and sometimes I do them, sometimes I don't. But, like, I don't know how to, like, I just don't know how to organize myself. Like, all the things, the steps and the different things I need to do. Um, so...",
+      "source_lines": {
+        "start": 291,
+        "end": 294
+      },
+      "timestamp": "00:44:07",
+      "timestamp_end": "00:44:58",
+      "text_hash": "924d277d"
+    },
+    {
+      "id": "utt-004500-66",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, let's see what the, let's see what everybody's got to say.",
+      "source_lines": {
+        "start": 295,
+        "end": 298
+      },
+      "timestamp": "00:45:00",
+      "text_hash": "4a59f91b"
+    },
+    {
+      "id": "utt-004505-67",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah, I also have this goddess channel song circle that I'm also going to be working on kind of at the same time, but this is like the main thing that I think will bring most money, because it'll be like, it's 333 for a 12-week coaching program, and people can have, there's a payment plan, people can pay. Anyway, good. Okay. Okay. yeah. Organization.",
+      "source_lines": {
+        "start": 299,
+        "end": 302
+      },
+      "timestamp": "00:45:05",
+      "timestamp_end": "00:45:30",
+      "text_hash": "b3fce3c8"
+    },
+    {
+      "id": "utt-004532-68",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I don't, I just don't even know where to put all this stuff.",
+      "source_lines": {
+        "start": 303,
+        "end": 306
+      },
+      "timestamp": "00:45:32",
+      "text_hash": "cf294242"
+    },
+    {
+      "id": "utt-004536-69",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Organization peak of the, that's the top question right now. I think so.",
+      "source_lines": {
+        "start": 307,
+        "end": 310
+      },
+      "timestamp": "00:45:36",
+      "timestamp_end": "00:45:39",
+      "text_hash": "be56e9d0"
+    },
+    {
+      "id": "utt-004539-70",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 311,
+        "end": 314
+      },
+      "timestamp": "00:45:39",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-004540-71",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Thank you.",
+      "source_lines": {
+        "start": 315,
+        "end": 318
+      },
+      "timestamp": "00:45:40",
+      "text_hash": "2d439011"
+    },
+    {
+      "id": "utt-004541-72",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. Who's got some suggestions? Everybody in this room is challenged with organization, I suspect, but who's got some ideas?",
+      "source_lines": {
+        "start": 319,
+        "end": 322
+      },
+      "timestamp": "00:45:41",
+      "timestamp_end": "00:45:45",
+      "text_hash": "a5c0d46c"
+    },
+    {
+      "id": "utt-004549-73",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I know, I asked a hard one.",
+      "source_lines": {
+        "start": 323,
+        "end": 326
+      },
+      "timestamp": "00:45:49",
+      "text_hash": "b0c82e7a"
+    },
+    {
+      "id": "utt-004551-74",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Sorry. Chill, go for it.",
+      "source_lines": {
+        "start": 327,
+        "end": 330
+      },
+      "timestamp": "00:45:51",
+      "timestamp_end": "00:45:55",
+      "text_hash": "bced4da8"
+    },
+    {
+      "id": "utt-004559-75",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Bye, Gia. we had a nice talk, too.",
+      "source_lines": {
+        "start": 331,
+        "end": 334
+      },
+      "timestamp": "00:45:59",
+      "timestamp_end": "00:46:00",
+      "text_hash": "d71fe5a3"
+    },
+    {
+      "id": "utt-004604-76",
+      "speaker": "Gio",
+      "verbatim_text": "And this was kind of something, yeah, that I wanted to ask Lizzy as well, like, is it possible to just, you know, narrow your focus to one thing, just manage one thing, one product, one project, and kind of just flesh that out. And, um, one that lights you up the most, one that simplifies the whole, you know, process, um, yeah, the one that lights you up the most, and maybe takes the least amount of, you know, your brain power, what, what is, what is that? Which product, what do you think?",
+      "source_lines": {
+        "start": 335,
+        "end": 338
+      },
+      "timestamp": "00:46:04",
+      "timestamp_end": "00:46:52",
+      "text_hash": "558e1a87"
+    },
+    {
+      "id": "utt-004654-77",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Well, like the, my coach suggests, my business coach suggested, just focusing on enrollment for this. guys everybody. And of for You know, Decolonizing Therapy Book Discussion Coaching Group for Therapists. That's really what should be my main focus for the next few weeks until it starts on January 26th.",
+      "source_lines": {
+        "start": 339,
+        "end": 342
+      },
+      "timestamp": "00:46:54",
+      "timestamp_end": "00:47:05",
+      "text_hash": "5f2de96f"
+    },
+    {
+      "id": "utt-004713-78",
+      "speaker": "Gio",
+      "verbatim_text": "And do you, is a routine hard for you? Like, do you have a routine?",
+      "source_lines": {
+        "start": 343,
+        "end": 346
+      },
+      "timestamp": "00:47:13",
+      "timestamp_end": "00:47:17",
+      "text_hash": "9abd244e"
+    },
+    {
+      "id": "utt-004720-79",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yes. I'm still trying to create a daily plan for myself. Part of the problem is I have clients and there are different times and it throws everything off. My schedule's not the same every day, but so, yes, routine is very hard. That's part of the problem. I don't even have blocks of time for anything in my calendars. So I, I just, yeah.",
+      "source_lines": {
+        "start": 347,
+        "end": 350
+      },
+      "timestamp": "00:47:20",
+      "timestamp_end": "00:47:43",
+      "text_hash": "c10ed4ee"
+    },
+    {
+      "id": "utt-004744-80",
+      "speaker": "Gio",
+      "verbatim_text": "I was, well, I was thinking, can you add that, make that a thing when you have your coffee or bedtime, like something that you, I don't know, you know, like before I go to bed, have to read. You know, like, attach it to something, like habit-building kind of.",
+      "source_lines": {
+        "start": 351,
+        "end": 354
+      },
+      "timestamp": "00:47:44",
+      "timestamp_end": "00:48:01",
+      "text_hash": "3cd0cd29"
+    },
+    {
+      "id": "utt-004809-81",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Oh, oh, oh, oh, yeah.",
+      "source_lines": {
+        "start": 355,
+        "end": 358
+      },
+      "timestamp": "00:48:09",
+      "text_hash": "23601b10"
+    },
+    {
+      "id": "utt-004811-82",
+      "speaker": "Gio",
+      "verbatim_text": "All right.",
+      "source_lines": {
+        "start": 359,
+        "end": 362
+      },
+      "timestamp": "00:48:11",
+      "text_hash": "222f227e"
+    },
+    {
+      "id": "utt-004811-83",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I get that. Thank you.",
+      "source_lines": {
+        "start": 363,
+        "end": 366
+      },
+      "timestamp": "00:48:11",
+      "timestamp_end": "00:48:13",
+      "text_hash": "033d5b6b"
+    },
+    {
+      "id": "utt-004814-84",
+      "speaker": "Gio",
+      "verbatim_text": "Yeah, no, I was just wondering if that speaks to you.",
+      "source_lines": {
+        "start": 367,
+        "end": 370
+      },
+      "timestamp": "00:48:14",
+      "text_hash": "4271386c"
+    },
+    {
+      "id": "utt-004823-85",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah, it's hard, though.",
+      "source_lines": {
+        "start": 371,
+        "end": 374
+      },
+      "timestamp": "00:48:23",
+      "text_hash": "3ce91e0f"
+    },
+    {
+      "id": "utt-004826-86",
+      "speaker": "Gio",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 375,
+        "end": 378
+      },
+      "timestamp": "00:48:26",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-004828-87",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Organizing is definitely a challenge. Yeah, thank you. Habit-stacking is a good situation. Anybody else? Like, I'm really curious if there's anybody, other people have suggestions.",
+      "source_lines": {
+        "start": 379,
+        "end": 382
+      },
+      "timestamp": "00:48:28",
+      "timestamp_end": "00:48:35",
+      "text_hash": "74eece8c"
+    },
+    {
+      "id": "utt-004843-88",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yep. Raghu, go for it. 20, 30 seconds and then let her answer.",
+      "source_lines": {
+        "start": 383,
+        "end": 386
+      },
+      "timestamp": "00:48:43",
+      "timestamp_end": "00:48:45",
+      "text_hash": "f301fb80"
+    },
+    {
+      "id": "utt-004846-89",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Yeah. So, again, I'll start with a couple of questions and then maybe we would be able to give you more pointed, like, recommendation. So, you mentioned a couple of things. So, just to... I'll the biggest focus area should be enrollment, like finding more people to join.",
+      "source_lines": {
+        "start": 387,
+        "end": 390
+      },
+      "timestamp": "00:48:46",
+      "timestamp_end": "00:49:00",
+      "text_hash": "b9356765"
+    },
+    {
+      "id": "utt-004911-90",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Is that correct? Yes.",
+      "source_lines": {
+        "start": 391,
+        "end": 394
+      },
+      "timestamp": "00:49:11",
+      "timestamp_end": "00:49:12",
+      "text_hash": "d5d8d63d"
+    },
+    {
+      "id": "utt-004913-91",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Okay, got it. So what do you need for that?",
+      "source_lines": {
+        "start": 395,
+        "end": 398
+      },
+      "timestamp": "00:49:13",
+      "timestamp_end": "00:49:14",
+      "text_hash": "0ddc36b0"
+    },
+    {
+      "id": "utt-004919-92",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Marketing. Make videos, put it out there, reach out to individual people.",
+      "source_lines": {
+        "start": 399,
+        "end": 402
+      },
+      "timestamp": "00:49:19",
+      "timestamp_end": "00:49:22",
+      "text_hash": "26d3adb5"
+    },
+    {
+      "id": "utt-004925-93",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "I mean, I have like a whole to-do list, so.",
+      "source_lines": {
+        "start": 403,
+        "end": 406
+      },
+      "timestamp": "00:49:25",
+      "text_hash": "23ead51a"
+    },
+    {
+      "id": "utt-004927-94",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Okay, so you've got a whole to-do list, and then you... That's not really my question. Sorry, my question is about how to organize all the things on my to-do list. know the things I need to do.",
+      "source_lines": {
+        "start": 407,
+        "end": 410
+      },
+      "timestamp": "00:49:27",
+      "timestamp_end": "00:49:36",
+      "text_hash": "c6514529"
+    },
+    {
+      "id": "utt-004937-95",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Yeah. yeah, yeah. What I was trying to get there is, you've delegated to a few of them. Now, to organize that, is prioritization the biggest issue? Like which one to do? you. When, or is it which one to pick up out of those 10 things?",
+      "source_lines": {
+        "start": 411,
+        "end": 414
+      },
+      "timestamp": "00:49:37",
+      "timestamp_end": "00:50:00",
+      "text_hash": "fb7f9143"
+    },
+    {
+      "id": "utt-005009-96",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I don't know. That's a good question. I have to think about that more.",
+      "source_lines": {
+        "start": 415,
+        "end": 418
+      },
+      "timestamp": "00:50:09",
+      "timestamp_end": "00:50:10",
+      "text_hash": "fa7fea1a"
+    },
+    {
+      "id": "utt-005013-97",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Yeah, and the rationale for asking that is, I know, for ADHD, as we all know, is our energy is the biggest problem. So maybe you're trying to pick up a task after a very deep, therapy session, which, you know, usually, like, I can't speak, you know it better than me, where it's usually very draining. So picking up an admin task after that.",
+      "source_lines": {
+        "start": 419,
+        "end": 422
+      },
+      "timestamp": "00:50:13",
+      "timestamp_end": "00:50:38",
+      "text_hash": "19686d18"
+    },
+    {
+      "id": "utt-005041-98",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Let's go to the next. Yeah, I don't do it after therapy. Thank you, though.",
+      "source_lines": {
+        "start": 423,
+        "end": 426
+      },
+      "timestamp": "00:50:41",
+      "timestamp_end": "00:50:44",
+      "text_hash": "4eab0048"
+    },
+    {
+      "id": "utt-005045-99",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Let's go to the next question. And I just want to, it just occurred to me, let's try to ask questions, not give advice. If you have advice, maybe it might be really good, but let's put that in the chat. Yeah, sounds good. I have to use up the spoken time for that. So yeah, mainly questions about, so Destiny, go for it. Glad you're here.",
+      "source_lines": {
+        "start": 427,
+        "end": 430
+      },
+      "timestamp": "00:50:45",
+      "timestamp_end": "00:51:04",
+      "text_hash": "08512d5c"
+    },
+    {
+      "id": "utt-005105-100",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "Hi, everyone. Stara, what organizational tools are you currently using?",
+      "source_lines": {
+        "start": 431,
+        "end": 434
+      },
+      "timestamp": "00:51:05",
+      "timestamp_end": "00:51:07",
+      "text_hash": "4e8f500e"
+    },
+    {
+      "id": "utt-005111-101",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Great question. Uh, none? I don't know what you mean by organizational tools. What examples?",
+      "source_lines": {
+        "start": 435,
+        "end": 438
+      },
+      "timestamp": "00:51:11",
+      "timestamp_end": "00:51:18",
+      "text_hash": "9f4746ba"
+    },
+    {
+      "id": "utt-005121-102",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "Examples could be calendars.",
+      "source_lines": {
+        "start": 439,
+        "end": 442
+      },
+      "timestamp": "00:51:21",
+      "text_hash": "03313f35"
+    },
+    {
+      "id": "utt-005123-103",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Oh, oh, oh, yeah. Yeah, I use my Google Calendar, but I have a paper planner, too. And I usually end up doing both. I just got it, like, a few days ago, so I need to start using my paper planner. That's actually where I need to start, probably.",
+      "source_lines": {
+        "start": 443,
+        "end": 446
+      },
+      "timestamp": "00:51:23",
+      "timestamp_end": "00:51:33",
+      "text_hash": "fbdb2590"
+    },
+    {
+      "id": "utt-005137-104",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "Is it working?",
+      "source_lines": {
+        "start": 447,
+        "end": 450
+      },
+      "timestamp": "00:51:37",
+      "text_hash": "0c9bf986"
+    },
+    {
+      "id": "utt-005139-105",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I have to start using it. Yeah. Okay, so you have It's a new planner for this year. So yeah, I have to start using that. But I don't know what other organizational tools there are.",
+      "source_lines": {
+        "start": 451,
+        "end": 454
+      },
+      "timestamp": "00:51:39",
+      "timestamp_end": "00:51:47",
+      "text_hash": "6b39ade4"
+    },
+    {
+      "id": "utt-005150-106",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "I will start with the planner.",
+      "source_lines": {
+        "start": 455,
+        "end": 458
+      },
+      "timestamp": "00:51:50",
+      "text_hash": "5fdaf30d"
+    },
+    {
+      "id": "utt-005153-107",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah. Thank you.",
+      "source_lines": {
+        "start": 459,
+        "end": 462
+      },
+      "timestamp": "00:51:53",
+      "timestamp_end": "00:51:54",
+      "text_hash": "62a0a856"
+    },
+    {
+      "id": "utt-005158-108",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I couldn't help but put the It's loading, but ADHD brain, it's just a little slide deck I put together, what you're describing is slide number two, when it shows up, it's probably not loaded in yet. Anyway, any other questions for Stara?",
+      "source_lines": {
+        "start": 463,
+        "end": 466
+      },
+      "timestamp": "00:51:58",
+      "timestamp_end": "00:52:12",
+      "text_hash": "0aadef37"
+    },
+    {
+      "id": "utt-005215-109",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I'm sorry, were you trying to share? I shared something, it took a while to load because it was kind Oh, I see it now.",
+      "source_lines": {
+        "start": 467,
+        "end": 470
+      },
+      "timestamp": "00:52:15",
+      "timestamp_end": "00:52:18",
+      "text_hash": "90b73fd3"
+    },
+    {
+      "id": "utt-005221-110",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay, thank you. And if you go to the second slide, neurotypicals, you know, one, two, three, four, us, not quite that way. Yeah.",
+      "source_lines": {
+        "start": 471,
+        "end": 474
+      },
+      "timestamp": "00:52:21",
+      "timestamp_end": "00:52:29",
+      "text_hash": "e8b708c1"
+    },
+    {
+      "id": "utt-005230-111",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Tara, is there anything that you could be doing to reduce the friction?",
+      "source_lines": {
+        "start": 475,
+        "end": 478
+      },
+      "timestamp": "00:52:30",
+      "text_hash": "e398ff3e"
+    },
+    {
+      "id": "utt-005237-112",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "What is the friction?",
+      "source_lines": {
+        "start": 479,
+        "end": 482
+      },
+      "timestamp": "00:52:37",
+      "text_hash": "11fda11a"
+    },
+    {
+      "id": "utt-005239-113",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "So sometimes task initiation involves you having to overcome like a certain kind of activation energy. Yeah. So...",
+      "source_lines": {
+        "start": 483,
+        "end": 486
+      },
+      "timestamp": "00:52:39",
+      "timestamp_end": "00:52:47",
+      "text_hash": "2281a5a9"
+    },
+    {
+      "id": "utt-005248-114",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "That's a good question. Coercine can help.",
+      "source_lines": {
+        "start": 487,
+        "end": 490
+      },
+      "timestamp": "00:52:48",
+      "timestamp_end": "00:52:50",
+      "text_hash": "8f184e65"
+    },
+    {
+      "id": "utt-005254-115",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Was there more to that, Jasmine?",
+      "source_lines": {
+        "start": 491,
+        "end": 494
+      },
+      "timestamp": "00:52:54",
+      "text_hash": "deba4d65"
+    },
+    {
+      "id": "utt-005256-116",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Oh, no, I just didn't hear what she said, sorry.",
+      "source_lines": {
+        "start": 495,
+        "end": 498
+      },
+      "timestamp": "00:52:56",
+      "text_hash": "a3d57984"
+    },
+    {
+      "id": "utt-005258-117",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Oh, co-working can help.",
+      "source_lines": {
+        "start": 499,
+        "end": 502
+      },
+      "timestamp": "00:52:58",
+      "text_hash": "3aa5aaef"
+    },
+    {
+      "id": "utt-005300-118",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Oh, co-working can help.",
+      "source_lines": {
+        "start": 503,
+        "end": 506
+      },
+      "timestamp": "00:53:00",
+      "text_hash": "3aa5aaef"
+    },
+    {
+      "id": "utt-005301-119",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah, I need to put the Renify co-working sessions on my calendar. So, yeah, this is my problem with urbanization. I've got to put it in there in order to do it.",
+      "source_lines": {
+        "start": 507,
+        "end": 510
+      },
+      "timestamp": "00:53:01",
+      "timestamp_end": "00:53:11",
+      "text_hash": "cafac0ff"
+    },
+    {
+      "id": "utt-005314-120",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I find co-working really helps.",
+      "source_lines": {
+        "start": 511,
+        "end": 514
+      },
+      "timestamp": "00:53:14",
+      "text_hash": "93b5bc39"
+    },
+    {
+      "id": "utt-005316-121",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "That's a great question, though. I don't know if you had any other ideas.",
+      "source_lines": {
+        "start": 515,
+        "end": 518
+      },
+      "timestamp": "00:53:16",
+      "timestamp_end": "00:53:17",
+      "text_hash": "8bfb63f5"
+    },
+    {
+      "id": "utt-005319-122",
+      "speaker": "Rick Webster",
+      "verbatim_text": "It just dawned on me today, actually. The reason we need co-working now, these body double sessions, is because we no longer go to the office. We no longer do these things. We're, you know. yeah.",
+      "source_lines": {
+        "start": 519,
+        "end": 522
+      },
+      "timestamp": "00:53:19",
+      "timestamp_end": "00:53:30",
+      "text_hash": "47f331ba"
+    },
+    {
+      "id": "utt-005332-123",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Other people around. Yeah, that helps.",
+      "source_lines": {
+        "start": 523,
+        "end": 526
+      },
+      "timestamp": "00:53:32",
+      "timestamp_end": "00:53:33",
+      "text_hash": "50b363a1"
+    },
+    {
+      "id": "utt-005334-124",
+      "speaker": "Rick Webster",
+      "verbatim_text": "We need social. Okay, got time for another question or two? Okay, and so, Stara, what did you get? Any takeaways at all from this? What are you going to give some thought to and maybe take action on?",
+      "source_lines": {
+        "start": 527,
+        "end": 530
+      },
+      "timestamp": "00:53:34",
+      "timestamp_end": "00:53:49",
+      "text_hash": "837f7aeb"
+    },
+    {
+      "id": "utt-005355-125",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Well, I need to start using my planner. I think that's the big. That's thing, because I'm the kind of person where I, if put things in my Google Calendar, like, I already have so much in there with, like, client sessions and then meetings and things like this, and, you know, it's like, there's just so much in there already, so I feel like I need to, like, write things down in my planner, like, plan ahead, you know, for the next day, but also for the week, and, like, when am I going to do different things? Like, um, so I think, like, think part of getting organized for me is, um, um, I have to keep my desk kind of organized, like, into things and put things in folders, which I'm in the process of doing, I have to start using my planner, um, and I need to put the co-working, the Renify co-working sessions in my calendar, um, I need to time block, I just, I, that's really, yeah, I mean, I, I just need need to be doing these things, and I think the more I go to, it comes to this, but also go to the coworking sessions, I have time to actually, these are the things I need to be doing, so let me do it, you know, because it's hard to do it online, is it okay? Yeah, all the emotions, emotional stuff comes up, you know? So, I think that's it, yeah.",
+      "source_lines": {
+        "start": 531,
+        "end": 534
+      },
+      "timestamp": "00:53:55",
+      "timestamp_end": "00:55:20",
+      "text_hash": "46fc62ea"
+    },
+    {
+      "id": "utt-005525-126",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. And you know better than most of us, being a therapist, it's the emotions that drive it all, right? That's the horse power behind it.",
+      "source_lines": {
+        "start": 535,
+        "end": 538
+      },
+      "timestamp": "00:55:25",
+      "timestamp_end": "00:55:31",
+      "text_hash": "0c3af36e"
+    },
+    {
+      "id": "utt-005533-127",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah. Yeah. I know, and I know, just like if I came to Lucy, same thing I need to do myself, just, you know, do some, you know, some grounding and some breath work and stuff before I sit down to do things, so I'm in a converse space, you know?",
+      "source_lines": {
+        "start": 539,
+        "end": 542
+      },
+      "timestamp": "00:55:33",
+      "timestamp_end": "00:55:34",
+      "text_hash": "dfb1a3c6"
+    },
+    {
+      "id": "utt-005551-128",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. Actually, one of the things I learned a long time ago in the chat groups that I was working with is, I learned as much as anybody else in those meetings. You didn't have to be the one directly involved. Aw, Thank You can listen and say, oh my gosh, I'm struggling with that same thing, and I'm doing the same thing, it's not working for them, that's why it's not working for me, and yeah, we learn from each other.",
+      "source_lines": {
+        "start": 543,
+        "end": 546
+      },
+      "timestamp": "00:55:51",
+      "timestamp_end": "00:56:00",
+      "text_hash": "3b62e6ca"
+    },
+    {
+      "id": "utt-005609-129",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Destiny? Thank you, everyone.",
+      "source_lines": {
+        "start": 547,
+        "end": 550
+      },
+      "timestamp": "00:56:09",
+      "timestamp_end": "00:56:10",
+      "text_hash": "a5b67ba2"
+    },
+    {
+      "id": "utt-005611-130",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "Yeah, I just wanted to say one last thing to start, and I wonder, I saw you with the paper calendar that opens and closes, and us with ADHD, we don't have object permanence, so if you don't even know it's there, so if you have a calendar on your wall, and if that might help you, one that you can look at all the time, time, it's there. You don't even have to remember to open the book, the paper planner.",
+      "source_lines": {
+        "start": 551,
+        "end": 554
+      },
+      "timestamp": "00:56:11",
+      "timestamp_end": "00:56:34",
+      "text_hash": "a673e8d2"
+    },
+    {
+      "id": "utt-005638-131",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "right about, you're right about the object permanence thing, and I forgot the term for that, so thank you for reminding me. And I think what I need to do is, because I need a planner, I need to have it open on my desk at all times, that's what I need to do. I know it, I know it, you're right, and thank you for reminding me about that. I've forgotten about that. Like, I don't need to close it. I need to keep it open, and part of the problem in the past with calendars is I've closed them, so that's a big aha for me. Thank you. I need to hear that, actually.",
+      "source_lines": {
+        "start": 555,
+        "end": 558
+      },
+      "timestamp": "00:56:38",
+      "timestamp_end": "00:57:10",
+      "text_hash": "5eb369cf"
+    },
+    {
+      "id": "utt-005711-132",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Keep it open. That's good. Lizzy, you've got a couple minutes, a minute and a half.",
+      "source_lines": {
+        "start": 559,
+        "end": 562
+      },
+      "timestamp": "00:57:11",
+      "timestamp_end": "00:57:14",
+      "text_hash": "358f7047"
+    },
+    {
+      "id": "utt-005718-133",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "I was going to say just about the external kind of pivot, but we don't have reminders, so like you can have, oh, I wonder, have you ever thought about using these little noise things you can get for pets? To support yourself. I love you. I love you.",
+      "source_lines": {
+        "start": 563,
+        "end": 566
+      },
+      "timestamp": "00:57:18",
+      "timestamp_end": "00:57:33",
+      "text_hash": "afd06395"
+    },
+    {
+      "id": "utt-005734-134",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I love you. I Are you kidding me? Yeah.",
+      "source_lines": {
+        "start": 567,
+        "end": 570
+      },
+      "timestamp": "00:57:34",
+      "timestamp_end": "00:57:37",
+      "text_hash": "f2404dfc"
+    },
+    {
+      "id": "utt-005738-135",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Oh, yeah.",
+      "source_lines": {
+        "start": 571,
+        "end": 574
+      },
+      "timestamp": "00:57:38",
+      "text_hash": "874bd402"
+    },
+    {
+      "id": "utt-005739-136",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "What did you say? What did you say?",
+      "source_lines": {
+        "start": 575,
+        "end": 578
+      },
+      "timestamp": "00:57:39",
+      "timestamp_end": "00:57:41",
+      "text_hash": "933e0ebc"
+    },
+    {
+      "id": "utt-005742-137",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Oh, that was easy.",
+      "source_lines": {
+        "start": 579,
+        "end": 582
+      },
+      "timestamp": "00:57:42",
+      "text_hash": "d17e5f67"
+    },
+    {
+      "id": "utt-005744-138",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "It's a staples easy button.",
+      "source_lines": {
+        "start": 583,
+        "end": 586
+      },
+      "timestamp": "00:57:44",
+      "text_hash": "9375d66f"
+    },
+    {
+      "id": "utt-005745-139",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Oh, okay.",
+      "source_lines": {
+        "start": 587,
+        "end": 590
+      },
+      "timestamp": "00:57:45",
+      "text_hash": "b9114fc3"
+    },
+    {
+      "id": "utt-005746-140",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "You can program your own message. Oh. Remind me what I need to do in the morning. That's cool. That's That's thing.",
+      "source_lines": {
+        "start": 591,
+        "end": 594
+      },
+      "timestamp": "00:57:46",
+      "timestamp_end": "00:57:53",
+      "text_hash": "bae2e116"
+    },
+    {
+      "id": "utt-005755-141",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I didn't know.",
+      "source_lines": {
+        "start": 595,
+        "end": 598
+      },
+      "timestamp": "00:57:55",
+      "text_hash": "106d31cc"
+    },
+    {
+      "id": "utt-005756-142",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "You can record anything on these. Oh, that's cool. Yeah. free. If or something, just push one of your own buttons. Love it. Have you ever tried that?",
+      "source_lines": {
+        "start": 599,
+        "end": 602
+      },
+      "timestamp": "00:57:56",
+      "timestamp_end": "00:58:04",
+      "text_hash": "a0c50a6a"
+    },
+    {
+      "id": "utt-005806-143",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "No, haven't.",
+      "source_lines": {
+        "start": 603,
+        "end": 606
+      },
+      "timestamp": "00:58:06",
+      "text_hash": "a510bea4"
+    },
+    {
+      "id": "utt-005806-144",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "But thank you.",
+      "source_lines": {
+        "start": 607,
+        "end": 610
+      },
+      "timestamp": "00:58:06",
+      "text_hash": "dbf7b902"
+    },
+    {
+      "id": "utt-005807-145",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "That's a good suggestion. Good idea. Thank you, everyone. Appreciate the support.",
+      "source_lines": {
+        "start": 611,
+        "end": 614
+      },
+      "timestamp": "00:58:07",
+      "timestamp_end": "00:58:14",
+      "text_hash": "1debf682"
+    },
+    {
+      "id": "utt-005820-146",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Mine isn't a push button, but I have a little round button about that size. It's a coaster, actually. And it just says to it on it. And, you know, some lecturer a long time ago said, okay, here's your round to it. You always say you're going to get around to it. Here's your round to it. I thought it was pretty good.",
+      "source_lines": {
+        "start": 615,
+        "end": 618
+      },
+      "timestamp": "00:58:20",
+      "timestamp_end": "00:58:34",
+      "text_hash": "c930b0c0"
+    },
+    {
+      "id": "utt-005835-147",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Okay.",
+      "source_lines": {
+        "start": 619,
+        "end": 622
+      },
+      "timestamp": "00:58:35",
+      "text_hash": "2342c971"
+    },
+    {
+      "id": "utt-005836-148",
+      "speaker": "Rick Webster",
+      "verbatim_text": "40-year-old piece of equipment. Yeah. Yeah. All right. So you got some takeaways there. Jasmine, are you ready? You got like 20 minutes. Perfect. We actually stayed on time.",
+      "source_lines": {
+        "start": 623,
+        "end": 626
+      },
+      "timestamp": "00:58:36",
+      "timestamp_end": "00:58:49",
+      "text_hash": "1b067dd0"
+    },
+    {
+      "id": "utt-005851-149",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Yeah. I'm ready.",
+      "source_lines": {
+        "start": 627,
+        "end": 630
+      },
+      "timestamp": "00:58:51",
+      "timestamp_end": "00:58:52",
+      "text_hash": "db3b2f57"
+    },
+    {
+      "id": "utt-005853-150",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yep.",
+      "source_lines": {
+        "start": 631,
+        "end": 634
+      },
+      "timestamp": "00:58:53",
+      "text_hash": "e1341e7a"
+    },
+    {
+      "id": "utt-005854-151",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Okay. Okay. So what did I do the past week? I made... I posted one video, and I got, like, 4,000 views, which apparently is not that bad, on TikTok, and so what I wanted to present to you guys today, because on TikTok, it's, the feedback that I get is not a little bit, it's not so straightforward. Like, I assume, right, that there's a certain percentage that maybe watch it and then move on, and then there's another percentage that maybe watch it and then say, well, this really resonates with me, and then they, like, like, And then there's another subgroup that was, like, wow, this really struck a nerve. I'm gonna leave a comment, right? And so comments are, the comments are mostly good, but I don't know why it's, like, we have this negativity bias. Sometimes you focus on the one comment that was bad. So the one comment that I got was bad was, um, so what do you want us to do now, Professor? Like, this is all great information that you're giving us. But anyway. But If it's okay with the group, I'd like to do something similar to what I did last week, which is I'd like to pitch what it is my idea is for, you know, an upcoming book, if you guys are okay.",
+      "source_lines": {
+        "start": 635,
+        "end": 638
+      },
+      "timestamp": "00:58:54",
+      "timestamp_end": "01:00:00",
+      "text_hash": "536d44a5"
+    },
+    {
+      "id": "utt-010010-152",
+      "speaker": "Rick Webster",
+      "verbatim_text": "for it. Yeah.",
+      "source_lines": {
+        "start": 639,
+        "end": 642
+      },
+      "timestamp": "01:00:10",
+      "timestamp_end": "01:00:11",
+      "text_hash": "8de61dab"
+    },
+    {
+      "id": "utt-010015-153",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Okay. So I don't know why, but even like, I think Ricky was saying this, like, masking has kind of been coming up a lot lately. And so I decided that I was going to pick that as my topic.",
+      "source_lines": {
+        "start": 643,
+        "end": 646
+      },
+      "timestamp": "01:00:15",
+      "timestamp_end": "01:00:28",
+      "text_hash": "e33ff31f"
+    },
+    {
+      "id": "utt-010032-154",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Can everybody see my screen? Yes.",
+      "source_lines": {
+        "start": 647,
+        "end": 650
+      },
+      "timestamp": "01:00:32",
+      "timestamp_end": "01:00:34",
+      "text_hash": "1295e701"
+    },
+    {
+      "id": "utt-010034-155",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Okay. And I just want to, I just want to credit this presentation to Dr. Amen. He's the one that kind of set the creativity bomb off and I'll explain why in a second. So I was, oh, and for those of you who are not familiar with Dr. Amen, he's like, I think a psychiatrist of over 40 years. He's considered to be one of the most foremost leading, one of the world's leading experts on ADHD. He was actually able to differentiate several. different types of ADHD, like via brain scan, so I don't know if you guys are familiar with him or not.",
+      "source_lines": {
+        "start": 651,
+        "end": 654
+      },
+      "timestamp": "01:00:34",
+      "timestamp_end": "01:01:00",
+      "text_hash": "bfb339a8"
+    },
+    {
+      "id": "utt-010105-156",
+      "speaker": "Rick Webster",
+      "verbatim_text": "And refresh your screen, because at least mine says loading.",
+      "source_lines": {
+        "start": 655,
+        "end": 658
+      },
+      "timestamp": "01:01:05",
+      "text_hash": "724f94aa"
+    },
+    {
+      "id": "utt-010108-157",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Okay, screen is in pot.",
+      "source_lines": {
+        "start": 659,
+        "end": 662
+      },
+      "timestamp": "01:01:08",
+      "text_hash": "c6e3f9ad"
+    },
+    {
+      "id": "utt-010115-158",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Unless that's just on my end.",
+      "source_lines": {
+        "start": 663,
+        "end": 666
+      },
+      "timestamp": "01:01:15",
+      "text_hash": "f99813cd"
+    },
+    {
+      "id": "utt-010119-159",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "No, mine says loading too.",
+      "source_lines": {
+        "start": 667,
+        "end": 670
+      },
+      "timestamp": "01:01:19",
+      "text_hash": "1f74b9db"
+    },
+    {
+      "id": "utt-010122-160",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Can you guys see now?",
+      "source_lines": {
+        "start": 671,
+        "end": 674
+      },
+      "timestamp": "01:01:22",
+      "text_hash": "1512483b"
+    },
+    {
+      "id": "utt-010123-161",
+      "speaker": "Destiny Owens",
+      "verbatim_text": "Yes.",
+      "source_lines": {
+        "start": 675,
+        "end": 678
+      },
+      "timestamp": "01:01:23",
+      "text_hash": "b127099c"
+    },
+    {
+      "id": "utt-010125-162",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Okay. So, oh wait. Is this the first slide? Okay, so the invisible cost of fitting in, the truth about masking, and it's by me. I'm Emmy nominated for outstanding performance in any social situation. Ask anybody. So, next slide. So, in Dr. Amen's video, he was basically talking about what is the best case use for SSRIs. And he went on to say that serotonin helps you if you're worried, if you're rigid, if you're inflexible. It's if things don't go your way, you get upset, and so I don't know why, but I really just started to think about that word worry, and I was like, worry, I mean, like, I worry all the time, right, I worry about whether or not I'll be misunderstood, right, and to me, there's no point in worrying about it, because it kind of is going to happen a lot anyway, and sometimes I even think that worrying is a great thing, like worrying makes me, like when I was working as a nurse in the hospital, worrying made me worry about quality, right, when I was interacting with people, I worry about integrity, I worry about expressing myself clearly and thoroughly, I worry just about everything, right, and so I don't know that worry in and of itself is pathological, because I think it starts off as conscientiousness, and then eventually it crosses over into this line where it becomes pathological worry, so then I begin to wonder, like, like, where exactly Exactly is that line. And so healthy worry, that's conscientiousness, right? I think it points to a value, right? Quality, integrity, clarity. It produces a tangible next step, and then it lets go because you've done what's controllable versus pathological worry doesn't reliably produce an action or action doesn't reduce it. It keeps running after the reasonable steps are taken, and it feels compulsory, like you're trying to buy certainty with thoughts. And we kind of know, like, it doesn't work that way. And so the parallel that I was able to draw from this emotion, which is worry to masking is, and was I masking because I was worried about being misunderstood? Okay. So then now that brings me to this question that we all have circling in our heads. I don't know how often, but do we, to mask or to unmask? So I think interestingly enough, people, you know, people assume, it's, it's, one or the other, right? So masking maybe feels safer in the moment, but it does actually require you to bundle all of your inner thoughts and emotions, right, into a jar, and then you toss it into the closet with, you toss it into the closet, it gets tossed along with all of the skeletons in your closet, right, which is namely all your other ADHD quirks, and so even during the interaction, you feel as though you're carrying this illegal contraband, right, like that's the weight of the guilt you feel. So that's option number one. So Option number two, you don't mask, and you risk being rejected or misunderstood. So on the surface, it looks like a zero-sum game, but I actually think that there's a third option that maybe people haven't considered, which is, let's say you unmask, and you risk being rejected or misunderstood. I think, and I was telling Rick this yesterday, I think there's always this option for clarity and repair because you can't can't really control the misunderstanding, but you can still try to influence the outcome even after the misunderstanding has occurred. And so, any MBAs in the room by chance? Show of hands. Zero-sum game. We just basically assume like it's all or nothing, but I just don't know that that's true, right? I win or you lose. So, now I had to put this into a systems perspective. So, if you think of a thermostat, right, the goal is to keep the room temp at 70 degrees, but reality is sometimes the temperature fluctuates, right? And so, the system's response to that is that heat turns on to correct the error, right? It doesn't try to eliminate cold forever. It just detects the drift and then it corrects it repeatedly. And so, I think the problem with masking and why it produces this excess worry and anxiety is because we're so consumed with trying to get it perfect on the... First Pass or to have a smooth first pass, but really, I think what I learned throughout life is how do you recover from imperfect passes? And I think that actually eventually turns into your competitive advantage. And so that's why I called it a zero-sum game. You don't really need perfect understanding up front. You just need capacity to repair misunderstanding when it happens because it will. Okay, so I drew a little system for you guys. Sorry, I got a little carried away, right? So we have a goal, which is what you want. We have the So to do. the And then we're measuring the gap and we're adjusting our behavior accordingly. At least I think that's what's happening, right? Because even if you observe like even neurotypicals, right? If we study reality and we watch neurotypicals interact and communicate, like their social interactions aren't perfect. Like people misunderstand each other all the time, right? They miss nuance. Sometimes people's tone gets misread. Sometimes a So we option you Context is complete. Sometimes someone is stressed or distracted, so if your strategy is, I must not be misunderstood, you're basically asking for an impossible, perfect control system, and so, so why does this matter? Masking is basically trying to eliminate error in advance. You're pre-editing everything, you're hiding anything that you think is risky, and you're aiming for zero misunderstanding. So, while it can reduce error short term, it's expensive, it's and it often fails. And I think our life experiences have taught us that as well. So, my reframe for this post is, unmasking is not be raw and hope for the best, it's just be real and be skillful. And I also thought, while I was in this rabbit hole, well, I'd like, I'd actually like to play the devil's advocate, right? Oh, wait. Because, hey, Jasmine, isn't there a line that's There's between skill building and self-erasure, and there is, right? I think there's a line. Skill building is expanding your behavioral repertoire with choice, whereas masking is narrowing that repertoire under pressure. And so I don't think the goal is to be normal, and I don't think the goal is do whatever you want, but coordination. And so when I'm talking to people, because sometimes I can make the mistake of being too direct, I kind of like to step into this mindset of how can we work together in order to get the best result? Because my goal is clarity and mutual understanding.",
+      "source_lines": {
+        "start": 679,
+        "end": 682
+      },
+      "timestamp": "01:01:25",
+      "timestamp_end": "01:08:35",
+      "text_hash": "9e1b91d6"
+    },
+    {
+      "id": "utt-010842-163",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay.",
+      "source_lines": {
+        "start": 683,
+        "end": 686
+      },
+      "timestamp": "01:08:42",
+      "text_hash": "2342c971"
+    },
+    {
+      "id": "utt-010843-164",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "I'm not sure how much more you have, but you're eating into your question time. Oh, sorry. Yeah, this is the last slide anyway. And then I thought of a litmus test. So if you can't name what it's buying you, so there's no clear return on investment. If it's required in your closest relationship, it never turns And it's selecting your whole life around the mask, then it's too expensive. So that's the litmus test that I came up for you guys. That's all I have.",
+      "source_lines": {
+        "start": 687,
+        "end": 690
+      },
+      "timestamp": "01:08:43",
+      "timestamp_end": "01:09:06",
+      "text_hash": "ed8e0659"
+    },
+    {
+      "id": "utt-010909-165",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. I have a quick question and I don't want to hear everybody else, but do you have a goal in mind for these? purpose?",
+      "source_lines": {
+        "start": 691,
+        "end": 694
+      },
+      "timestamp": "01:09:09",
+      "timestamp_end": "01:09:19",
+      "text_hash": "3d0437e7"
+    },
+    {
+      "id": "utt-010922-166",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "That's a good question. So for me, I just thought like I have this I have this mind that kind of runs nonstop. And I'm constantly thinking, studying reality, thinking about concepts that I learned in science, concepts that I'm even, I'm pulling a little bit from psychology and philosophy, and I'm trying to tie this whole thing together. And my hope is that I'm going to be able to create value or deliver value to people. Because one of the things that I noticed in the the, um, on social media is that it's very much a culture of despair. And so, I think, I was like, well, how can I be a voice that can help counter that negativity, if that makes sense?",
+      "source_lines": {
+        "start": 695,
+        "end": 698
+      },
+      "timestamp": "01:09:22",
+      "timestamp_end": "01:10:00",
+      "text_hash": "d44b5f0b"
+    },
+    {
+      "id": "utt-011014-167",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Like, be a voice for hope? Is that kind of what you mean?",
+      "source_lines": {
+        "start": 699,
+        "end": 702
+      },
+      "timestamp": "01:10:14",
+      "timestamp_end": "01:10:16",
+      "text_hash": "1767866d"
+    },
+    {
+      "id": "utt-011018-168",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Not be, how should I say it? So, I just want to be able to challenge the status quo, because sometimes I go online and I'm kind of hearing a lot of the same thing.",
+      "source_lines": {
+        "start": 703,
+        "end": 706
+      },
+      "timestamp": "01:10:18",
+      "timestamp_end": "01:10:21",
+      "text_hash": "1104c4a0"
+    },
+    {
+      "id": "utt-011034-169",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Same mistakes?",
+      "source_lines": {
+        "start": 707,
+        "end": 710
+      },
+      "timestamp": "01:10:34",
+      "text_hash": "fe117d5e"
+    },
+    {
+      "id": "utt-011036-170",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Same mistakes, same emotional patterns, same feeling of stuckness, but I kind of want to be able to show people, yes, this was traumatic, yes, this sucked, but here's my really creative reframe to teach you that this actually prepared you for what's coming next, or this is Kind of maybe a skill set that you didn't realize that you had. Any questions for me?",
+      "source_lines": {
+        "start": 711,
+        "end": 714
+      },
+      "timestamp": "01:10:36",
+      "timestamp_end": "01:11:09",
+      "text_hash": "39144afb"
+    },
+    {
+      "id": "utt-011111-171",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I have a question. Who's your, like, main kind of audience? Like, who watches your videos and who would be someone who could benefit from this change in perspective that you're talking about?",
+      "source_lines": {
+        "start": 715,
+        "end": 718
+      },
+      "timestamp": "01:11:11",
+      "timestamp_end": "01:11:14",
+      "text_hash": "6846aa56"
+    },
+    {
+      "id": "utt-011124-172",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Probably mostly neurodivergent people.",
+      "source_lines": {
+        "start": 719,
+        "end": 722
+      },
+      "timestamp": "01:11:24",
+      "text_hash": "83779733"
+    },
+    {
+      "id": "utt-011130-173",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. Um, looks like Doug and then, um, Gio, maybe? Gio has your hand up, or? Okay. Yeah, Doug first. Go for it.",
+      "source_lines": {
+        "start": 723,
+        "end": 726
+      },
+      "timestamp": "01:11:30",
+      "timestamp_end": "01:11:38",
+      "text_hash": "c690e817"
+    },
+    {
+      "id": "utt-011139-174",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Uh, just, so, I do things like this, right? Uh, what do you get out of doing this? How, how is it not just an artifact or a place to share it, but how does it help you? Like, there, there's something going on good for you, obviously, because you light up, it's, it's very animated. It shows, that this... . It's tickling some sort of your brain that you can't wait to do it again. And I think what Jojo mentioned about her week is, you know, what I heard was she discovered something that really works for her, that's something that's real and something to lean into and go, oh, that's a thing of power, how do I harness it? So I'm wondering, these kind of things as you're thinking about value for others, what's the value to you? And how does it keep you?",
+      "source_lines": {
+        "start": 727,
+        "end": 730
+      },
+      "timestamp": "01:11:39",
+      "timestamp_end": "01:12:29",
+      "text_hash": "456aea6c"
+    },
+    {
+      "id": "utt-011230-175",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "I think the value to me is that, so it's going to be a cheesy word, but I don't know why, I'm searching for coherence. I want things to make sense. And I'm like, oh, okay, but here's, here's a way to explain something that is kind of novel, right? Because I'm kind of merging all of these things together that are not seemingly alike. And then I got the feedback from a few people that... Listen, not everybody can do this. So I just thought, like, instead of it being an artifact or just doing it for the sake of doing it, if I shared it, then, well, I don't know. I thought that maybe I could, how should I say it? The goal was never attention. I think the goal was I just want somebody else other than me to be able to get some value out of this. And if they are giving me positive feedback, then that's a sign for me to keep going. But if I don't get the positive feedback, then maybe that's a sign that I need to change course.",
+      "source_lines": {
+        "start": 731,
+        "end": 734
+      },
+      "timestamp": "01:12:30",
+      "timestamp_end": "01:13:33",
+      "text_hash": "56d43a77"
+    },
+    {
+      "id": "utt-011338-176",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Okay. There's no wrong answer here. That's why asking the question for you to go, what is my answer on that? And what I heard was you're going to do it anyways in some way because you can't help doing it. You have some feedback that this might be rare and valuable. And what happens if I wrap a little purpose around this? At M-A Share it with others and get feedback. I think those are really powerful ways to describe this, and not a challenge, more of a cementing. Yeah, this is important. And if I keep doing it, probably something good is going to happen. And maybe I'm not sure what it is yet, but the practice makes sense. Very cool. Thank you for sharing.",
+      "source_lines": {
+        "start": 735,
+        "end": 738
+      },
+      "timestamp": "01:13:38",
+      "timestamp_end": "01:14:20",
+      "text_hash": "5c9dd6af"
+    },
+    {
+      "id": "utt-011420-177",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "I'm inspired. No, thank you. I kind of describe it to Rick, like, I don't know, if you, sometimes like some jobs are, you have to take a volunteer position first. So you might be, you might be learning to like do the dishes. You have to learn to sweep the floors. You have to learn kind of like all aspects of it before you can kind of advance and move up. So I'm like, I don't really have any reps in when it comes to content creation. So I need to start doing the thing in order to start understanding what the landscape is. And then this trial and error, what works, what doesn't work. Yeah, but hopefully, if it just because it starts off as a volunteer position, I think the goal. My goal is, eventually, I'd be able to progress.",
+      "source_lines": {
+        "start": 739,
+        "end": 742
+      },
+      "timestamp": "01:14:20",
+      "timestamp_end": "01:15:00",
+      "text_hash": "fea3cb2b"
+    },
+    {
+      "id": "utt-011503-178",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Awesome. Yeah. If you can't help but do it, let's figure out how to get rewarded for it, instead of this whole being in trouble for it. So I love it, and I think it's fascinating how you pivoted to a system and your previous lexicon about how to operationalize things, that you're choosing an operational path and showing us that you're doing it, and just how to do it by doing it's really amazing, and your thought process underneath it. So, I find it highly valuable and welcome.",
+      "source_lines": {
+        "start": 743,
+        "end": 746
+      },
+      "timestamp": "01:15:03",
+      "timestamp_end": "01:15:33",
+      "text_hash": "869e456e"
+    },
+    {
+      "id": "utt-011538-179",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I found for myself sometimes, I have no idea why I'm attracted to learning certain things, and sometimes, you know, maybe nothing ever comes out of it. But other times, later on in life, I say, oh my gosh, I'm so glad I learned that, or at least I had some inkling that that kind of thing happened or existed. Well, yeah, I think sometimes it's driven by things below our level. It's of consciousness, but, you know, probably like what Star is doing, there's certain things that are more deeply intuitive, maybe even genetic memory somehow, I don't know, but, you know, it's something that drives us, and then we discover that, hey, this fits, you do this thing. It's an idea. Any other questions? Got a couple minutes left.",
+      "source_lines": {
+        "start": 747,
+        "end": 750
+      },
+      "timestamp": "01:15:38",
+      "timestamp_end": "01:16:20",
+      "text_hash": "7e369bca"
+    },
+    {
+      "id": "utt-011623-180",
+      "speaker": "Lizzy Summers",
+      "verbatim_text": "I guess for me, I just thought it was so great. You have such a gift of finding words to explain something that's so invisible to a lot of people, and I get what you're doing, and I'm going to choose to find the words to say it. Like, listening through the thing, I got sparked, because I got to have a language or word or form inside me that made me feel something aligned. It's, and it's, and and and woman's the woman's a a a woman's a woman. But Because if you're, like, researching scientific mind to find the language that describes things that some of us just feel, either as our friend or our foe. But yeah, so the question is, what's next? So do you add music? Do you add visuals? Is this a voiceover? Or how do you go about making your TikTok video?",
+      "source_lines": {
+        "start": 751,
+        "end": 754
+      },
+      "timestamp": "01:16:23",
+      "timestamp_end": "01:17:19",
+      "text_hash": "438d32fc"
+    },
+    {
+      "id": "utt-011723-181",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Oh, I just talk into the camera. I talk into the camera, I edit it myself. Like I was saying, I need to learn to do the dishes, I need to mop the floors, I need to do everything. Because I know that you can kind of go on Fiverr, and you could maybe outsource some of this stuff, like outsource the editing. But you could jazz it up as much as you want, but I think there's a difference between long-form content and short-form content. So long-form content would be like YouTube, and I think there should be more emphasis on editing there, versus like short-form content. next time. it's kind of like these little sound bites, and sometimes to do all that extra work of editing, maybe the juice isn't worth the squeeze, because at least in the beginning, you've got to be putting out a lot of content, because people don't know me, right? They're probably looking at me like, what is it that you do?",
+      "source_lines": {
+        "start": 755,
+        "end": 758
+      },
+      "timestamp": "01:17:23",
+      "timestamp_end": "01:18:12",
+      "text_hash": "d66044c0"
+    },
+    {
+      "id": "utt-011819-182",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I mean, if you're getting 4,000 views on one video, though, like people are, they're hard to feel knowing you. mean, I know there's a lot more views you could get.",
+      "source_lines": {
+        "start": 759,
+        "end": 762
+      },
+      "timestamp": "01:18:19",
+      "timestamp_end": "01:18:25",
+      "text_hash": "dab7fb0a"
+    },
+    {
+      "id": "utt-011827-183",
+      "speaker": "Rick Webster",
+      "verbatim_text": "That's still a lot. And that's a separate skill, right? I mean, obviously the content, but getting people to be aware of that that skills. mean, to be aware of that content to show up.",
+      "source_lines": {
+        "start": 763,
+        "end": 766
+      },
+      "timestamp": "01:18:27",
+      "timestamp_end": "01:18:36",
+      "text_hash": "ea057029"
+    },
+    {
+      "id": "utt-011839-184",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "I love the feedback, Jasmine, that you kind of pulled out at the beginning saying, it feels like a little criticism, you know, so now what, Professor? I say, lean into that. Go nuts, because guess what? It's kind of you. Why not own it? It's what makes it endearing and charming. And the fact that you're totally interested in it, we can't forget to ride that pony too. So, yeah, Professor, I can't wait for the next.",
+      "source_lines": {
+        "start": 767,
+        "end": 770
+      },
+      "timestamp": "01:18:39",
+      "timestamp_end": "01:19:05",
+      "text_hash": "7f20e11e"
+    },
+    {
+      "id": "utt-011909-185",
+      "speaker": "Rick Webster",
+      "verbatim_text": "If you look on Facebook and the posts, you'll see 10 posts and none of them are getting any action. Someone will put something really bizarre and out there and all of a sudden there's 50 people react to it. So you get more interaction when you say something negative in some way. I did see, I don't remember what it was, but this person might as well have been Mary Poppins. mean, there was nothing wrong, nothing controversial in her video. She's still got 10% people didn't like it. I said, seriously, 10% of people need to go to therapy or something, I guess. I don't know. But they were, you know, I don't think you can be on social media and hit 100%.",
+      "source_lines": {
+        "start": 771,
+        "end": 774
+      },
+      "timestamp": "01:19:09",
+      "timestamp_end": "01:19:41",
+      "text_hash": "b4cfff44"
+    },
+    {
+      "id": "utt-011947-186",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "It's just not going to happen. Way more than 10% need to go to therapy.",
+      "source_lines": {
+        "start": 775,
+        "end": 778
+      },
+      "timestamp": "01:19:47",
+      "timestamp_end": "01:19:49",
+      "text_hash": "5a4ce321"
+    },
+    {
+      "id": "utt-011952-187",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 779,
+        "end": 782
+      },
+      "timestamp": "01:19:52",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-011952-188",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "A lot of negative Nancy's out there.",
+      "source_lines": {
+        "start": 783,
+        "end": 786
+      },
+      "timestamp": "01:19:52",
+      "text_hash": "6fee70b6"
+    },
+    {
+      "id": "utt-011955-189",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 787,
+        "end": 790
+      },
+      "timestamp": "01:19:55",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-011956-190",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah. I'd say at least 50% of people.",
+      "source_lines": {
+        "start": 791,
+        "end": 794
+      },
+      "timestamp": "01:19:56",
+      "timestamp_end": "01:19:57",
+      "text_hash": "a2c24113"
+    },
+    {
+      "id": "utt-011959-191",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. Raghu, you've got some wrap-up questions here for Jasmine?",
+      "source_lines": {
+        "start": 795,
+        "end": 798
+      },
+      "timestamp": "01:19:59",
+      "timestamp_end": "01:20:00",
+      "text_hash": "4d31a066"
+    },
+    {
+      "id": "utt-012005-192",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Yeah, I would say one question, and then maybe this, I won't call it an advice, but it's just not great for me.",
+      "source_lines": {
+        "start": 799,
+        "end": 802
+      },
+      "timestamp": "01:20:05",
+      "text_hash": "45ab60d7"
+    },
+    {
+      "id": "utt-012013-193",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Speak directly into your mic, it's not coming through very well.",
+      "source_lines": {
+        "start": 803,
+        "end": 806
+      },
+      "timestamp": "01:20:13",
+      "text_hash": "9b79c024"
+    },
+    {
+      "id": "utt-012016-194",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Okay, hang on, I think I, let me step in, I am sorry, me a minute. Thank you.",
+      "source_lines": {
+        "start": 807,
+        "end": 810
+      },
+      "timestamp": "01:20:16",
+      "timestamp_end": "01:20:29",
+      "text_hash": "be2b01f2"
+    },
+    {
+      "id": "utt-012031-195",
+      "speaker": "Rick Webster",
+      "verbatim_text": "That didn't help, now I don't hear you at all.",
+      "source_lines": {
+        "start": 811,
+        "end": 814
+      },
+      "timestamp": "01:20:31",
+      "text_hash": "144bca2c"
+    },
+    {
+      "id": "utt-012038-196",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "I think that's better.",
+      "source_lines": {
+        "start": 815,
+        "end": 818
+      },
+      "timestamp": "01:20:38",
+      "text_hash": "19801fb8"
+    },
+    {
+      "id": "utt-012042-197",
+      "speaker": "Rick Webster",
+      "verbatim_text": "We'll manage, go ahead, go for it.",
+      "source_lines": {
+        "start": 819,
+        "end": 822
+      },
+      "timestamp": "01:20:42",
+      "text_hash": "5726118d"
+    },
+    {
+      "id": "utt-012044-198",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Okay, got it. So, I really love the question. The question I have for you is, are you, like, are you, getting affected by the negative comments, or is that, uh... You know, they didn't do it by any chance.",
+      "source_lines": {
+        "start": 823,
+        "end": 826
+      },
+      "timestamp": "01:20:44",
+      "timestamp_end": "01:21:00",
+      "text_hash": "21f5d728"
+    },
+    {
+      "id": "utt-012103-199",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Yeah, yeah, no, because, oh, that's a great question. That's, that's, no, actually, I felt the sting of rejection for like a minute. I think that's a normal human reaction. And then I got over it quickly because I don't, again, it's short form content. People don't necessarily go on there looking for the whole solution.",
+      "source_lines": {
+        "start": 827,
+        "end": 830
+      },
+      "timestamp": "01:21:03",
+      "timestamp_end": "01:21:18",
+      "text_hash": "b5c4a62c"
+    },
+    {
+      "id": "utt-012121-200",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "But my whole goal is to get them to try to think in the right direction.",
+      "source_lines": {
+        "start": 831,
+        "end": 834
+      },
+      "timestamp": "01:21:21",
+      "text_hash": "e8bacd18"
+    },
+    {
+      "id": "utt-012128-201",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Just to think differently.",
+      "source_lines": {
+        "start": 835,
+        "end": 838
+      },
+      "timestamp": "01:21:28",
+      "text_hash": "300e4140"
+    },
+    {
+      "id": "utt-012130-202",
+      "speaker": "Raghu Kalyan",
+      "verbatim_text": "Yeah, yeah, yeah, absolutely. Because what I would, because I, I usually stick to LinkedIn, but the, the core comments usually are going to be negative. So what I generally do is I, sometimes I don't even look at the comments because I'm, sometimes when I read those comments, they usually tend to kind of discourage me. So I'd rather just ignore and then just focus on on It's just accomplishing and posting, and that's the one. Another one is, you know, something what Rick was saying is, yeah, you write something faster and there's hardly anyone responding, but this negative comes up, I think. That is purely, you know, the algorithm gained by the social media companies because they know that negative sales would give them more impressions because they're just playing on the score. the score human psychology of negative bias, and all they want is more impressions and more plastic. So it's purely because they promote negative content than the positive content algorithms. That's not control.",
+      "source_lines": {
+        "start": 839,
+        "end": 842
+      },
+      "timestamp": "01:21:30",
+      "timestamp_end": "01:22:47",
+      "text_hash": "6fb230ab"
+    },
+    {
+      "id": "utt-012250-203",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay. Welcome, David. Better late than never. see you there. Jasmine, want to wrap up with a comment or two about it? Is I had If you had takeaways that you I believe.",
+      "source_lines": {
+        "start": 843,
+        "end": 846
+      },
+      "timestamp": "01:22:50",
+      "timestamp_end": "01:22:58",
+      "text_hash": "bbdbad72"
+    },
+    {
+      "id": "utt-012301-204",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "Yeah, I mean, consistency is king. You just got to be consistent with it. To be honest, you got to ignore all the noise. There's outside noise, there's inside noise. Inside noise is self-doubt. Outside noise is all these criticisms that you see. But I hadn't really gotten a ton of it. I just thought it was funny. That's why I mentioned it to you guys. I said, so what, professor? I'm not even a professor. That's the funny part.",
+      "source_lines": {
+        "start": 847,
+        "end": 850
+      },
+      "timestamp": "01:23:01",
+      "timestamp_end": "01:23:26",
+      "text_hash": "1e9934fe"
+    },
+    {
+      "id": "utt-012332-205",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Okay.",
+      "source_lines": {
+        "start": 851,
+        "end": 854
+      },
+      "timestamp": "01:23:32",
+      "text_hash": "2342c971"
+    },
+    {
+      "id": "utt-012333-206",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "And what else did I get? Oh, I actually really appreciate the feedback from Doug. Doug's got the wheels turning in my head, because he is right. What do I actually get out of this other than it just being an artifact? Yeah, that's something to think about.",
+      "source_lines": {
+        "start": 855,
+        "end": 858
+      },
+      "timestamp": "01:23:33",
+      "timestamp_end": "01:23:46",
+      "text_hash": "084137cd"
+    },
+    {
+      "id": "utt-012350-207",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I just want to, like, back to what Doug said about embracing the professor role. I think it could, it could be something to look into. I'll just sit with it. you. You know, even though you're not a professor, like, it could be fun to play with it.",
+      "source_lines": {
+        "start": 859,
+        "end": 862
+      },
+      "timestamp": "01:23:50",
+      "timestamp_end": "01:24:00",
+      "text_hash": "bd8c0300"
+    },
+    {
+      "id": "utt-012406-208",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "I haven't watched, I didn't watch all the first runs, but now they're on rerun, but The Big Bang Theory, you know, it's like so many nerdy guys would think, wow, a smart, interesting, insightful, pushing boundaries trying to figure this out, woman, pretty awesome. Or, hey, I don't want to be gender specific, but it's, it's a cool thing. So, rock it. And by the way, you and I in a room doing this, people would get hurt because there'd be some amazing tornado of ideas happening. I look forward to this happening one day. So, Rick gets tortured all the time. Melissa, poor Melissa. Yeah, I have my victims. I got to spread the love around.",
+      "source_lines": {
+        "start": 863,
+        "end": 866
+      },
+      "timestamp": "01:24:06",
+      "timestamp_end": "01:24:48",
+      "text_hash": "a25240e2"
+    },
+    {
+      "id": "utt-012450-209",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I got to say, we, we do it to each other. Doug had some comment about something that we're planning on doing and basically saying this whole group of people might not like. Not you guys, but a whole group of people outside of us might not like what we're doing, and I said, well, that's probably good, because then they'll all start talking about it, and suddenly we're invisible, and suddenly everybody's, you know, we're the topic of conversation, so as long as we can defend what we're doing, I'm fine with the controversy, you know, in some way.",
+      "source_lines": {
+        "start": 867,
+        "end": 870
+      },
+      "timestamp": "01:24:50",
+      "timestamp_end": "01:25:00",
+      "text_hash": "2adb94ad"
+    },
+    {
+      "id": "utt-012517-210",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "you say, like, all press is, or no, what did they say?",
+      "source_lines": {
+        "start": 871,
+        "end": 874
+      },
+      "timestamp": "01:25:17",
+      "text_hash": "e6e5de9a"
+    },
+    {
+      "id": "utt-012519-211",
+      "speaker": "Rick Webster",
+      "verbatim_text": "All press is good press?",
+      "source_lines": {
+        "start": 875,
+        "end": 878
+      },
+      "timestamp": "01:25:19",
+      "text_hash": "c2da0a1e"
+    },
+    {
+      "id": "utt-012520-212",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 879,
+        "end": 882
+      },
+      "timestamp": "01:25:20",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-012521-213",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah, for the most part.",
+      "source_lines": {
+        "start": 883,
+        "end": 886
+      },
+      "timestamp": "01:25:21",
+      "text_hash": "edac759e"
+    },
+    {
+      "id": "utt-012524-214",
+      "speaker": "Jasmine Mahmoud",
+      "verbatim_text": "A lot of people, they like to say to me, get out of your head, Einstein. So now it's out of my head and on social media, so there you go.",
+      "source_lines": {
+        "start": 887,
+        "end": 890
+      },
+      "timestamp": "01:25:24",
+      "timestamp_end": "01:25:27",
+      "text_hash": "951499c4"
+    },
+    {
+      "id": "utt-012532-215",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yep. All right. Any last-minute comments and stuff? How do you think this is going? I mean, we're developing this as we go, but what do you think about today where we talked for a half an hour, and then we had three presentations? That worked? Okay. So come tomorrow with a presentation, and you may get called on. Gio, your turn.",
+      "source_lines": {
+        "start": 891,
+        "end": 894
+      },
+      "timestamp": "01:25:32",
+      "timestamp_end": "01:25:58",
+      "text_hash": "d0fe664d"
+    },
+    {
+      "id": "utt-012600-216",
+      "speaker": "Gio",
+      "verbatim_text": "I just wondered if you guys have discussed this before, so just as you said, tomorrow, you know, like today, you're going to raise your hand or something if you want some info, and I wondered if deciding who was presented, because like for me, it's a little like anxiety prone to be like, oh, I'm going to, no, I'm not going to, you know, to throw my hat in the ring today, and giving, you know, like, mentally, I just get that out of the way. I'm the presenter, or I'm the audience. That would be something that would work for me.",
+      "source_lines": {
+        "start": 895,
+        "end": 898
+      },
+      "timestamp": "01:26:00",
+      "timestamp_end": "01:26:42",
+      "text_hash": "20112f78"
+    },
+    {
+      "id": "utt-012648-217",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yep, and I might, just a second, Doug. A group that I was in, a business group, the woman that was running it, she basically slotted us in on a calendar. You you But no, your time was coming up in four weeks, or whatever it might be, so I just picked people who I thought actually, well, I let people volunteer, but I pretty much picked people today who wanted to do it, right? So hopefully don't just do that, but we, anybody who wants to sign up for tomorrow, just tell me, tell us now. Doug, you want to do it?",
+      "source_lines": {
+        "start": 899,
+        "end": 902
+      },
+      "timestamp": "01:26:48",
+      "timestamp_end": "01:27:18",
+      "text_hash": "e9169324"
+    },
+    {
+      "id": "utt-012719-218",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Gio's first. No, I just want to follow up on Gio's comment and put my kind of a view on this, is first of all, it doesn't have to be a big presentation, right? It can be, hey, I'm working on this, I want to show you guys where I'm at, right? Or I just, I learned to think about myself, and here's what I learned in showing. It doesn't have to be a big thing. This is a safe group where it's not about the polish of the presentation, it's about the sharing of ideas. So, reduce the anxiety from there also. Lower stakes, but yet higher impact, because we really want to hear, and just, this thing is on my mind.",
+      "source_lines": {
+        "start": 903,
+        "end": 906
+      },
+      "timestamp": "01:27:19",
+      "timestamp_end": "01:27:50",
+      "text_hash": "03ad67dd"
+    },
+    {
+      "id": "utt-012758-219",
+      "speaker": "Gio",
+      "verbatim_text": "Presentation actually was not. It was probably a poor choice of words, and I just kind of, you know, it was sitting in my head from Jasmine's presentation. But what I was thinking, yeah, just as you said, you know, something that you want to share, something that you want to ask of the group, or, yeah. If it's presentation, like having something formal or whatever, polished, it's just that, for me, if I have in my head, not that it's, yeah, I don't want it to feel like homework or something like that. So, yeah, I guess.",
+      "source_lines": {
+        "start": 907,
+        "end": 910
+      },
+      "timestamp": "01:27:58",
+      "timestamp_end": "01:28:38",
+      "text_hash": "08fa8a18"
+    },
+    {
+      "id": "utt-012840-220",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "I think you also said something that was really instructive to me is that, hey, what brain space am I in? You might actually have intentions today to do something tomorrow, and energy levels like, yeah, I'm not feeling it. And this, it's okay. We shouldn't have pressure, like, oh, I said I'd do this, I promise. And ACAP is like, it's not happening. Because. Is it? I'm not right with it. That's okay, too. So we can take away some of these traditional barriers of somebody else to be able to authentically go. This is what's on my mind. I'd like to share this to be witnessed, to get ideas, what kind of feedback. What do you guys think? So try to opt for the least amount, but I think it's super important how you said it. It could be that, right? Oh, I'm doing this on my head space isn't even, now I can't even pay attention to somebody else because I'm too worried about what I'm going to talk about next. There's a real thing, too. So just saying it out loud was really helpful how we all can think about this and support each other.",
+      "source_lines": {
+        "start": 911,
+        "end": 914
+      },
+      "timestamp": "01:28:40",
+      "timestamp_end": "01:29:28",
+      "text_hash": "d9101320"
+    },
+    {
+      "id": "utt-012934-221",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I just put it in the chat, but like maybe I agree with Gio. think presentation does put a little bit of pressure. I think it's just the word itself is like your PowerPoint presentation. Like, you know, you need to do something fancy. I think feedback, like getting some feedback on where you're at, like that would be a good thing. This is where I'm at. Like, this is what I need help. You know, feedback would be a better word, right? I agree 100%.",
+      "source_lines": {
+        "start": 915,
+        "end": 918
+      },
+      "timestamp": "01:29:34",
+      "timestamp_end": "01:29:57",
+      "text_hash": "f22193b1"
+    },
+    {
+      "id": "utt-012958-222",
+      "speaker": "Rick Webster",
+      "verbatim_text": "100%. I with that. think it's, if anything, well, preparation probably usually wins, but I don't think we need to be prepared for that. If you know what you're trying to do, you should be able to articulate it. And if you can't articulate it, then maybe that's the place to start. Figure out, you know, how come I can't explain this thing that I'm trying to do? I think that's all right. Go ahead, Gio.",
+      "source_lines": {
+        "start": 919,
+        "end": 922
+      },
+      "timestamp": "01:29:58",
+      "timestamp_end": "01:30:23",
+      "text_hash": "6808aec1"
+    },
+    {
+      "id": "utt-013024-223",
+      "speaker": "Gio",
+      "verbatim_text": "I just thought of another thing, like, if there's a list of, you know, never mind, that's not, that, that could be all the people in the group. Never mind.",
+      "source_lines": {
+        "start": 923,
+        "end": 926
+      },
+      "timestamp": "01:30:24",
+      "timestamp_end": "01:30:36",
+      "text_hash": "c4d11b28"
+    },
+    {
+      "id": "utt-013037-224",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Never mind. So if I'm too into it, kind of just since something was put out in the other space, over time, a coordination process, some way that you can, we can say that this is kind of what I'm signing up for. I would like this opportunity. I, that's what I'm hearing out of this. And even if that's not quite on spot, you know, and I want to circle back, obviously with a... Bigger menu of, hey, what did we learn? People said this. How can we make it better? So surfacing these kind of things helps. Like, oh, this is probably something to think about.",
+      "source_lines": {
+        "start": 927,
+        "end": 930
+      },
+      "timestamp": "01:30:37",
+      "timestamp_end": "01:31:08",
+      "text_hash": "c6a68bb7"
+    },
+    {
+      "id": "utt-013111-225",
+      "speaker": "Gio",
+      "verbatim_text": "And I, an allowance for, you know, what you guys said, like maybe no one wants to feel compelled to share. Pass, you know, like, oh, yeah, I changed my mind today or whatever. Like, don't know. And then it'd be, okay, well, who wants to take her place? Or we go on to the next one. I don't know. I was just thinking something along those lines.",
+      "source_lines": {
+        "start": 931,
+        "end": 934
+      },
+      "timestamp": "01:31:11",
+      "timestamp_end": "01:31:37",
+      "text_hash": "ace32878"
+    },
+    {
+      "id": "utt-013144-226",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "And Gio, I just want to, like, I don't know. Did you raise your hand when Rick said he wants to go tomorrow or not? I thought you did. Okay. So I don't know, Rick, if you got that.",
+      "source_lines": {
+        "start": 935,
+        "end": 938
+      },
+      "timestamp": "01:31:44",
+      "timestamp_end": "01:31:53",
+      "text_hash": "6e1b0902"
+    },
+    {
+      "id": "utt-013155-227",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I did.",
+      "source_lines": {
+        "start": 939,
+        "end": 942
+      },
+      "timestamp": "01:31:55",
+      "text_hash": "2d9a6453"
+    },
+    {
+      "id": "utt-013156-228",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "I did.",
+      "source_lines": {
+        "start": 943,
+        "end": 946
+      },
+      "timestamp": "01:31:56",
+      "text_hash": "2d9a6453"
+    },
+    {
+      "id": "utt-013156-229",
+      "speaker": "Gio",
+      "verbatim_text": "I can't wait. I had a little tea, but I'm too. too. But, you know, there's the— I just want to make sure, because I didn't hear it, so I think— Yeah, then we'll go with that.",
+      "source_lines": {
+        "start": 947,
+        "end": 950
+      },
+      "timestamp": "01:31:56",
+      "timestamp_end": "01:32:00",
+      "text_hash": "3ff1b476"
+    },
+    {
+      "id": "utt-013207-230",
+      "speaker": "Rick Webster",
+      "verbatim_text": "The coworking thing that Melissa put in there, I'm not—I mean, we have, like, 10 hours worth of coworking time on Rantify, and all you guys are welcome to be on Rantify. If you're not, just tell me. I'll make sure you're in it. But do we want to do coworking here, or do we want to— part of the coworking times, I know, are like, at 7.30 in the morning, and that's a little hard for me.",
+      "source_lines": {
+        "start": 951,
+        "end": 954
+      },
+      "timestamp": "01:32:07",
+      "timestamp_end": "01:32:19",
+      "text_hash": "28f247dc"
+    },
+    {
+      "id": "utt-013231-231",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "There's three of them. To be in a work state of mind that early.",
+      "source_lines": {
+        "start": 955,
+        "end": 958
+      },
+      "timestamp": "01:32:31",
+      "timestamp_end": "01:32:32",
+      "text_hash": "9d35e4bc"
+    },
+    {
+      "id": "utt-013234-232",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I'm still, like, doing yoga and trying to get— There's one of them at 5 o'clock, and there's one of them at, I don't know, 10 or 1 o'clock. There's three of them.",
+      "source_lines": {
+        "start": 959,
+        "end": 962
+      },
+      "timestamp": "01:32:34",
+      "timestamp_end": "01:32:43",
+      "text_hash": "64e59d4c"
+    },
+    {
+      "id": "utt-013244-233",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Okay, got it.",
+      "source_lines": {
+        "start": 963,
+        "end": 966
+      },
+      "timestamp": "01:32:44",
+      "text_hash": "02861f6f"
+    },
+    {
+      "id": "utt-013245-234",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I gotta get—sorry, I gotta get the— That's okay. And they might not be on the calendar yet, I don't know, but— Yep. And Richard brought up, Star Wars event is going to be on the calendar. If it's not up there already, we'll figure out why not. And get it there. But that's the conversations with Melissa.",
+      "source_lines": {
+        "start": 967,
+        "end": 970
+      },
+      "timestamp": "01:32:45",
+      "timestamp_end": "01:33:02",
+      "text_hash": "3025c4d9"
+    },
+    {
+      "id": "utt-013305-235",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I think there's also a benefit, just to say one more thing about that, there's a benefit to doing it with this particular group, because we all have kind of bonded and connected on what we're working on, as opposed to anyone who shows up for the Renify ones. I don't know, other people feel that way too, I do.",
+      "source_lines": {
+        "start": 971,
+        "end": 974
+      },
+      "timestamp": "01:33:05",
+      "timestamp_end": "01:33:20",
+      "text_hash": "e63de7ee"
+    },
+    {
+      "id": "utt-013324-236",
+      "speaker": "Rick Webster",
+      "verbatim_text": "That's exactly what I think. Over a period of time, a group of seven to ten people moving forward where we'll get to know each other really well. So there's bonding, there's safety, there's understanding of what that person is dealing with, and we just get much better nuanced suggestions and questions and all that. Yeah.",
+      "source_lines": {
+        "start": 975,
+        "end": 978
+      },
+      "timestamp": "01:33:24",
+      "timestamp_end": "01:33:43",
+      "text_hash": "d4dc5e87"
+    },
+    {
+      "id": "utt-013344-237",
+      "speaker": "Rishi Badlani",
+      "verbatim_text": "May I just get an invite for tomorrow's?",
+      "source_lines": {
+        "start": 979,
+        "end": 982
+      },
+      "timestamp": "01:33:44",
+      "text_hash": "135ec7dc"
+    },
+    {
+      "id": "utt-013348-238",
+      "speaker": "Rick Webster",
+      "verbatim_text": "You want to make a presentation tomorrow? Or whatever it's called now?",
+      "source_lines": {
+        "start": 983,
+        "end": 986
+      },
+      "timestamp": "01:33:48",
+      "timestamp_end": "01:33:50",
+      "text_hash": "407a63f0"
+    },
+    {
+      "id": "utt-013353-239",
+      "speaker": "Rishi Badlani",
+      "verbatim_text": "Maybe not. I mean, I'll speak. I don't know if I'll do a presentation, but I would like to join.",
+      "source_lines": {
+        "start": 987,
+        "end": 990
+      },
+      "timestamp": "01:33:53",
+      "timestamp_end": "01:33:55",
+      "text_hash": "02345c98"
+    },
+    {
+      "id": "utt-013357-240",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I think these are- Yeah.",
+      "source_lines": {
+        "start": 991,
+        "end": 994
+      },
+      "timestamp": "01:33:57",
+      "text_hash": "d822c550"
+    },
+    {
+      "id": "utt-013359-241",
+      "speaker": "Rishi Badlani",
+      "verbatim_text": "you. Very helpful. I mean, I'm not consistent with it because of work, but as you saw, like, was on a computer, I was working, I was trying to listen, but I think I could do it tomorrow. If the word presentation, that was not, yeah, I, yeah, wrong because was thinking, like, do I need to put up a PowerPoint presentation?",
+      "source_lines": {
+        "start": 995,
+        "end": 998
+      },
+      "timestamp": "01:33:59",
+      "timestamp_end": "01:34:10",
+      "text_hash": "ac80107d"
+    },
+    {
+      "id": "utt-013420-242",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah. It was initially going to be a hot seat, so I thought I was talking about by saying rid of that word, presentation.",
+      "source_lines": {
+        "start": 999,
+        "end": 1002
+      },
+      "timestamp": "01:34:20",
+      "text_hash": "e940bce0"
+    },
+    {
+      "id": "utt-013424-243",
+      "speaker": "Gio",
+      "verbatim_text": "Yeah, that was not, you know, how sometimes it's in your head, but it's not, or it comes out of your mouth, but it's not what's in your, in your head. It was just, yeah, presentation was not in my heart at all to, like, put out there.",
+      "source_lines": {
+        "start": 1003,
+        "end": 1006
+      },
+      "timestamp": "01:34:24",
+      "timestamp_end": "01:34:34",
+      "text_hash": "bfe68552"
+    },
+    {
+      "id": "utt-013441-244",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah. And everybody can make of it what they want, right? If you want to make a nice formal presentation because you're preparing for something, or if you just want to brainstorm the thing on any range in there. And, yeah, so we've got Gio and Rishi on the calendar for tomorrow. Did we get an answer on the brainstorming, on the, the, uh- I we've got 10 or more hours on rena-fi, and not all at 7.30 in the morning either, but we can do it here. mean, it's up to you guys.",
+      "source_lines": {
+        "start": 1007,
+        "end": 1010
+      },
+      "timestamp": "01:34:41",
+      "timestamp_end": "01:35:09",
+      "text_hash": "bb2b4890"
+    },
+    {
+      "id": "utt-013514-245",
+      "speaker": "Gio",
+      "verbatim_text": "Are you asking for our opinion now, or?",
+      "source_lines": {
+        "start": 1011,
+        "end": 1014
+      },
+      "timestamp": "01:35:14",
+      "text_hash": "d7bacfc5"
+    },
+    {
+      "id": "utt-013518-246",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 1015,
+        "end": 1018
+      },
+      "timestamp": "01:35:18",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-013520-247",
+      "speaker": "Gio",
+      "verbatim_text": "I thought we had talked about the second session being the body doubling. So, but I'm not sure what that looks like. Is it, and I think we said that too, is it body doubling with a commentary or, you know, is it like this and less, you know, informal or like, we don't have you guys. We won't have, you know, you and Doug, you know.",
+      "source_lines": {
+        "start": 1019,
+        "end": 1022
+      },
+      "timestamp": "01:35:20",
+      "timestamp_end": "01:35:51",
+      "text_hash": "8bee91d3"
+    },
+    {
+      "id": "utt-013555-248",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I'm sure how we would, how we would do it.",
+      "source_lines": {
+        "start": 1023,
+        "end": 1026
+      },
+      "timestamp": "01:35:55",
+      "text_hash": "34ddbbb5"
+    },
+    {
+      "id": "utt-013558-249",
+      "speaker": "Gio",
+      "verbatim_text": "Or maybe you would join the set. I'm",
+      "source_lines": {
+        "start": 1027,
+        "end": 1030
+      },
+      "timestamp": "01:35:58",
+      "timestamp_end": "01:35:59",
+      "text_hash": "b199dee1"
+    },
+    {
+      "id": "utt-013600-250",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I'm sorry, I'm being presumptuous, maybe you can benefit. No, I'm just not sure. I had only thought about, you know, the focus make kind of thing, where we're just all in the room and doing our work. And it seems like this is more valuable real estate in some way, when we have all those other groups that are just a click away.",
+      "source_lines": {
+        "start": 1031,
+        "end": 1034
+      },
+      "timestamp": "01:36:00",
+      "timestamp_end": "01:36:15",
+      "text_hash": "e058692a"
+    },
+    {
+      "id": "utt-013625-251",
+      "speaker": "Rishi Badlani",
+      "verbatim_text": "I said a quick question, what does the body double on this platform, like, Intel, right? I know what it is, like, you know, someone holding you accountable for certain tasks that are just in the same room. But what is that?",
+      "source_lines": {
+        "start": 1035,
+        "end": 1038
+      },
+      "timestamp": "01:36:25",
+      "timestamp_end": "01:36:38",
+      "text_hash": "32b3ffe3"
+    },
+    {
+      "id": "utt-013639-252",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Am I on, like, Zoom? Yeah, yeah, it's kind of like, it's in Zoom, and it's not accountability, it's just someone else there, when someone else is there. But the idea, focus made is one-to-one, and we're, like, an open room. There could be three or four or five people in there, depending on who's showing up. But it's just the idea that when you're in the same If you want to get your kitchen cleaned up and you've been struggling for months, just invite a friend over to read a book at your kitchen table and you'll clean up your kitchen. We just do stuff because of the social coherence or whatever it is that brings us to the surface.",
+      "source_lines": {
+        "start": 1039,
+        "end": 1042
+      },
+      "timestamp": "01:36:39",
+      "timestamp_end": "01:37:09",
+      "text_hash": "7be679c2"
+    },
+    {
+      "id": "utt-013718-253",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I think it's pretty much the same as co-working, right? It's co-working. Pretty much the same, body-dubbing, co-working, just two different names, kind of the same thing.",
+      "source_lines": {
+        "start": 1043,
+        "end": 1046
+      },
+      "timestamp": "01:37:18",
+      "timestamp_end": "01:37:22",
+      "text_hash": "48ee7569"
+    },
+    {
+      "id": "utt-013727-254",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I think it's exactly the same thing.",
+      "source_lines": {
+        "start": 1047,
+        "end": 1050
+      },
+      "timestamp": "01:37:27",
+      "text_hash": "bc9d6fd8"
+    },
+    {
+      "id": "utt-013728-255",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 1051,
+        "end": 1054
+      },
+      "timestamp": "01:37:28",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-013731-256",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah, co-working, but not accountability, really. Okay, what did you put in there, Melissa? Oh, we do say that in the beginning. Yes, we say what we're going to do. Yeah. I think of accountability like one of my clients is struggling to finish something up and, you know, deadlines coming up, right? And the accountability, which is not normal, but for me, but she's going to text me every day coming up for the next week at four o'clock.",
+      "source_lines": {
+        "start": 1055,
+        "end": 1058
+      },
+      "timestamp": "01:37:31",
+      "timestamp_end": "01:37:52",
+      "text_hash": "006dbca2"
+    },
+    {
+      "id": "utt-013759-257",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Okay. Thank That's accountability. It's a little different if you're a coach. You have a different definition than most of us do.",
+      "source_lines": {
+        "start": 1059,
+        "end": 1062
+      },
+      "timestamp": "01:37:59",
+      "timestamp_end": "01:38:02",
+      "text_hash": "e79a691e"
+    },
+    {
+      "id": "utt-013805-258",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Is what?",
+      "source_lines": {
+        "start": 1063,
+        "end": 1066
+      },
+      "timestamp": "01:38:05",
+      "text_hash": "51176668"
+    },
+    {
+      "id": "utt-013806-259",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I think you have a different definition of accountability because you're a coach than some of us.",
+      "source_lines": {
+        "start": 1067,
+        "end": 1070
+      },
+      "timestamp": "01:38:06",
+      "text_hash": "8abf61e7"
+    },
+    {
+      "id": "utt-013814-260",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Maybe. good accountability is you've told someone what you're going to do, and then you tell them if you did it. That kind of thing.",
+      "source_lines": {
+        "start": 1071,
+        "end": 1074
+      },
+      "timestamp": "01:38:14",
+      "timestamp_end": "01:38:18",
+      "text_hash": "4a5bad31"
+    },
+    {
+      "id": "utt-013823-261",
+      "speaker": "Gio",
+      "verbatim_text": "With that in mind, I don't know how, how you guys feel then about keeping the Tuesday and Wednesday for something like this, and then scheduling something for body doubling, because it is really helpful to hear what people are doing, what problems they're having. It's just like, oh, okay. So maybe to get more of that, and then we have, so I'm voting, I'm putting in my vote for the two days of like this.",
+      "source_lines": {
+        "start": 1075,
+        "end": 1078
+      },
+      "timestamp": "01:38:23",
+      "timestamp_end": "01:38:48",
+      "text_hash": "64ef6343"
+    },
+    {
+      "id": "utt-013859-262",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Let's. Let's. Voice I'm going to reinterpret this as vote early and often.",
+      "source_lines": {
+        "start": 1079,
+        "end": 1082
+      },
+      "timestamp": "01:38:59",
+      "timestamp_end": "01:39:00",
+      "text_hash": "a6d930c4"
+    },
+    {
+      "id": "utt-013904-263",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I don't know. But, Gio, we also had talked about having the second day be partially co-working, too. And that's also helpful.",
+      "source_lines": {
+        "start": 1083,
+        "end": 1086
+      },
+      "timestamp": "01:39:04",
+      "timestamp_end": "01:39:12",
+      "text_hash": "050edfe3"
+    },
+    {
+      "id": "utt-013914-264",
+      "speaker": "Gio",
+      "verbatim_text": "Oh, no, I acknowledge that. I'm just thinking that's just what's going through my head tonight. Tomorrow could be, like, you know. I guess I'm not sure what it looks like, you know, in the session like this, like I was asking. We say, okay, yeah, we say what we're going to do, and then we just go about doing it, I guess.",
+      "source_lines": {
+        "start": 1087,
+        "end": 1090
+      },
+      "timestamp": "01:39:14",
+      "timestamp_end": "01:39:35",
+      "text_hash": "3ddf5146"
+    },
+    {
+      "id": "utt-013940-265",
+      "speaker": "Rick Webster",
+      "verbatim_text": "That's the co-working kind of thing.",
+      "source_lines": {
+        "start": 1091,
+        "end": 1094
+      },
+      "timestamp": "01:39:40",
+      "text_hash": "3da20536"
+    },
+    {
+      "id": "utt-013942-266",
+      "speaker": "Gio",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 1095,
+        "end": 1098
+      },
+      "timestamp": "01:39:42",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-013942-267",
+      "speaker": "Rick Webster",
+      "verbatim_text": "And I'm open to what you guys want to do. It seems like this is more expensive, valuable real estate. And we have a co-working groups elsewhere that are three times, they're not three times every day, but there's one at 730 Pacific. I'm going to reinterpret this as vote early and often. I don't know. But, Gio, we also had talked about having the second day be partially co-working, too.",
+      "source_lines": {
+        "start": 1099,
+        "end": 1102
+      },
+      "timestamp": "01:39:42",
+      "timestamp_end": "01:40:06",
+      "text_hash": "d4511a70"
+    },
+    {
+      "id": "utt-014012-268",
+      "speaker": "Melissa Reskof",
+      "verbatim_text": "And that's also helpful. Oh, no, I acknowledge that. I'm just thinking that's just what's going through my head tonight. Tomorrow could be, like, you know.",
+      "source_lines": {
+        "start": 1103,
+        "end": 1106
+      },
+      "timestamp": "01:40:12",
+      "timestamp_end": "01:40:21",
+      "text_hash": "9bb59ba0"
+    },
+    {
+      "id": "utt-014027-269",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "I guess I'm not sure what it looks like, you know, in the session like this, like I was asking.",
+      "source_lines": {
+        "start": 1107,
+        "end": 1110
+      },
+      "timestamp": "01:40:27",
+      "text_hash": "125de367"
+    },
+    {
+      "id": "utt-014035-270",
+      "speaker": "Rick Webster",
+      "verbatim_text": "We say, okay, yeah, we say what we're going to do, and then we just go about doing it, I guess. That's the co-working kind of thing. Yeah. And I'm open to what you guys want to do. It seems like this is more expensive, valuable real estate.",
+      "source_lines": {
+        "start": 1111,
+        "end": 1114
+      },
+      "timestamp": "01:40:35",
+      "timestamp_end": "01:40:45",
+      "text_hash": "c9f91d3a"
+    },
+    {
+      "id": "utt-014050-271",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "And we have a co-working groups elsewhere that are three times, they're not three times every day, but there's one at 730 Pacific. There's one at 10 o'clock Pacific, and there's one at five o'clock Pacific. It may not all be on the calendar, right?",
+      "source_lines": {
+        "start": 1115,
+        "end": 1118
+      },
+      "timestamp": "01:40:50",
+      "timestamp_end": "01:41:05",
+      "text_hash": "5c8e917e"
+    },
+    {
+      "id": "utt-014107-272",
+      "speaker": "Rick Webster",
+      "verbatim_text": "But they're happening. Is my mic working?",
+      "source_lines": {
+        "start": 1119,
+        "end": 1122
+      },
+      "timestamp": "01:41:07",
+      "timestamp_end": "01:41:09",
+      "text_hash": "d26270c2"
+    },
+    {
+      "id": "utt-014111-273",
+      "speaker": "Stara Shakti",
+      "verbatim_text": "Yeah, it is. Okay, good.",
+      "source_lines": {
+        "start": 1123,
+        "end": 1126
+      },
+      "timestamp": "01:41:11",
+      "timestamp_end": "01:41:12",
+      "text_hash": "565933e1"
+    },
+    {
+      "id": "utt-014114-274",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "I can't do two days like this on the two days.",
+      "source_lines": {
+        "start": 1127,
+        "end": 1130
+      },
+      "timestamp": "01:41:14",
+      "text_hash": "df1907a9"
+    },
+    {
+      "id": "utt-014119-275",
+      "speaker": "Rick Webster",
+      "verbatim_text": "I wonder if we take the 90 minutes for tomorrow and some part of it is this type of meeting, and some is sectioned off to be co-working.",
+      "source_lines": {
+        "start": 1131,
+        "end": 1134
+      },
+      "timestamp": "01:41:19",
+      "text_hash": "fde4526b"
+    },
+    {
+      "id": "utt-014128-276",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "I agree, as I said in the comment, why not do both?",
+      "source_lines": {
+        "start": 1135,
+        "end": 1138
+      },
+      "timestamp": "01:41:28",
+      "text_hash": "e0a3a41b"
+    },
+    {
+      "id": "utt-014132-277",
+      "speaker": "Rick Webster",
+      "verbatim_text": "Yeah.",
+      "source_lines": {
+        "start": 1139,
+        "end": 1142
+      },
+      "timestamp": "01:41:32",
+      "text_hash": "3eea7b0d"
+    },
+    {
+      "id": "utt-014132-278",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "So let's let, for tomorrow, let's let the two presentations, whatever they're going to be called, happen, you know, Rishi and Geo, they'll make those, that's 40 minutes, and then 10 minutes will be taken up just getting people in the room, and then we can do the last half hour as a body double group. Does that work? What did you think, Stara? It sounds like that wasn't what you had in mind.",
+      "source_lines": {
+        "start": 1143,
+        "end": 1146
+      },
+      "timestamp": "01:41:32",
+      "timestamp_end": "01:41:54",
+      "text_hash": "4e52e88d"
+    },
+    {
+      "id": "utt-014157-279",
+      "speaker": "Rick Webster",
+      "verbatim_text": "30 minutes is, I mean, there's not a lot of time. But, yeah, it's better than nothing, so, and I will check out the Renify groups, too.",
+      "source_lines": {
+        "start": 1147,
+        "end": 1150
+      },
+      "timestamp": "01:41:57",
+      "timestamp_end": "01:42:00",
+      "text_hash": "6a251d1e"
+    },
+    {
+      "id": "utt-014205-280",
+      "speaker": "Doug Snyder",
+      "verbatim_text": "Okay. Right, right, right. It's all good. It's all good. And, hold on one second, what?\n*Pass 1 processed: 2026-01-10T21:28:44.848Z*",
+      "source_lines": {
+        "start": 1151,
+        "end": 1157
+      },
+      "timestamp": "01:42:05",
+      "timestamp_end": "01:42:09",
+      "text_hash": "a299fad8"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "fragmented_text",
+      "source_line": 35,
+      "message": "Very short utterance (5 chars): \"Okay.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 103,
+      "message": "Very short utterance (5 chars): \"Okay.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 311,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 375,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 571,
+      "message": "Very short utterance (9 chars): \"Oh, yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 587,
+      "message": "Very short utterance (9 chars): \"Oh, okay.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 619,
+      "message": "Very short utterance (5 chars): \"Okay.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 631,
+      "message": "Very short utterance (4 chars): \"Yep.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 675,
+      "message": "Very short utterance (4 chars): \"Yes.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 683,
+      "message": "Very short utterance (5 chars): \"Okay.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 779,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 787,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 851,
+      "message": "Very short utterance (5 chars): \"Okay.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 879,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 939,
+      "message": "Very short utterance (6 chars): \"I did.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 943,
+      "message": "Very short utterance (6 chars): \"I did.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 1015,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 1051,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 1063,
+      "message": "Very short utterance (8 chars): \"Is what?\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 1095,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    },
+    {
+      "type": "fragmented_text",
+      "source_line": 1139,
+      "message": "Very short utterance (5 chars): \"Yeah.\""
+    }
+  ]
+}

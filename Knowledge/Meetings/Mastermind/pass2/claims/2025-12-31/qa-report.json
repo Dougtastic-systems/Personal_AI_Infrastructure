@@ -1,0 +1,445 @@
+{
+  "session_date": "2025-12-31",
+  "transcript_path": "/Users/DSnyder/Personal_AI_Infrastructure/Knowledge/Meetings/Mastermind/raw/2025-12-31/transcript.md",
+  "checked_at": "2026-01-11T00:55:01.536Z",
+  "passed": true,
+  "summary": {
+    "total_speakers": 5,
+    "resolved_speakers": 5,
+    "unresolved_speakers": [],
+    "total_turns": 371,
+    "duration_minutes": 104,
+    "word_count": 17578
+  },
+  "findings": [
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 61",
+      "description": "Possible transcription artifact: Stuttered I",
+      "actual": "I I",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 61",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "um",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 69",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Oh!",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 113",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Oh, yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "warning",
+      "type": "content_truncation",
+      "location": "Line 145",
+      "description": "Turn appears truncated (ends with \"...\")",
+      "actual": " and I don't want to get into advice stuff, but...",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 165",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Hey, guys.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 169",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Hey, Stara.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 249",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yes.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 289",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Yeah, paradox.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 341",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "it.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 381",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Absolutely.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 409",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "New Year's.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 413",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 437",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Every day!",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 453",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Oh!",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 461",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Right?",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 485",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Well, yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 513",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "You know?",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 625",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Right?",
+      "auto_fixable": false
+    },
+    {
+      "severity": "warning",
+      "type": "content_truncation",
+      "location": "Line 673",
+      "description": "Turn appears truncated (ends with \"...\")",
+      "actual": "at, the, what you just said, the outcome has to...",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 713",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Okay, okay.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 729",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "um",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 765",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Good.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 845",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "warning",
+      "type": "content_truncation",
+      "location": "Line 905",
+      "description": "Turn appears truncated (ends with \"...\")",
+      "actual": "in a group kind of way. Thank And, um, yeah, so...",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 905",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "um",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 909",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "Uh",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 921",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Oh, yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 925",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "um",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 929",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "uh",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 937",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "um",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 961",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "warning",
+      "type": "content_truncation",
+      "location": "Line 969",
+      "description": "Turn appears truncated (ends with \"...\")",
+      "actual": "Like, what's...",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 981",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Oh.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1041",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Oh, okay.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1053",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Yeah, no.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1057",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Today.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1073",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "What?",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 1117",
+      "description": "Possible transcription artifact: Filler words preserved",
+      "actual": "Uh",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "transcription_error",
+      "location": "Line 1181",
+      "description": "Possible transcription artifact: Stuttered I",
+      "actual": "I I",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1201",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "What day?",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1217",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "Every day?",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1273",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1349",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yeah.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1373",
+      "description": "Very short turn (1 words) - possible fragment",
+      "actual": "Yep.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1377",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "With music.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Line 1381",
+      "description": "Very short turn (2 words) - possible fragment",
+      "actual": "It's exposure.",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Speaker: Doug Snyder",
+      "description": "Turn count differs: transcript=85, speakers.json=478",
+      "actual": "85 turns",
+      "expected": "478 turns",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Speaker: Rick Webster",
+      "description": "Turn count differs: transcript=109, speakers.json=437",
+      "actual": "109 turns",
+      "expected": "437 turns",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Speaker: Lizzy Summers",
+      "description": "Turn count differs: transcript=40, speakers.json=166",
+      "actual": "40 turns",
+      "expected": "166 turns",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Speaker: Stara Shakti",
+      "description": "Turn count differs: transcript=107, speakers.json=212",
+      "actual": "107 turns",
+      "expected": "212 turns",
+      "auto_fixable": false
+    },
+    {
+      "severity": "info",
+      "type": "merge_artifact",
+      "location": "Speaker: Gio",
+      "description": "Turn count differs: transcript=30, speakers.json=135",
+      "actual": "30 turns",
+      "expected": "135 turns",
+      "auto_fixable": false
+    }
+  ],
+  "counts": {
+    "critical": 0,
+    "warning": 4,
+    "info": 48
+  },
+  "recommendations": [
+    "4 truncated turns detected - check Fathom recording for complete content"
+  ]
+}

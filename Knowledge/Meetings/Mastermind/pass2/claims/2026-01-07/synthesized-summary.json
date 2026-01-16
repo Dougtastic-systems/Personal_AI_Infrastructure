@@ -1,0 +1,15 @@
+{
+  "session_date": "2026-01-07",
+  "validated_claims_id": "validated-2026-01-07",
+  "synthesized_at": "2026-01-11T01:06:24.878Z",
+  "overview": {
+    "text": "Session covering 0 participants with 0 validated claims.",
+    "supporting_claims": [],
+    "interpretation_level": "minimal",
+    "interpretation_notes": "Overview generated from claim counts"
+  },
+  "member_summaries": [],
+  "moments": [],
+  "themes": [],
+  "commitments": []
+}

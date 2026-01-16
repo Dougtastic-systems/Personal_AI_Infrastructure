@@ -1,0 +1,163 @@
+{
+  "session_date": "2026-01-06",
+  "raw_extraction_id": "raw-2026-01-06",
+  "extracted_at": "2026-01-11T01:25:00.000Z",
+  "claims": [
+    {
+      "id": "claim-001",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick introduced peer coaching principles - presume competence, ask questions not advice",
+        "quoted_text": "Presume competence... We don't want to just be giving the advice of, if I were in your shoes, I would do such and such. We all know that doesn't work."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-rick-coaching",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 60, "end": 78}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-002",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy presented her art business dilemma - multiple product lines and struggling with focus",
+        "quoted_text": "Every product I have, every step I get, there's a thousand other steps I need to do."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-lizzy-business",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 82, "end": 96}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-003",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy described her groundhog day feeling with projects",
+        "quoted_text": "I'm at this impasse. This happens over and over and over. It's my groundhog nightmare."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-lizzy-groundhog",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 87, "end": 88}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-004",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Jasmine Mahmoud",
+        "assertion": "Jasmine presented her masking framework - masking is trying to eliminate error in advance",
+        "quoted_text": "Masking is basically trying to eliminate error in advance. You're pre-editing everything, hiding anything risky, aiming for zero misunderstanding."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-jasmine-masking",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 110, "end": 111}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-005",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug completed annual performance appraisal - two weeks late but done, treated it differently this time",
+        "quoted_text": "completed annual performance appraisal"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-doug-appraisal",
+        "relationship": "paraphrase_of",
+        "source_lines": {"start": 35, "end": 38}
+      }],
+      "confidence": "paraphrase",
+      "inference_rationale": "Paraphrased from check-in summary"
+    },
+    {
+      "id": "claim-006",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gio",
+        "assertion": "Gio found what lights her up - stayed up all night making music in GarageBand",
+        "quoted_text": "stayed up all night making music"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-gio-music",
+        "relationship": "paraphrase_of",
+        "source_lines": {"start": 42, "end": 45}
+      }],
+      "confidence": "paraphrase",
+      "inference_rationale": "Paraphrased from check-in summary"
+    },
+    {
+      "id": "claim-007",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Stara Shakti",
+        "assertion": "Stara committed to using a paper planner and keeping it open on desk",
+        "quoted_text": "paper planner - keep it open"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-stara-planner",
+        "relationship": "paraphrase_of",
+        "source_lines": {"start": 141, "end": 144}
+      }],
+      "confidence": "paraphrase",
+      "inference_rationale": "Commitment from summary"
+    },
+    {
+      "id": "claim-008",
+      "type": "speaker_reacted",
+      "content": {
+        "subject": "Stara Shakti",
+        "assertion": "Stara praised the presume competence principle",
+        "quoted_text": "I really love what you said about presuming competence. Even if it's not there right now, that person will get there.",
+        "related_speakers": ["Rick Webster"]
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-stara-reaction",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 74, "end": 75}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-009",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Jasmine Mahmoud",
+        "assertion": "Jasmine shared she got 4000 views on her TikTok video about masking",
+        "quoted_text": "4000 views"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-jasmine-tiktok",
+        "relationship": "paraphrase_of",
+        "source_lines": {"start": 116, "end": 117}
+      }],
+      "confidence": "paraphrase",
+      "inference_rationale": "Number mentioned in summary"
+    },
+    {
+      "id": "claim-010",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick said you don't know what's behind someone's smile - people are struggling with things we might not know about",
+        "quoted_text": "You don't know what's behind someone's smile. People are struggling with things that we might not know about."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260106-rick-smile",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 71, "end": 72}
+      }],
+      "confidence": "verbatim"
+    }
+  ],
+  "unused_utterances": []
+}

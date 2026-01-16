@@ -1,0 +1,172 @@
+{
+  "session_date": "2026-01-06",
+  "session_title": "DCM - MasterMind Pilot",
+  "duration_minutes": 102,
+  "fathom_url": "https://fathom.video/share/sMBXxxThqtUtyesQo3WmjACj7FR6cWjG",
+
+  "attendees": [
+    {"name": "Doug Snyder", "email": "doug.s.snyder@gmail.com"},
+    {"name": "Rick Webster", "email": "rwebster@rena-fi.com"},
+    {"name": "Jasmine Mahmoud", "email": "jasmine.enetwork@gmail.com"},
+    {"name": "Lizzy Summers", "email": "elisabethcarr23@gmail.com"},
+    {"name": "Stara Shakti", "email": "starashaktilmft@gmail.com"},
+    {"name": "Gio", "email": "gilyrics@gmail.com"},
+    {"name": "Raghu Kalyan", "email": "raghu@example.com"},
+    {"name": "Rich Malsch", "email": "rich@example.com"},
+    {"name": "Rishi Badlani", "email": "rishi@example.com"},
+    {"name": "Destiny Owens", "email": "destiny@example.com"},
+    {"name": "Melissa Reskof", "email": "melissa.reskof@gmail.com"}
+  ],
+
+  "overview": "Halfway through the pilot, the group focused on peer coaching principles and held three member presentations. Rick introduced guidelines for being supportive peer coaches, then Lizzy, Stara, and Jasmine each presented their current projects and received group feedback. Jasmine's presentation on masking and worry sparked significant interest.",
+
+  "topics_covered": [
+    "Peer coaching principles - presume competence, ask questions not advice",
+    "Performance reviews and self-advocacy (Doug's celebration)",
+    "Lizzy's art business: window coverings vs. accessories vs. prints",
+    "Stara's Decolonizing Therapy program enrollment",
+    "Jasmine's masking framework - worry, conscientiousness, and repair",
+    "Organization challenges - planners, object permanence, habit stacking"
+  ],
+
+  "member_checkins": [
+    {
+      "name": "Doug Snyder",
+      "shared": "Completed annual performance appraisal - two weeks late but done. Treated it differently this time, doing it for himself instead of performatively.",
+      "challenge": "Procrastination was a signal - wasn't in a safe space to look at it calmly",
+      "insight": "Boss has been championing him; needed to honor that messaging instead of focusing on where he could have done better",
+      "commitment": null
+    },
+    {
+      "name": "Gio",
+      "shared": "Found what lights her up - stayed up all night making music in GarageBand. Wrote a song for her daughters, working on a song about depression.",
+      "challenge": "Not sure how to apply music creation practically",
+      "insight": "Really into putting puzzle pieces together to make what she thinks is a good song",
+      "commitment": null
+    },
+    {
+      "name": "Rishi Badlani",
+      "shared": "Working on updating resume, looking for a new job but wanting something purposeful rather than parallel job.",
+      "challenge": "Hasn't been consistent in attending",
+      "insight": null,
+      "commitment": null
+    }
+  ],
+
+  "standout_moments": [
+    {
+      "title": "Peer Coaching Principles",
+      "speaker": "Rick Webster",
+      "time_range": "00:09:27 - 00:22:00",
+      "description": "Rick laid out principles for being effective peer coaches to each other, emphasizing that we're not mechanics fixing engines or traffic cops punishing mistakes.",
+      "the_framework": [
+        "Presume competence - it's not your field, they will figure it out",
+        "Emphasize curiosity over interrogation",
+        "Avoid yes/no questions - ask deeper questions that help them process",
+        "Separate the person from the system - 'The system you're using is failing, not you'",
+        "Be aware that everyone carries things behind their smile"
+      ],
+      "key_quotes": [
+        "We don't want to just be giving the advice of, if I were in your shoes, I would do such and such. We all know that doesn't work.",
+        "You don't know what's behind someone's smile. People are struggling with things that we might not know about."
+      ],
+      "group_response": [
+        {"speaker": "Stara Shakti", "reaction": "I really love what you said about presuming competence. Even if it's not there right now, that person will get there."},
+        {"speaker": "Lizzy Summers", "reaction": "I have to have confidence in ourselves too. I tell myself there's no way I can handle this, but there is a part of me that's going to know."}
+      ],
+      "ripple": "Set the tone for how the group would support Lizzy, Stara, and Jasmine's presentations"
+    },
+    {
+      "title": "Lizzy's Art Business Crossroads",
+      "speaker": "Lizzy Summers",
+      "time_range": "00:25:16 - 00:40:37",
+      "description": "Lizzy presented her dilemma: she has multiple product lines (large art panels, prints, Comfort Nest travel accessories) and is struggling with which to focus on. Groundhog day feeling of always having more steps to complete.",
+      "the_framework": null,
+      "key_quotes": [
+        "Every product I have, every step I get, there's a thousand other steps I need to do.",
+        "I'm at this impasse. This happens over and over and over. It's my groundhog nightmare.",
+        "Something that can make money fast, least output, least amount of nervous system stress."
+      ],
+      "group_response": [
+        {"speaker": "Stara Shakti", "reaction": "Your artwork is amazing. Maybe work with your nervous system first, before planning. Breaking things down into steps has helped me."},
+        {"speaker": "Gio", "reaction": "Is it possible to narrow your focus to one thing? One that lights you up the most and simplifies the process?"},
+        {"speaker": "Raghu Kalyan", "reaction": "Have you sent any sort of feeler or survey? Are there people out there who will buy the product?"}
+      ],
+      "ripple": "Lizzy mentioned the cataloging and description writing is where she gets stuck - 'the naming, the logging' blocks her"
+    },
+    {
+      "title": "Jasmine's Masking Framework",
+      "speaker": "Jasmine Mahmoud",
+      "time_range": "00:58:54 - 01:10:00",
+      "description": "Jasmine presented her framework on masking, inspired by Dr. Amen's work on SSRIs and worry. She reframed masking as trying to eliminate error in advance, and proposed unmasking as 'be real and skillful' with capacity for repair.",
+      "the_framework": [
+        "Healthy worry = conscientiousness (points to values, produces action, lets go)",
+        "Pathological worry = compulsory, keeps running after reasonable steps, trying to buy certainty with thoughts",
+        "Masking = trying to eliminate error in advance, pre-editing everything, expensive and often fails",
+        "Unmasking = not 'be raw and hope for the best' but 'be real and skillful'",
+        "Key insight: You don't need perfect understanding up front, you need capacity to repair misunderstanding"
+      ],
+      "key_quotes": [
+        "Masking is basically trying to eliminate error in advance. You're pre-editing everything, hiding anything risky, aiming for zero misunderstanding.",
+        "How can I be a voice that can help counter that negativity? On social media it's very much a culture of despair."
+      ],
+      "group_response": [
+        {"speaker": "Rick Webster", "reaction": "Do you have a goal in mind for these?"}
+      ],
+      "ripple": "Jasmine shared she got 4000 views on her TikTok video - testing short-form content for her ideas"
+    }
+  ],
+
+  "themes": [
+    {
+      "name": "Ask Questions, Don't Give Advice",
+      "description": "Rick's peer coaching principles and the group's practice throughout the presentations showed the power of questions over prescriptions.",
+      "contributors": ["Rick Webster", "Raghu Kalyan", "Gio"]
+    },
+    {
+      "name": "Nervous System Before Productivity",
+      "description": "Multiple members acknowledged that calming the nervous system comes before tackling tasks - Lizzy arriving activated, Stara needing grounding before action.",
+      "contributors": ["Lizzy Summers", "Stara Shakti", "Rick Webster"]
+    },
+    {
+      "name": "The Overwhelm of Too Many Options",
+      "description": "Both Lizzy and Stara struggle with too many products/projects and not knowing which to focus on. Simplification and prioritization emerged as needs.",
+      "contributors": ["Lizzy Summers", "Stara Shakti", "Gio"]
+    }
+  ],
+
+  "commitments": [
+    {
+      "person": "Stara Shakti",
+      "action": "Start using paper planner - keep it open on desk at all times",
+      "due": null,
+      "context": "Destiny reminded her about object permanence - if you close it, you forget it exists"
+    },
+    {
+      "person": "Stara Shakti",
+      "action": "Put RenaFi co-working sessions in calendar",
+      "due": null,
+      "context": "Jasmine asked about reducing friction, Stara said co-working helps"
+    },
+    {
+      "person": "Jasmine Mahmoud",
+      "action": "Continue developing masking framework content for social media",
+      "due": null,
+      "context": "Testing if this resonates - got 4000 views on TikTok"
+    }
+  ],
+
+  "announcements": [
+    {
+      "from": "Stara Shakti",
+      "content": "Appearing on Melissa's podcast (Conversations with Melissa) on Sunday",
+      "type": "info"
+    }
+  ],
+
+  "_meta": {
+    "version": 1,
+    "created_at": "2026-01-10T23:30:00.000Z",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "session_date": "2025-12-30",
+  "validated_claims_id": "validated-2025-12-30",
+  "synthesized_at": "2026-01-11T01:01:00.763Z",
+  "overview": {
+    "text": "Session covering 3 participants with 17 validated claims.",
+    "supporting_claims": [],
+    "interpretation_level": "minimal",
+    "interpretation_notes": "Overview generated from claim counts"
+  },
+  "member_summaries": [
+    {
+      "name": "Lizzy Summers",
+      "email": "elisabethcarr23@gmail.com",
+      "shared": {
+        "text": "Lizzy is committing to eight body doubles on RenaFi to tackle business paperwork and hard tasks. Lizzy used ChatGPT with all her personality tests to get aligned guidance. Lizzy declared this will be her slow year and her systems year",
+        "supporting_claims": [
+          "claim-001",
+          "claim-002",
+          "claim-003"
+        ],
+        "interpretation_level": "none"
+      },
+      "challenge": null,
+      "insight": null,
+      "commitment": {
+        "text": "Lizzy committed to completing 8 body doubles on RenaFi for business paperwork",
+        "supporting_claims": [
+          "claim-007"
+        ],
+        "interpretation_level": "none"
+      }
+    },
+    {
+      "name": "Doug Snyder",
+      "email": "doug.s.snyder@gmail.com",
+      "shared": {
+        "text": "Doug proposed the concept of 'new starts' for discussion - resetting when things get chaotic. Doug said our work should be our documentation, not requiring separate documentation after the fact",
+        "supporting_claims": [
+          "claim-016",
+          "claim-017"
+        ],
+        "interpretation_level": "none"
+      },
+      "challenge": null,
+      "insight": null,
+      "commitment": {
+        "text": "Doug committed to piloting meeting summary service with David",
+        "supporting_claims": [
+          "claim-018"
+        ],
+        "interpretation_level": "none"
+      }
+    },
+    {
+      "name": "Rick Webster",
+      "email": "rwebster@rena-fi.com",
+      "shared": {
+        "text": "Rick said knowing what the problem is reduces anxiety compared to just knowing there is a problem",
+        "supporting_claims": [
+          "claim-013"
+        ],
+        "interpretation_level": "none"
+      },
+      "challenge": null,
+      "insight": null,
+      "commitment": null
+    }
+  ],
+  "moments": [],
+  "themes": [],
+  "commitments": [
+    {
+      "person": "Lizzy Summers",
+      "action": {
+        "text": "Lizzy committed to completing 8 body doubles on RenaFi for business paperwork",
+        "supporting_claims": [
+          "claim-007"
+        ],
+        "interpretation_level": "none"
+      },
+      "due": null,
+      "context": null
+    },
+    {
+      "person": "Doug Snyder",
+      "action": {
+        "text": "Doug committed to piloting meeting summary service with David",
+        "supporting_claims": [
+          "claim-018"
+        ],
+        "interpretation_level": "none"
+      },
+      "due": null,
+      "context": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "resolved_name": "Rick Webster",
+    "email": "rwebster@rena-fi.com",
+    "display_names": [
+      "Rick"
+    ],
+    "turn_count": 290,
+    "word_count": 2899,
+    "first_timestamp": "00:00:03",
+    "last_timestamp": "01:44:58"
+  },
+  {
+    "resolved_name": "Doug Snyder",
+    "email": "doug.s.snyder@gmail.com",
+    "display_names": [
+      "Doug Snyder"
+    ],
+    "turn_count": 186,
+    "word_count": 2608,
+    "first_timestamp": "00:05:49",
+    "last_timestamp": "01:46:30"
+  },
+  {
+    "resolved_name": "Rishi Badlani",
+    "email": "rishi.badlani33@gmail.com",
+    "display_names": [
+      "iPhone"
+    ],
+    "turn_count": 169,
+    "word_count": 2512,
+    "first_timestamp": "00:00:20",
+    "last_timestamp": "01:39:23"
+  },
+  {
+    "resolved_name": "Gio",
+    "email": "gilyrics@gmail.com",
+    "display_names": [
+      "gio"
+    ],
+    "turn_count": 148,
+    "word_count": 1941,
+    "first_timestamp": "00:00:45",
+    "last_timestamp": "01:47:20"
+  },
+  {
+    "resolved_name": "Gregory Cowley",
+    "email": "gregory@cca.edu",
+    "display_names": [
+      "Gregory Cowley"
+    ],
+    "turn_count": 104,
+    "word_count": 1651,
+    "first_timestamp": "00:15:04",
+    "last_timestamp": "01:38:36"
+  },
+  {
+    "resolved_name": "Stara Shakti",
+    "email": "starashaktilmft@gmail.com",
+    "display_names": [
+      "Stara Shakti, LMFT"
+    ],
+    "turn_count": 112,
+    "word_count": 1497,
+    "first_timestamp": "00:08:14",
+    "last_timestamp": "01:46:49"
+  },
+  {
+    "resolved_name": "Melissa Reskof",
+    "email": "melissa.reskof@gmail.com",
+    "display_names": [
+      "Melissa Reskof"
+    ],
+    "turn_count": 80,
+    "word_count": 1122,
+    "first_timestamp": "00:42:07",
+    "last_timestamp": "01:40:00"
+  },
+  {
+    "resolved_name": "Lizzy Summers",
+    "email": "elisabethcarr23@gmail.com",
+    "display_names": [
+      "Lizzy Summers"
+    ],
+    "turn_count": 77,
+    "word_count": 971,
+    "first_timestamp": "00:02:48",
+    "last_timestamp": "01:45:01"
+  }
+]

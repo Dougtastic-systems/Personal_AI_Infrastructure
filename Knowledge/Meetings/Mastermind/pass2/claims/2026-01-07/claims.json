@@ -1,0 +1,278 @@
+{
+  "session_date": "2026-01-07",
+  "raw_extraction_id": "raw-2026-01-07",
+  "extracted_at": "2026-01-11T01:30:00.000Z",
+  "claims": [
+    {
+      "id": "claim-001",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rishi Badlani",
+        "assertion": "Rishi presented his task paralysis problem - wanting to change jobs but struggling to start",
+        "quoted_text": "There's, like, these, these things in my head that I'm always, like, thinking, like, I should do this or I should do that."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-rishi-paralysis",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 224, "end": 227}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-002",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rishi Badlani",
+        "assertion": "Rishi shared he's been stuck in finance for a decade wanting to change",
+        "quoted_text": "I've been saying this for maybe a decade, but I always, I've never, I can't, I find it very hard or I just don't do it to, in order to get started"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-rishi-decade",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 224, "end": 227}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-003",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rishi Badlani",
+        "assertion": "Rishi identified sports and social connection as what interests him",
+        "quoted_text": "It's crazy how that works, you know, and I don't know, I just think there's a social aspect to it that, you know, people... People really just are, you know, have a lot in common with it"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-rishi-sports",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 348, "end": 351}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-004",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gio",
+        "assertion": "Gio presented her singing for mental health meetup idea from a year ago",
+        "quoted_text": "singing for mental health and wellness, and here's a description of a session, or the idea, a meetup session, interactive experience designed to help neurodiverse participants"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-gio-singing",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 536, "end": 539}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-005",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gio",
+        "assertion": "Gio mentioned she has trouble getting started and this idea is a year old",
+        "quoted_text": "first, I have trouble getting started. Like this, this thing I wrote out like a year or so ago, and I haven't started"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-gio-stuck",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 536, "end": 539}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-006",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gregory Cowley",
+        "assertion": "Greg shared he has three jobs - college professor, Exploratorium fabricator, and museum exhibit consultant",
+        "quoted_text": "I have a college professor teaching interaction design, a fabricator at the Exploratorium, and then I work with my own clients on museum exhibits"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-greg-jobs",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 752, "end": 755}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-007",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gregory Cowley",
+        "assertion": "Greg described his vision of a workshop space with collaborations happening",
+        "quoted_text": "I always had the dream of having like a workshop or, you know, a building where people were, you know, workshops were happening in there"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-greg-vision",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 852, "end": 855}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-008",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gregory Cowley",
+        "assertion": "Greg summarized his takeaway - wanting all of it but in a more manageable package",
+        "quoted_text": "what I really want is all of it, but in a more manageable package"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-greg-takeaway",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 912, "end": 915}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-009",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug shared his pattern of overestimating time, overcomplicating, and underestimating effort",
+        "quoted_text": "I will, I will overestimate how long it takes, I will overcomplicate it, I will underestimate. What it will take."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-doug-pattern",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 168, "end": 171}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-010",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick noted Doug made affirmations for things he doesn't want to do",
+        "quoted_text": "you just made affirmations for all the things that you don't want to do. I will take too long. I will do this. I will do that. And your subconscious mind just heard all those things as affirmations."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-rick-affirmations",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 172, "end": 175}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-011",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Rishi Badlani",
+        "assertion": "Rishi committed to updating resume and looking at Fanatics job postings",
+        "quoted_text": "The resume that I have, two job postings that I need, which were related to like Fanatics is a company that I was thinking about applying to"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-rishi-commitment",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1128, "end": 1131}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-012",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Gio",
+        "assertion": "Gio committed to imagining the group, what she'd enjoy, and finding friends to invite",
+        "quoted_text": "Imagine what I see the group would look like. Imagine what I would enjoy, having people come along for the ride and then finding people for the ride, like looking at my friend list"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-gio-commitment",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1156, "end": 1159}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-013",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Gregory Cowley",
+        "assertion": "Greg committed to reducing stress/weight and getting back to exercising",
+        "quoted_text": "definitely trying to reduce the stress or reduce the weight, I guess I should say. And actually, I need to get back on exercising"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-greg-commitment",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1112, "end": 1115}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-014",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy committed to telling someone every day she has something for sale",
+        "quoted_text": "I'm going to tell somebody every day until our next meeting I have something for sale"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-lizzy-commitment",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 1092, "end": 1095}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-015",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug committed to slowing down and getting workbench ready for his big project",
+        "quoted_text": "slowing down is I have a big project ahead of me. All of a sudden, now all of a sudden, the pressure. So I'm stopping to get my quote-unquote workbench ready"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-doug-commitment",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1176, "end": 1179}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-016",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug shared his morning walking habit with phone buddies that stacks multiple benefits",
+        "quoted_text": "I go hike up a local hill that's right outside my house, so I'm lucky that way. But I do some movement and talk with people and wake up and talk about interesting ideas, so I get four things in once"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-doug-walking",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1136, "end": 1139}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-017",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Melissa Reskof",
+        "assertion": "Melissa noted Doug did a big lifestyle change after diabetes diagnosis - walks daily and keto diet",
+        "quoted_text": "Doug got a diabetes diagnosis, I would say two or three years ago, and did a big lifestyle change. He walks every day with some buddies on the phone who are Zoom buddies, and he moved over to a keto regime"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-melissa-doug",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 1132, "end": 1135}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-018",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Stara Shakti",
+        "assertion": "Stara announced she's doing Melissa's podcast Sunday - Decolonizing Therapy coaching program",
+        "quoted_text": "Decolonizing Therapy 12-Week Coaching Program, among other things, among other things, among Chuck DeFair Rising"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20260107-stara-podcast",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1056, "end": 1059}
+      }],
+      "confidence": "verbatim"
+    }
+  ],
+  "unused_utterances": []
+}

@@ -1,0 +1,21 @@
+{
+  "session_date": "2026-01-07",
+  "summary_id": "summary-2026-01-07",
+  "audited_at": "2026-01-11T01:06:28.913Z",
+  "passed": true,
+  "findings": [],
+  "summary": {
+    "critical_count": 0,
+    "warning_count": 0,
+    "info_count": 0
+  },
+  "checks_performed": [
+    "fabricated_words_check",
+    "inference_indicators_check",
+    "compound_phrases_check",
+    "quote_verification",
+    "speaker_attribution",
+    "evidence_requirements"
+  ],
+  "methodology": "Adversarial audit performed with the following approach:\n1. Scanned all text fields for words/phrases not in source transcript\n2. Identified compound phrases that may be fabricated\n3. Verified all quoted text exists at specified locations\n4. Confirmed all speaker names exist in transcript\n5. Checked that claims have supporting evidence\n\nPass criteria: Zero critical findings"
+}

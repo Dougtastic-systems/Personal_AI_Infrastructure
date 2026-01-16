@@ -1,0 +1,128 @@
+{
+  "session_date": "2025-12-30",
+  "session_title": "DCM - MasterMind Pilot",
+  "moments": [
+    {
+      "id": "2025-12-30-jasmine-framework",
+      "session_date": "2025-12-30",
+      "time_range": {
+        "start": "00:52:00",
+        "end": "01:15:00"
+      },
+      "primary_speaker": "Jasmine Mahmoud",
+      "primary_email": "jasmine.enetwork@gmail.com",
+      "title": "Framework: Interrupting Rumination Spirals",
+      "category": "framework_share",
+      "core_quotes": [
+        {
+          "speaker": "Jasmine Mahmoud",
+          "text": "When we ask ourselves, 'How am I going to do this?' or 'What if it doesn't work?' Those questions put us in a bad state. What if we replace them with: 'What would make today successful?'",
+          "timestamp": "00:54:00"
+        },
+        {
+          "speaker": "Jasmine Mahmoud",
+          "text": "We don't need generic productivity hacks. We actually need nervous system interventions.",
+          "timestamp": "00:56:00"
+        },
+        {
+          "speaker": "Jasmine Mahmoud",
+          "text": "On the horizon, potentially countering culture of despair... that's what gets me excited. It would be a lifelong journey.",
+          "timestamp": "01:08:00"
+        }
+      ],
+      "reactions": [
+        {
+          "speaker": "Julie Dorshkind",
+          "type": "validation",
+          "quote": "This is amazing. I've never heard a framework like that before.",
+          "timestamp": "00:58:00"
+        },
+        {
+          "speaker": "Stara Shakti",
+          "type": "validation",
+          "quote": "This could be a TED talk.",
+          "timestamp": "00:59:00"
+        },
+        {
+          "speaker": "Doug Snyder",
+          "type": "challenge",
+          "quote": "Jasmine, use your framework. I want to hear, what is the one thing, your one thing that you want to do, and we'll check in.",
+          "timestamp": "01:02:00"
+        },
+        {
+          "speaker": "Julie Dorshkind",
+          "type": "connection",
+          "quote": "The language is so key. The question 'what would make today successful' versus 'what do I need to get done' - completely different energy.",
+          "timestamp": "01:05:00"
+        }
+      ],
+      "ripple_effects": [
+        {
+          "speaker": "Lizzy Summers",
+          "description": "Immediately applied the framework to her own day",
+          "quote": "I'll figure out one thing I want to do today. Just one thing."
+        },
+        {
+          "speaker": "Julie Dorshkind",
+          "description": "Connected to her coaching work with clients",
+          "quote": null
+        }
+      ],
+      "speaker_evolution": {
+        "started_with": "Presenting a generic question framework for productivity",
+        "ended_with": "Iterated to more specific version after Doug's challenge; committed to applying it herself",
+        "catalyst": "Doug's challenge to use her own framework"
+      },
+      "attributions_given": [
+        {
+          "from_speaker": "Jasmine Mahmoud",
+          "to_speaker": "Doug Snyder",
+          "context": "Earlier input that helped refine the question",
+          "quote": "Doug, you actually helped me refine this earlier"
+        }
+      ],
+      "attributions_received": [],
+      "engagement_count": 4,
+      "impact_level": "high"
+    }
+  ],
+  "themes": [
+    {
+      "name": "Nervous System Over Productivity",
+      "description": "The insight that what we need isn't better productivity systems but interventions that regulate our nervous system state",
+      "related_moments": [
+        "2025-12-30-jasmine-framework"
+      ],
+      "contributors": [
+        "Jasmine Mahmoud",
+        "Stara Shakti"
+      ]
+    },
+    {
+      "name": "Power of Question Framing",
+      "description": "How the specific words we use in self-inquiry change our state and outcomes",
+      "related_moments": [
+        "2025-12-30-jasmine-framework"
+      ],
+      "contributors": [
+        "Jasmine Mahmoud",
+        "Julie Dorshkind"
+      ]
+    }
+  ],
+  "participation": [
+    {
+      "name": "Jasmine Mahmoud",
+      "email": "jasmine.enetwork@gmail.com",
+      "moments_led": 1,
+      "reactions_given": 0,
+      "attributions_received": 0,
+      "attributions_given": 1
+    }
+  ],
+  "_meta": {
+    "version": 2,
+    "created_at": "2026-01-10T21:57:04.678Z",
+    "previous_version": 1
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "session_date": "2025-12-30",
+  "session_title": "DCM - MasterMind Pilot",
+  "duration_minutes": 94,
+  "fathom_url": "https://fathom.video/share/QHk27d_kexdKUwF6ECwir7m4HzRyArN1",
+
+  "attendees": [
+    {"name": "Doug Snyder", "email": "doug.s.snyder@gmail.com"},
+    {"name": "Rick Webster", "email": "rwebster@rena-fi.com"},
+    {"name": "Jasmine Mahmoud", "email": "jasmine.enetwork@gmail.com"},
+    {"name": "Lizzy Summers", "email": "elisabethcarr23@gmail.com"},
+    {"name": "Stara Shakti", "email": "starashaktilmft@gmail.com"},
+    {"name": "Julie Dorshkind", "email": "jdorshkind@yahoo.com"},
+    {"name": "David Ludwig", "email": "davidludwig7@gmail.com"},
+    {"name": "Melissa Reskof", "email": "melissa.reskof@gmail.com"},
+    {"name": "Gio", "email": "gilyrics@gmail.com", "arrived_late": true}
+  ],
+
+  "overview": "Our pilot session focused on introductions, sharing what's on our minds, and discovering common threads around productivity, nervous system regulation, and accountability. Jasmine's framework on interrupting rumination spirals sparked significant discussion and immediate application from the group.",
+
+  "topics_covered": [
+    "Introductions and check-ins",
+    "What's working and what's challenging right now",
+    "Jasmine's rumination-interruption framework",
+    "Nervous system vs productivity hacks",
+    "Body doubling and accountability",
+    "Commitments for the week"
+  ],
+
+  "standout_moments": [
+    {
+      "title": "Framework: Interrupting Rumination Spirals",
+      "speaker": "Jasmine Mahmoud",
+      "time_range": "00:52:00 - 01:15:00",
+      "core_insight": "When we ask ourselves, 'How am I going to do this?' or 'What if it doesn't work?' Those questions put us in a bad state. What if we replace them with: 'What would make today successful?'",
+      "group_response": "Julie called it 'amazing,' Stara said it could be a TED talk, and Lizzy immediately applied it to her day."
+    }
+  ],
+
+  "themes": [
+    {
+      "name": "Nervous System Over Productivity",
+      "description": "We don't need better productivity hacks - we need interventions that regulate our nervous system state first.",
+      "contributors": ["Jasmine Mahmoud", "Stara Shakti", "Lizzy Summers"]
+    },
+    {
+      "name": "The Power of Better Questions",
+      "description": "The specific words we use in self-inquiry change our state and outcomes. 'What would make today successful?' vs 'What do I need to get done?' creates completely different energy.",
+      "contributors": ["Jasmine Mahmoud", "Julie Dorshkind"]
+    }
+  ],
+
+  "commitments": [
+    {
+      "person": "Jasmine Mahmoud",
+      "action": "Use her own framework and report back",
+      "due": "next session",
+      "context": "Doug challenged her to apply what she's teaching"
+    },
+    {
+      "person": "Lizzy Summers",
+      "action": "Figure out one thing to do today",
+      "due": "today",
+      "context": "Applying Jasmine's framework immediately"
+    }
+  ],
+
+  "announcements": [],
+
+  "next_session": {
+    "date": "2025-12-31",
+    "time": "6:00 AM",
+    "notes": "New Year's Eve session"
+  },
+
+  "_meta": {
+    "version": 1,
+    "created_at": "2026-01-10T22:15:00.000Z",
+    "status": "draft"
+  }
+}

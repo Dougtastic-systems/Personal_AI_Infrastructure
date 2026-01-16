@@ -1,0 +1,126 @@
+{
+  "session_date": "2026-01-07",
+  "session_title": "DCM - MasterMind Pilot",
+  "moments": [
+    {
+      "id": "2026-01-07-gio-vocal-wellness",
+      "session_date": "2026-01-07",
+      "time_range": { "start": "00:46:37", "end": "01:10:00" },
+      "primary_speaker": "Gio",
+      "primary_email": "gilyrics@gmail.com",
+      "title": "Vision: Singing for Mental Health & Wellness Meetup",
+      "category": "framework_share",
+      "core_quotes": [
+        {
+          "speaker": "Gio",
+          "text": "Singing for mental health and wellness - an interactive experience designed to help neurodiverse participants through soothing vocal exercises, Dalcroze-inspired movement, building skills in self-soothing, mindfulness, and body awareness in a supportive group setting.",
+          "timestamp": "00:46:37"
+        },
+        {
+          "speaker": "Gio",
+          "text": "I really do believe that singing is a way to... that it really does something for your well-being.",
+          "timestamp": "00:55:49"
+        },
+        {
+          "speaker": "Gio",
+          "text": "What would I want to foster? A special community interested in singing together.",
+          "timestamp": "00:50:40"
+        }
+      ],
+      "reactions": [
+        {
+          "speaker": "Melissa Reskof",
+          "type": "question",
+          "quote": "Is this still calling to you? When you put it on paper... I'm combining all of these things that really sing my song. Would honing it still work for you?",
+          "timestamp": "00:52:57"
+        },
+        {
+          "speaker": "Doug Snyder",
+          "type": "challenge",
+          "quote": "This is what I'm doing, who wants to come along? Be clear what you need and what you want... The more clarity you have, it helps people self-select.",
+          "timestamp": "00:57:14"
+        },
+        {
+          "speaker": "Lizzy Summers",
+          "type": "validation",
+          "quote": "Just amazing. I love it. I think your avenue is brilliant. To have a group where you can open your mouth and make sounds and not be judged by whatever sound comes out, what a gift! You have a lovely presence to lead something like that.",
+          "timestamp": "00:59:11"
+        },
+        {
+          "speaker": "Gregory Cowley",
+          "type": "connection",
+          "quote": "You'll probably find there's a lot of people who feel the same way... You can start with friends, small group, people on your email. It doesn't have to be formal.",
+          "timestamp": "01:02:12"
+        },
+        {
+          "speaker": "Rishi Badlani",
+          "type": "challenge",
+          "quote": "You won't be able to make everybody happy. Gotta do what you want to do... easier said than done to someone with ADHD, but just do it.",
+          "timestamp": "01:05:50"
+        },
+        {
+          "speaker": "Stara Shakti",
+          "type": "connection",
+          "quote": "Imagine the kind of people you want to come... What problems do you solve for them? I'm starting a Goddess Chant Song Circle... specificity draws specific people.",
+          "timestamp": "01:07:54"
+        }
+      ],
+      "ripple_effects": [
+        {
+          "speaker": "Stara Shakti",
+          "description": "Shared her own parallel experience starting a Goddess Chant Song Circle",
+          "quote": "I'm starting a Goddess Chant Song Circle, and it's for women who love the Divine Feminine... it draws a specific type of person."
+        },
+        {
+          "speaker": "Melissa Reskof",
+          "description": "Connected to her own experience as a singer",
+          "quote": "I'm an alto, I haven't really sung since college... I really liked the singing together in a group. There was some connection that you couldn't name, but it had a vibe."
+        }
+      ],
+      "speaker_evolution": {
+        "started_with": "Year-old idea combining self-hypnosis, Dalcroze movement, and vocal exercises - feeling stuck on how to start",
+        "ended_with": "Clarity to start informally with people she knows, honing down to core: singing together for well-being",
+        "catalyst": "Multiple perspectives: Doug's 'who wants to come along?' framing, Gregory's 'start informal' advice, Rishi's 'just do it'"
+      },
+      "attributions_given": [],
+      "attributions_received": [],
+      "engagement_count": 6,
+      "impact_level": "high"
+    }
+  ],
+  "themes": [
+    {
+      "name": "Clarity Before Action",
+      "description": "The importance of getting clear on what you really want before trying to attract others - 'this is what I'm doing, who wants to come along?'",
+      "related_moments": ["2026-01-07-gio-vocal-wellness"],
+      "contributors": ["Doug Snyder", "Gio", "Stara Shakti"]
+    },
+    {
+      "name": "Start Small and Informal",
+      "description": "Resistance to formal launch can be overcome by starting with friends, small groups, low stakes",
+      "related_moments": ["2026-01-07-gio-vocal-wellness"],
+      "contributors": ["Gregory Cowley", "Gio"]
+    },
+    {
+      "name": "Singing as Somatic Healing",
+      "description": "Voice work as a path to well-being and nervous system regulation",
+      "related_moments": ["2026-01-07-gio-vocal-wellness"],
+      "contributors": ["Gio", "Lizzy Summers", "Stara Shakti"]
+    }
+  ],
+  "participation": [
+    {
+      "name": "Gio",
+      "email": "gilyrics@gmail.com",
+      "moments_led": 1,
+      "reactions_given": 0,
+      "attributions_received": 0,
+      "attributions_given": 0
+    }
+  ],
+  "_meta": {
+    "version": 1,
+    "created_at": "2026-01-10T21:45:00.000Z",
+    "status": "draft"
+  }
+}

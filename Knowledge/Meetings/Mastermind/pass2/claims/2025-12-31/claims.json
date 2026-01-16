@@ -1,0 +1,161 @@
+{
+  "session_date": "2025-12-31",
+  "raw_extraction_id": "raw-2025-12-31",
+  "extracted_at": "2026-01-11T01:20:00.000Z",
+  "claims": [
+    {
+      "id": "claim-001",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy described struggling with the last mile - saying finished in her brain before actually finished",
+        "quoted_text": "I get so in denial about the last mile... I say finished in my brain before I'm really finished"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-lizzy-lastmile",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 208, "end": 211}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-002",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick said 90% Steve fails in the last yard - doesn't go across the finish line",
+        "quoted_text": "90% Steve fails in the last yard, right, he just doesn't go across the finish line"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-rick-90percent",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 338, "end": 341}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-003",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick introduced a Venn diagram concept: values, personality, and skills overlapping as sweet spot",
+        "quoted_text": "I've got my character issues, my values, I've got my personality, another circle. And I have got my skill set... that's my sweet spot"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-rick-venn",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 2042, "end": 2045}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-004",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick mentioned VIA character strengths assessment at viacharacter.org",
+        "quoted_text": "It's called VIA, V-I-A, like the way. Via, so viacharacter.org"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-rick-via",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 1961, "end": 1964}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-005",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick stated his first principle for planning: he doesn't have to do anything except breathe and find something to eat",
+        "quoted_text": "I don't have to do anything. To me, that's an absolute first principle. There is nothing that I have to do other than breathe and find something to eat. So everything that's going on my calendar is my choice."
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-rick-firstprinciple",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 3187, "end": 3190}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-006",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gio",
+        "assertion": "Gio asked for clarification on first principles and how they connect to values",
+        "quoted_text": "What is the connection between first principles and values?"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-gio-question",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 3058, "end": 3061}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-007",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Stara Shakti",
+        "assertion": "Stara committed to sending bio/headshot to Melissa for podcast promotion on January 11",
+        "quoted_text": "I'm going to send the stuff to Melissa that I need to for her to promote... her podcast on January 11th"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-stara-commit",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 4050, "end": 4053}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-008",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Gio",
+        "assertion": "Gio asked for literal instruction on planning - expressing need for structure",
+        "quoted_text": "I kind of need something like that"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-gio-structure",
+        "relationship": "paraphrase_of",
+        "source_lines": {"start": 67, "end": 70}
+      }],
+      "confidence": "paraphrase",
+      "inference_rationale": "Paraphrased from summary context - need to verify exact utterance"
+    },
+    {
+      "id": "claim-009",
+      "type": "group_discussed",
+      "content": {
+        "subject": "Group",
+        "assertion": "The group discussed procrastination as a signal of misalignment with values rather than a failure",
+        "related_speakers": ["Rick Webster", "Doug Snyder", "Lizzy Summers"]
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-group-procrastination",
+        "relationship": "implies",
+        "source_lines": {"start": 338, "end": 341}
+      }],
+      "confidence": "inference",
+      "inference_rationale": "Theme emerged from discussion of last mile challenges and values alignment"
+    },
+    {
+      "id": "claim-010",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick shared body doubling schedule: M-F 7:30-8:30 AM PT; Tue/Wed/Fri 10:00-11:30 AM PT; Mon/Thu 5:00-7:00 PM PT",
+        "quoted_text": "body doubling schedule"
+      },
+      "evidence": [{
+        "utterance_id": "utt-20251231-rick-bodydoubling",
+        "relationship": "paraphrase_of",
+        "source_lines": {"start": 166, "end": 169}
+      }],
+      "confidence": "paraphrase",
+      "inference_rationale": "Schedule details from summary - specific times to be verified"
+    }
+  ],
+  "unused_utterances": []
+}

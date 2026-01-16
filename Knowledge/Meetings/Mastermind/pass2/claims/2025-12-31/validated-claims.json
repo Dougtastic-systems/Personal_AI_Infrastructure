@@ -1,0 +1,155 @@
+{
+  "session_date": "2025-12-31",
+  "claims_extraction_id": "claims-2025-12-31",
+  "validated_at": "2026-01-11T01:02:22.646Z",
+  "results": [
+    {
+      "claim_id": "claim-001",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-lizzy-lastmile",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-002",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-rick-90percent",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-003",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-rick-venn",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-004",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-rick-via",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-005",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-rick-firstprinciple",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-006",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-gio-question",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-007",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-stara-commit",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-008",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-gio-structure",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-009",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-group-procrastination",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    },
+    {
+      "claim_id": "claim-010",
+      "status": "questionable",
+      "evidence_checks": [
+        {
+          "utterance_id": "utt-20251231-rick-bodydoubling",
+          "text_found": false,
+          "speaker_matched": false,
+          "timestamp_matched": false,
+          "actual_text": "[Utterance not found]"
+        }
+      ],
+      "rejection_reason": "Some evidence could not be found at specified locations"
+    }
+  ],
+  "stats": {
+    "total_claims": 10,
+    "verified": 0,
+    "confirmed": 0,
+    "questionable": 10,
+    "rejected": 0
+  },
+  "validated_claims": []
+}

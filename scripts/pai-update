@@ -1,0 +1,240 @@
+#!/bin/bash
+#
+# PAI Update Script - Safely sync with Daniel's upstream repo
+# Run from anywhere: pai-update [check|sync|status]
+#
+
+set -e
+
+PAI_DIR="${PAI_DIR:-$HOME/Personal_AI_Infrastructure}"
+cd "$PAI_DIR"
+
+# Colors for ADHD-friendly output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+NC='\033[0m' # No Color
+
+print_header() {
+    echo ""
+    echo -e "${BLUE}═══════════════════════════════════════════════════════════${NC}"
+    echo -e "${BLUE}  PAI Update Tool${NC}"
+    echo -e "${BLUE}═══════════════════════════════════════════════════════════${NC}"
+    echo ""
+}
+
+print_status() {
+    echo -e "${GREEN}✓${NC} $1"
+}
+
+print_warning() {
+    echo -e "${YELLOW}⚠${NC} $1"
+}
+
+print_error() {
+    echo -e "${RED}✗${NC} $1"
+}
+
+# Check if upstream remote exists
+ensure_upstream() {
+    if ! git remote get-url upstream >/dev/null 2>&1; then
+        print_warning "Adding upstream remote (Daniel's repo)..."
+        git remote add upstream https://github.com/danielmiessler/PAI.git
+        print_status "Upstream remote added"
+    fi
+}
+
+# Show current status
+cmd_status() {
+    print_header
+    echo "📍 Current Status"
+    echo "─────────────────────────────────────────────────────────────"
+
+    ensure_upstream
+
+    echo ""
+    echo "Local branch: $(git branch --show-current)"
+    echo "Your repo:    $(git remote get-url origin)"
+    echo "Upstream:     $(git remote get-url upstream)"
+    echo ""
+
+    # Fetch to check for updates
+    git fetch upstream --quiet 2>/dev/null || true
+    git fetch origin --quiet 2>/dev/null || true
+
+    # Compare with upstream
+    LOCAL=$(git rev-parse HEAD 2>/dev/null)
+    UPSTREAM=$(git rev-parse upstream/main 2>/dev/null || echo "unknown")
+    BASE=$(git merge-base HEAD upstream/main 2>/dev/null || echo "unknown")
+
+    if [ "$LOCAL" = "$UPSTREAM" ]; then
+        print_status "You're up to date with upstream!"
+    elif [ "$LOCAL" = "$BASE" ]; then
+        BEHIND=$(git rev-list --count HEAD..upstream/main)
+        print_warning "You're $BEHIND commits BEHIND upstream"
+        echo "         Run: pai-update sync"
+    elif [ "$UPSTREAM" = "$BASE" ]; then
+        AHEAD=$(git rev-list --count upstream/main..HEAD)
+        print_status "You're $AHEAD commits AHEAD of upstream (your customizations)"
+    else
+        print_warning "Branches have diverged - you have local changes AND upstream has updates"
+        echo "         Run: pai-update sync"
+    fi
+
+    echo ""
+
+    # Check for uncommitted changes
+    if ! git diff --quiet || ! git diff --cached --quiet; then
+        print_warning "You have uncommitted local changes:"
+        git status --short
+        echo ""
+    fi
+}
+
+# Check for updates without applying
+cmd_check() {
+    print_header
+    echo "🔍 Checking for Updates"
+    echo "─────────────────────────────────────────────────────────────"
+
+    ensure_upstream
+
+    echo ""
+    echo "Fetching from upstream..."
+    git fetch upstream
+
+    echo ""
+    echo "Recent upstream changes:"
+    echo ""
+    git log HEAD..upstream/main --oneline --no-merges | head -20
+
+    COMMIT_COUNT=$(git rev-list --count HEAD..upstream/main 2>/dev/null || echo "0")
+
+    echo ""
+    if [ "$COMMIT_COUNT" = "0" ]; then
+        print_status "No new updates available!"
+    else
+        print_warning "$COMMIT_COUNT new commits available from upstream"
+        echo ""
+        echo "To apply these updates, run:"
+        echo "  pai-update sync"
+    fi
+}
+
+# Sync with upstream (the safe way)
+cmd_sync() {
+    print_header
+    echo "🔄 Syncing with Upstream"
+    echo "─────────────────────────────────────────────────────────────"
+
+    ensure_upstream
+
+    # Safety checks
+    if ! git diff --quiet || ! git diff --cached --quiet; then
+        print_error "You have uncommitted changes!"
+        echo ""
+        echo "Please commit or stash your changes first:"
+        echo "  git stash        # Temporarily hide changes"
+        echo "  pai-update sync  # Then run sync"
+        echo "  git stash pop    # Restore your changes"
+        exit 1
+    fi
+
+    CURRENT_BRANCH=$(git branch --show-current)
+    if [ "$CURRENT_BRANCH" != "main" ]; then
+        print_warning "You're on branch '$CURRENT_BRANCH', not 'main'"
+        echo ""
+        read -p "Switch to main and sync? [y/N] " -n 1 -r
+        echo
+        if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+            echo "Cancelled."
+            exit 0
+        fi
+        git checkout main
+    fi
+
+    echo ""
+    echo "Fetching upstream..."
+    git fetch upstream
+
+    echo ""
+    echo "Merging upstream/main into your main..."
+
+    if git merge upstream/main -m "Merge upstream PAI updates"; then
+        echo ""
+        print_status "Successfully merged upstream changes!"
+        echo ""
+        echo "Your local main is now updated."
+        echo ""
+        echo "Next steps:"
+        echo "  1. Test that PAI still works: pai"
+        echo "  2. Push to your GitHub: git push origin main"
+    else
+        echo ""
+        print_error "Merge conflict detected!"
+        echo ""
+        echo "Don't panic! Here's what to do:"
+        echo "  1. Look at conflicting files: git status"
+        echo "  2. Edit files to resolve conflicts (look for <<<<<<< markers)"
+        echo "  3. Stage resolved files: git add <file>"
+        echo "  4. Complete merge: git commit"
+        echo ""
+        echo "Or abort and try later: git merge --abort"
+    fi
+}
+
+# Push to your remote
+cmd_push() {
+    print_header
+    echo "📤 Pushing to Your GitHub"
+    echo "─────────────────────────────────────────────────────────────"
+
+    CURRENT_BRANCH=$(git branch --show-current)
+
+    echo ""
+    echo "Pushing $CURRENT_BRANCH to origin..."
+
+    if git push origin "$CURRENT_BRANCH"; then
+        print_status "Successfully pushed to your GitHub!"
+    else
+        print_error "Push failed. You may need to authenticate."
+        echo ""
+        echo "If this is your first push, GitHub may need authentication."
+        echo "Try: git push -u origin $CURRENT_BRANCH"
+    fi
+}
+
+# Help
+cmd_help() {
+    print_header
+    echo "Usage: pai-update [command]"
+    echo ""
+    echo "Commands:"
+    echo "  status    Show current sync status (default)"
+    echo "  check     Check for upstream updates"
+    echo "  sync      Merge upstream updates into your local"
+    echo "  push      Push your local changes to GitHub"
+    echo "  help      Show this help"
+    echo ""
+    echo "Typical workflow:"
+    echo "  1. pai-update check    # See what's new"
+    echo "  2. pai-update sync     # Get the updates"
+    echo "  3. pai                  # Test it works"
+    echo "  4. pai-update push     # Save to your GitHub"
+    echo ""
+}
+
+# Main
+case "${1:-status}" in
+    status) cmd_status ;;
+    check)  cmd_check ;;
+    sync)   cmd_sync ;;
+    push)   cmd_push ;;
+    help|--help|-h) cmd_help ;;
+    *)
+        print_error "Unknown command: $1"
+        cmd_help
+        exit 1
+        ;;
+esac

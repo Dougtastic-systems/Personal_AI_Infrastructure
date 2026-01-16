@@ -1,0 +1,310 @@
+{
+  "session_date": "2025-12-30",
+  "raw_extraction_id": "raw-2025-12-30",
+  "extracted_at": "2026-01-11T01:10:00.000Z",
+  "claims": [
+    {
+      "id": "claim-001",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy is committing to eight body doubles on RenaFi to tackle business paperwork and hard tasks",
+        "quoted_text": "I'm just going to commit to eight body doubles on RenaFi, and I already know what is my friction with, like, business. And I've got a stack of paperwork."
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-002",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy used ChatGPT with all her personality tests to get aligned guidance",
+        "quoted_text": "I put my strength profile, my INFP, my wealth profile. Every personality test about me in chat, I said, okay, this is me"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-003",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy declared this will be her slow year and her systems year",
+        "quoted_text": "this is going be my slow year, and my systems year"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-004",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy said she cannot play the neurotypical game anymore or she will continue to fail",
+        "quoted_text": "I cannot play the neurotypical game anymore, or I will continue to fail"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-005",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy emphasized the need for alignment with her energy and creativity with nature",
+        "quoted_text": "I've got to be in alignment, my energy, my creativity with nature. That's the only way I'm going to succeed."
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-006",
+      "type": "speaker_expressed",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy described feeling seen and understood when ChatGPT synthesized her personality test results",
+        "quoted_text": "I cried. I felt seen and heard and understood in a way never before."
+      },
+      "evidence": [{
+        "utterance_id": "utt-002241-60",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 269, "end": 272}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-007",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy committed to completing 8 body doubles on RenaFi for business paperwork",
+        "quoted_text": "I'm just going to commit to eight body doubles on RenaFi"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-008",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy shared her new approach includes nature, rest, dogs, eating healthy, walking in the woods, reflecting, social life, and hobbies",
+        "quoted_text": "it feels doable because I know it includes nature, rest, dogs, eating healthy, walking in the woods, reflecting, hanging out with you guys, having more social life, having a hobby"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001851-54",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 245, "end": 248}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-009",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Julie Dorshkind",
+        "assertion": "Julie said she struggles with new starts and that 'the me creeps back in' when trying to change",
+        "quoted_text": "I'm still struggling with new starts... the me creeps back in"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001428-41",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 193, "end": 196}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-010",
+      "type": "speaker_reacted",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug reacted strongly to Julie's phrase 'the me creeps back in'",
+        "quoted_text": "Well, the me creeps Back in. Wow! I felt that. Oh, my gosh. I've never said those words out like that, but oh, yeah.",
+        "related_speakers": ["Julie Dorshkind"]
+      },
+      "evidence": [{
+        "utterance_id": "utt-001458-42",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 197, "end": 200}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-011",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick introduced a life category worksheet to help allocate time and energy",
+        "quoted_text": "I do actually have a worksheet here... where we would figure out what our major life categories were"
+      },
+      "evidence": [{
+        "utterance_id": "utt-001204-38",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 181, "end": 184}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-012",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick advocated for quitting before you're done/exhausted as a strategy",
+        "quoted_text": "in general, if we quit before we're exhausted, it's better"
+      },
+      "evidence": [{
+        "utterance_id": "utt-003016-73",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 317, "end": 320}
+      }],
+      "confidence": "paraphrase"
+    },
+    {
+      "id": "claim-013",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick said knowing what the problem is reduces anxiety compared to just knowing there is a problem",
+        "quoted_text": "Once you know what the problem is, it's less anxiety-producing than if you only just know there's a problem, but you don't know what it is exactly."
+      },
+      "evidence": [{
+        "utterance_id": "utt-000403-14",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 85, "end": 88}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-014",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy opened all her bills yesterday, hasn't paid any, but knows where they are",
+        "quoted_text": "I did open all of my bills yesterday. I haven't paid any, but I know where they are."
+      },
+      "evidence": [{
+        "utterance_id": "utt-000326-11",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 73, "end": 76}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-015",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy said the anxiety beforehand is always worse than the actual reality",
+        "quoted_text": "It's never as bad as the anxiety I have beforehand warrants, you know?"
+      },
+      "evidence": [{
+        "utterance_id": "utt-000415-15",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 89, "end": 92}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-016",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug proposed the concept of 'new starts' for discussion - resetting when things get chaotic",
+        "quoted_text": "how do you guys do new starts when it gets so chaotic that you declare bankruptcy on everything"
+      },
+      "evidence": [{
+        "utterance_id": "utt-000819-35",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 169, "end": 172}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-017",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug said our work should be our documentation, not requiring separate documentation after the fact",
+        "quoted_text": "Our work should be our documentation."
+      },
+      "evidence": [{
+        "utterance_id": "utt-000819-35",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 169, "end": 172}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-018",
+      "type": "speaker_committed",
+      "content": {
+        "subject": "Doug Snyder",
+        "assertion": "Doug committed to piloting meeting summary service with David",
+        "quoted_text": "you and I can work as a just quick pilot to say, I'm gonna try it for you and kind of isolate it"
+      },
+      "evidence": [{
+        "utterance_id": "utt-000731-33",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 161, "end": 164}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-019",
+      "type": "speaker_said",
+      "content": {
+        "subject": "Lizzy Summers",
+        "assertion": "Lizzy expressed feeling energized by having the mastermind meetings as support",
+        "quoted_text": "knowing I have these meetings. feel like I'm just chugging along a little easier, I think, knowing just energetically you have the support of the M&Ms, masterminds."
+      },
+      "evidence": [{
+        "utterance_id": "utt-000256-9",
+        "relationship": "contains_quote",
+        "source_lines": {"start": 65, "end": 68}
+      }],
+      "confidence": "verbatim"
+    },
+    {
+      "id": "claim-020",
+      "type": "attribution_given",
+      "content": {
+        "subject": "Rick Webster",
+        "assertion": "Rick credited Melissa for doing a lot of work including book clubs",
+        "quoted_text": "And credit work credit's due. Melissa has been doing a lot of stuff also. Not always visible, but all the book clubs, all those kind of things.",
+        "related_speakers": ["Melissa Reskof"]
+      },
+      "evidence": [{
+        "utterance_id": "utt-000147-3",
+        "relationship": "exact_quote",
+        "source_lines": {"start": 41, "end": 44}
+      }],
+      "confidence": "verbatim"
+    }
+  ],
+  "unused_utterances": []
+}

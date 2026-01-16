@@ -1,0 +1,57 @@
+[
+  {
+    "resolved_name": "Doug Snyder",
+    "email": "doug.s.snyder@gmail.com",
+    "display_names": [
+      "Doug Snyder"
+    ],
+    "turn_count": 478,
+    "word_count": 6471,
+    "first_timestamp": "00:00:04",
+    "last_timestamp": "01:44:14"
+  },
+  {
+    "resolved_name": "Rick Webster",
+    "email": "rwebster@rena-fi.com",
+    "display_names": [
+      "Rick"
+    ],
+    "turn_count": 437,
+    "word_count": 5369,
+    "first_timestamp": "00:00:01",
+    "last_timestamp": "01:42:59"
+  },
+  {
+    "resolved_name": "Lizzy Summers",
+    "email": "elisabethcarr23@gmail.com",
+    "display_names": [
+      "Lizzy Summers"
+    ],
+    "turn_count": 166,
+    "word_count": 2144,
+    "first_timestamp": "00:02:17",
+    "last_timestamp": "01:44:00"
+  },
+  {
+    "resolved_name": "Stara Shakti",
+    "email": "starashaktilmft@gmail.com",
+    "display_names": [
+      "Stara Shakti, LMFT"
+    ],
+    "turn_count": 212,
+    "word_count": 2036,
+    "first_timestamp": "00:11:00",
+    "last_timestamp": "01:44:00"
+  },
+  {
+    "resolved_name": "Gio",
+    "email": "gilyrics@gmail.com",
+    "display_names": [
+      "Jojo"
+    ],
+    "turn_count": 135,
+    "word_count": 1554,
+    "first_timestamp": "00:20:31",
+    "last_timestamp": "01:42:34"
+  }
+]
