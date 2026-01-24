@@ -1,0 +1,40 @@
+# NOW State - Current Work Context
+# Production Work Framework - Temporal Coordination
+# Updated: 2026-01-24T22:44:31.164Z
+
+updated_at: "2026-01-24T22:44:31.164Z"
+active:
+  work_item_id: null
+  started_at: null
+  elapsed_minutes: 0
+context_stack: []
+time_block:
+  started: "2026-01-22T16:00:00.000Z"
+  duration_minutes: 90
+  remaining_minutes: 90
+energy_level: "medium"
+next_suggestion:
+  work_item_id: "proj-omni-capture"
+  reason: "high priority, medium energy (you have medium)"
+available_projects:
+  - id: proj-xconnect-ide
+    title: xConnect IDE
+    status: active
+    energy_required: high
+    next_step: Use daily, collect observations
+  - id: proj-graphiti-kg
+    title: Graphiti Temporal KG
+    status: ready
+    energy_required: high
+    next_step: Improve Relationship F1
+  - id: proj-omni-capture
+    title: Omni Capture System
+    status: ready
+    energy_required: medium
+    next_step: "Phase 2A: Cloudflare setup"
+last_transition:
+  type: SESSION_END
+  timestamp: "2026-01-24T22:44:31.164Z"
+  from_item: "proj-omni-capture"
+  to_item: null
+  saved_context: "/Users/DSnyder/.claude/MEMORY/temporal/contexts/2026-01-24T22-44-31-163Z-proj-omni-capture.yaml"

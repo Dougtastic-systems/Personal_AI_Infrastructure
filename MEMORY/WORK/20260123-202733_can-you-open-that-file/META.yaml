@@ -1,0 +1,12 @@
+id: "20260123-202733_can-you-open-that-file"
+title: "can you open that file?"
+created_at: "2026-01-23T20:27:33-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "dc55c965-e7dc-46ba-8394-377b4a1d3e3b"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

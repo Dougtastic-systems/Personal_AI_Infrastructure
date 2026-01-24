@@ -1,0 +1,11 @@
+id: "001"
+description: "Proceed with testing."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-20T18:00:55-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

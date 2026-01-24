@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:35:07.345Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:35:07.345Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Let me clarify exactly what I'm suggesting—there are two distinct approaches and I was conflating them."
+  next_step: "Want me to build the extraction script? One prompt, processes all 113 emails, outputs JSON files."
+  status: "Clarified—suggesting file extraction first, graph optional later"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Path A extracts to JSON files. Path B loads those files into Neoj. Start with A.

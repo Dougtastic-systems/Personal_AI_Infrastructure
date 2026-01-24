@@ -1,0 +1,21 @@
+id: "002"
+description: "# Conversation-to-Value System  
+Restart Framework, Value Ladder, and Automation Strategy
+
+This document defines a restart of a conversation-based program that previously worked but broke down due to implicit process, unclear ownership, and invisible labor.
+
+The goal is end-to-end completeness with the fewest moving parts possible:
+- expose the real work
+- simplify until it can run repeatedly
+- preserve human judgment where value is created
+- automate only what is definable and repeatable
+- enab"
+type: "work"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:32:22-08:00"
+completed_at: "2026-01-24T10:32:39-08:00"
+response_summary: "Framework received. Eight-step pipeline clear. Awaiting pipeline states and remaining document sections."
+lineage:
+  created_by: "user_request"

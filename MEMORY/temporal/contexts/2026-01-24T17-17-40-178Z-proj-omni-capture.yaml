@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:17:40.178Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:17:40.178Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Applied consolidated Goldilocks schema to both email extractions."
+  next_step: "Extract remaining 3 test emails, then batch the other 112."
+  status: "Schema locked. Ready to extract Emails 3, 4, 5 to confirm schema works across content types."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Consolidated schema applied. Email has practices extracted, Email omits them as conditional.

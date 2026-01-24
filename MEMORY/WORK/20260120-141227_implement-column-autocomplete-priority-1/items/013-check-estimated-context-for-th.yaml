@@ -1,0 +1,13 @@
+id: "013"
+description: "Check estimated context for this window.  thiniking to start in new context window.  I also want to continue on Neo4j plan.   can I do both simultaniously?   would you recommend to?
+
+what are the simple continuation prompt (s) that I can copy into new context window(s) "
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T17:39:26-08:00"
+completed_at: "2026-01-20T17:40:53-08:00"
+response_summary: "Yes, run claude in two Terminal windows with those continuation prompts."
+lineage:
+  created_by: "user_request"

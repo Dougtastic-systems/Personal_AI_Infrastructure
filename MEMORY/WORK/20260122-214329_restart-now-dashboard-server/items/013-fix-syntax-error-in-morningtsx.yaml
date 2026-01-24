@@ -1,0 +1,18 @@
+id: "013"
+description: "1 Build Error
+src/Morning.tsx
+error: Syntax Error
+
+          <div style={styles.sectionTitle}>\u{1F309} Hemingway Bridges (from yesterday)</div>
+
+Errors during a build can only be dismissed by fixing them.
+Bun v1.3.5"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T22:22:01-08:00"
+completed_at: "2026-01-22T22:24:53-08:00"
+response_summary: "Fixed all unicode escapes in Morning.tsx. Dashboard running. Click Connect Oura to authenticate."
+lineage:
+  created_by: "user_request"

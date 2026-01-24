@@ -1,0 +1,12 @@
+id: "20260120-184335_build-graphiti-mcp-server"
+title: "Build Graphiti MCP server"
+created_at: "2026-01-20T18:43:35-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "5e21f39d-fff3-452d-a88b-52e28b1a7439"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

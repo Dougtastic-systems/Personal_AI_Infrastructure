@@ -1,0 +1,18 @@
+id: "001"
+description: "<task-notification>
+<task-id>bb1af3f</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bb1af3f.output</output-file>
+<status>completed</status>
+<summary>Background command \"Restart with expanded default\" completed (exit code 0).</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bb1af3f.output
+I see it but not matching my claude code limits."
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T12:23:06-08:00"
+completed_at: "2026-01-24T12:33:51-08:00"
+response_summary: "Dashboard shows 43% and 6% correctly. Try hard refresh if your browser shows stale data."
+lineage:
+  created_by: "user_request"

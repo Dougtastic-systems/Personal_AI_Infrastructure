@@ -1,0 +1,44 @@
+# Production Work Framework - Temporal Index
+# Auto-generated: 2026-01-22
+# Purpose: Quick lookup for work items and active context
+
+version: "1.0"
+last_updated: "2026-01-22T16:07:00Z"
+
+# Active work items by level
+active:
+  life: []
+  project:
+    - id: proj-xconnect-ide
+      file: work-items/project/proj-xconnect-ide.yaml
+    - id: proj-graphiti-kg
+      file: work-items/project/proj-graphiti-kg.yaml
+    - id: proj-omni-capture
+      file: work-items/project/proj-omni-capture.yaml
+  session: []
+  task: []
+
+# Priority queue (P0 = now, P1 = today, P2 = soon, P3 = someday)
+by_priority:
+  P0: []
+  P1:
+    - proj-xconnect-ide
+    - proj-graphiti-kg
+    - proj-omni-capture
+  P2: []
+  P3: []
+
+# Status summary
+status_counts:
+  someday: 0
+  planned: 0
+  ready: 2
+  active: 1
+  blocked: 0
+  done: 0
+
+# Quick access to current context
+current:
+  now_file: now/current.yaml
+  active_work_item: null
+  context_stack: []

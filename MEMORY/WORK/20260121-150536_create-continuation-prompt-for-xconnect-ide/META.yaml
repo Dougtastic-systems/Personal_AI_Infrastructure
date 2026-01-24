@@ -1,0 +1,12 @@
+id: "20260121-150536_create-continuation-prompt-for-xconnect-ide"
+title: "Create continuation prompt for XConnect IDE"
+created_at: "2026-01-21T15:05:36-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "47609a73-f0da-416f-8bca-d6cbffd8eabf"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

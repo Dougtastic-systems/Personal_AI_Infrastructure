@@ -1,0 +1,13 @@
+id: "002"
+description: "Let's address 1 Graffiti dependency.   please review the following url.  I have it open on my only chrome browser.    https://neo4j.com/blog/developer/graphiti-knowledge-graph-memory/
+
+orientate me.  what's it mean, how it informs our next with Neo4j"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T11:48:10-08:00"
+completed_at: "2026-01-20T11:49:04-08:00"
+response_summary: "Graphiti is the missing piece. Temporal knowledge graph with 300ms queries, perfect for your ingest architecture."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,11 @@
+id: "016"
+description: "I'm pulling my citi visa statements.  what format? text, csv, gfx qbo, ofx"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T17:59:46-08:00"
+completed_at: "2026-01-16T18:00:01-08:00"
+response_summary: "Download CSV format. It's cleanest for extracting recurring charges and patterns."
+lineage:
+  created_by: "user_request"

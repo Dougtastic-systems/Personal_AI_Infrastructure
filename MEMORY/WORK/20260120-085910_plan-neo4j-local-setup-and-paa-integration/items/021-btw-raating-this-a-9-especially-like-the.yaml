@@ -1,0 +1,13 @@
+id: "021"
+description: "BTW... raating this a 9.  especially like the dependency order visual.
+
+Please outline work required underneath building GraphCurry CLI, the Neo4j MCP server, and capture, ingest for automatic graph population. Outline what we're talking about here so I have a conceptual outline of things to think about. Also, what kind of tuning and work do I need to do around the ontology part of this? Any guardrails?"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T09:51:13-08:00"
+completed_at: "2026-01-20T09:51:57-08:00"
+response_summary: "Four components remain. GraphQuery CLI first, then tuning, MCP server, and auto-ingest integration."
+lineage:
+  created_by: "user_request"

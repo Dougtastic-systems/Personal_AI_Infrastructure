@@ -1,0 +1,12 @@
+id: "20260122-161144_start-observability-dashboard"
+title: "Start observability dashboard"
+created_at: "2026-01-22T16:11:44-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "f12c317e-9bfb-41f6-9aa3-bbb0bb05556d"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

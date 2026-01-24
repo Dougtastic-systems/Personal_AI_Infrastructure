@@ -1,0 +1,11 @@
+id: "013"
+description: "I actually haven't now assessed with the new JSON for number one or number two to look at the article. Can we post inline article number one first so I can look at it and scan the article and see if there's anything else? And then there's the same for article number two, which I haven't opened up yet."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T09:04:01-08:00"
+completed_at: "2026-01-24T09:05:11-08:00"
+response_summary: "Email one JSON displayed inline. Review against article and note any missing elements."
+lineage:
+  created_by: "user_request"

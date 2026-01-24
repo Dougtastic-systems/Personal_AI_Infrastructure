@@ -1,0 +1,14 @@
+id: "20260121-151122_task-notification-task-idba256d0task-id-ou"
+title: "<task-notification>
+<task-id>ba256d0</task-id>
+<ou"
+created_at: "2026-01-21T15:11:22-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "0ff41573-4fa0-4605-8043-1ad4678429b3"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

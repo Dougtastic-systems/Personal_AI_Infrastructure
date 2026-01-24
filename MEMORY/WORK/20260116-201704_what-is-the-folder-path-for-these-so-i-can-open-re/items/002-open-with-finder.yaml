@@ -1,0 +1,11 @@
+id: "002"
+description: "open with finder"
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T20:17:37-08:00"
+completed_at: "2026-01-16T20:18:44-08:00"
+response_summary: "Finder opened to Art Workflows folder. Browse the seventeen workflow files at your pace."
+lineage:
+  created_by: "user_request"

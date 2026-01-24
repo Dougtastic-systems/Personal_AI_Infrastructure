@@ -1,0 +1,11 @@
+id: "004"
+description: "think knowledge worker systems architect - what kind of features would be needed to fill these temporal coordination activiites?"
+type: "question"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T15:30:19-08:00"
+completed_at: "2026-01-22T15:30:53-08:00"
+response_summary: "Redesigned for no git, prod-only. Change Ledger, snapshots, validation gates, code-as-documentation."
+lineage:
+  created_by: "user_request"

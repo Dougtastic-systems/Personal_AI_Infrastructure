@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T16:45:52.434Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T16:45:52.434Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Processed all 18 unreviewed newsletters - reflection files created with concepts and questions extracted for each."
+  next_step: "Which option works best for you?"
+  status: "20 newsletters captured, 20 processed, 20 reflection files ready"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Processed newsletters, created reflection files. Outlook can auto-forward to Gmail, or I'll build Graph API.

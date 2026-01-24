@@ -1,0 +1,11 @@
+id: "001"
+description: "Let's summarize the type of checks that you had to do and some of the solutions you had to figure out. And we need to add that to our deployment validation"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T20:14:57-08:00"
+completed_at: "2026-01-16T20:15:30-08:00"
+response_summary: "Documented eight integrity check categories with detection commands and solutions for deployment validation."
+lineage:
+  created_by: "user_request"

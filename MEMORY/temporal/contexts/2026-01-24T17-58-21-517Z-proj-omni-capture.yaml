@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:58:21.517Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:58:21.517Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Explaining context/agent architecture and compaction behavior."
+  next_step: "Kick off batch 1 of 20 emails, monitor, repeat. Or start fresh session if you prefer clean slate."
+  status: "Ready to batch. Current context ~55%. Room for 2-3 more exchanges before compaction likely."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Agents use separate context. Compaction is Claude Code, not PAI. Safe to batch here.

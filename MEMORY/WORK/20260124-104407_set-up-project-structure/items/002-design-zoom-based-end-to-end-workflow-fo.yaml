@@ -1,0 +1,11 @@
+id: "002"
+description: "design zoom based end to end workflow for managing pipeline of work.    by sections and details of actual work required.  if un clear, suggest what others do.   we'll refine."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T10:49:09-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

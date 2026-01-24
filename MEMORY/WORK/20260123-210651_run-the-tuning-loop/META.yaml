@@ -1,0 +1,12 @@
+id: "20260123-210651_run-the-tuning-loop"
+title: "Run the tuning loop"
+created_at: "2026-01-23T21:06:51-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "7ead6660-2fb8-426c-96ef-7380e489b453"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

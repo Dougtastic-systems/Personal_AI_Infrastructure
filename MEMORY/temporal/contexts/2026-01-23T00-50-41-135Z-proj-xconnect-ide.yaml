@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T00:50:41.135Z
+
+work_item_id: "proj-xconnect-ide"
+timestamp: "2026-01-23T00:50:41.135Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Opened observability dashboard in browser."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Opened localhost: in browser. Dashboard should show real-time events from this session.

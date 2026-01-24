@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T18:32:39.924Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T18:32:39.924Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Received Talks with Melissa framework document - a restart of conversation-based coaching program focused on nervous-system safety enabling cognition."
+  next_step: "Please share the pipeline states and any remaining sections. Then we can discuss implementation approach."
+  status: "Document appears to continue - ends mid-section at \"each show exists in one and only one state at any time:\""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Framework received. Eight-step pipeline clear. Awaiting pipeline states and remaining document sections.

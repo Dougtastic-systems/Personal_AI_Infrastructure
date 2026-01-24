@@ -1,0 +1,11 @@
+id: "002"
+description: "got the html explainer.  This is a dual use project.   delveoping populating using knowledge graphs.   AND using Nate as a thought starter framework context.  so Hybrid is desired as we'll use a similar pattern of file based golden copy and semeantic extraction to a way to add and see over time and space for foward my learning and doing.   "
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T11:41:49-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

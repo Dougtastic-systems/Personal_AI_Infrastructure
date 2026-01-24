@@ -1,0 +1,11 @@
+id: "017"
+description: "I have 2 citi statements in same folder as others.  "
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T18:05:11-08:00"
+completed_at: "2026-01-16T18:06:08-08:00"
+response_summary: "Citi analysis complete. Eight thousand dollars yearly in interest. Duplicate Claude subscriptions found. Ready to build files."
+lineage:
+  created_by: "user_request"

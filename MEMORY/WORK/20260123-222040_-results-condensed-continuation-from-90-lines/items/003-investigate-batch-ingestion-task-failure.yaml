@@ -1,0 +1,19 @@
+id: "003"
+description: "<task-notification>
+<task-id>b2ac021</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b2ac021.output</output-file>
+<status>failed</status>
+<summary>Background command \"Run batch ingestion with 30s delays between chunks\" failed with exit code 137.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b2ac021.output
+<task-notification>
+<task-id>b8c"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T06:00:11-08:00"
+completed_at: "2026-01-24T06:00:22-08:00"
+response_summary: "Task notifications acknowledged. First email ingested. HTML diagram open showing Graphiti architecture."
+lineage:
+  created_by: "user_request"

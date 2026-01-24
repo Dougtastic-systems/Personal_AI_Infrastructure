@@ -1,0 +1,14 @@
+id: "001"
+description: "# BUILD: Production Work Framework — Phase 6: Decision Engine                                                                           
+                                                                                                                                          
+  ## Context                                                                                                                              
+  - Spec: `~/.claude/WORK/PRODUCTION-WORK-FRAMEWORK.md`                              "
+type: "work"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T16:59:15-08:00"
+completed_at: "2026-01-22T17:39:26-08:00"
+response_summary: "Phase 6 Decision Engine complete. Scoring algorithm, energy selector, time blocks, skip functionality all working."
+lineage:
+  created_by: "user_request"

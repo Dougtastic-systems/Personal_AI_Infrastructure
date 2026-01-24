@@ -1,0 +1,11 @@
+id: "001"
+description: "I want to take my prior memories around my personal data and use it for 2.3 User documentation"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T18:17:26-08:00"
+completed_at: "2026-01-16T18:23:00-08:00"
+response_summary: "Populated six USER documentation files with your memory data for v2.3 release."
+lineage:
+  created_by: "user_request"

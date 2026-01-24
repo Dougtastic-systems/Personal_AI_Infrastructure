@@ -1,0 +1,12 @@
+id: "20260124-121616_how-does-pai-choose-between-sonnet-or-opus-models"
+title: "how does PAI choose between Sonnet or Opus models."
+created_at: "2026-01-24T12:16:16-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "34d6fff7-81ef-4fdb-91ed-a526548fb868"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

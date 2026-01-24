@@ -1,0 +1,16 @@
+id: "001"
+description: "please review continuations for installing neo4j desk top.
+
+File is in DSnyder/Download. --> file --> neo4j-desktop-2.1.1-universal.dmg
+
+create a prompt to install and configure to my local neo4j instance.
+"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T12:50:14-08:00"
+completed_at: "2026-01-21T12:51:05-08:00"
+response_summary: "Reviewed continuation and created Neo4j Desktop installation prompt connecting to your local instance."
+lineage:
+  created_by: "user_request"

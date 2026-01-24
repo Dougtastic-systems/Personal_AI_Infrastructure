@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T17:32:15.741Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T17:32:15.741Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Step-by-step OAuth credential creation."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Go to APIs and Services, Credentials. Configure consent screen first, then create Desktop OAuth client.

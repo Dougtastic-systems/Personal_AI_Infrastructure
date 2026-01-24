@@ -1,0 +1,11 @@
+id: "006"
+description: "history, QA Comparison, nested pipeline graphic, SHOW [object] command to show in in SQL window. or invocation details..  not sure if need it wider or not.   Ask me questions."
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T14:41:11-08:00"
+completed_at: "2026-01-20T14:41:27-08:00"
+response_summary: "Need clarification on left sidebar modes, pipeline graphic, SHOW command, and feature priority order."
+lineage:
+  created_by: "user_request"

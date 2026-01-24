@@ -1,0 +1,17 @@
+id: "001"
+description: "Continuation of IDE.
+
+I need to finish this up for production work.   I need to define what production work looks like.
+
+Please review xConnect documentation to date to with your Architect persona to envision what work would happen inside of xConnect and what other features are needed to plan, design, execute, test, incorporate learnings into next iteration(s).
+
+I want a principle based work process and supporting processes, tooling to do this in my custom IDE.    Let's flesh this out.  I want t"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-22T15:04:59-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T17:31:41.244Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T17:31:41.244Z"
+transition: SESSION_END
+
+state:
+  what_doing: "APIs enabled. Next step is creating OAuth credentials."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  APIs enabled. Now create OAuth client ID, type Desktop app, download the JSON file.

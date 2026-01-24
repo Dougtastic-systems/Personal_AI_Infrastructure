@@ -1,0 +1,12 @@
+id: "20260122-163511_create-phase-5-xconnect-integration-prompt"
+title: "Create Phase 5 xConnect integration prompt"
+created_at: "2026-01-22T16:35:11-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "0152e003-2543-408c-9f36-97cf48379929"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PAI v2.3 Capability Analysis</title>
+    <style>
+        :root {
+            --bg-primary: #0f172a;
+            --bg-secondary: #1e293b;
+            --bg-card: #334155;
+            --text-primary: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --accent-blue: #3b82f6;
+            --accent-cyan: #06b6d4;
+            --accent-green: #22c55e;
+            --accent-yellow: #eab308;
+            --accent-orange: #f97316;
+            --accent-red: #ef4444;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, var(--bg-secondary), var(--bg-card));
+            border-radius: 16px;
+            border: 1px solid var(--accent-blue);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(90deg, var(--accent-blue), var(--accent-cyan));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .executive-summary {
+            background: var(--bg-secondary);
+            padding: 1.5rem 2rem;
+            border-radius: 12px;
+            margin-bottom: 2rem;
+            border-left: 4px solid var(--accent-green);
+        }
+
+        .executive-summary h2 {
+            color: var(--accent-green);
+            margin-bottom: 0.5rem;
+        }
+
+        section {
+            background: var(--bg-secondary);
+            padding: 2rem;
+            border-radius: 12px;
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            color: var(--accent-cyan);
+            margin-bottom: 1.5rem;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        h3 {
+            color: var(--accent-blue);
+            margin: 1.5rem 0 1rem;
+            font-size: 1.2rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--bg-card);
+        }
+
+        th {
+            background: var(--bg-card);
+            color: var(--accent-cyan);
+            font-weight: 600;
+        }
+
+        tr:hover {
+            background: rgba(59, 130, 246, 0.1);
+        }
+
+        .status-exists {
+            color: var(--accent-green);
+            font-weight: 600;
+        }
+
+        .status-missing {
+            color: var(--accent-orange);
+            font-weight: 600;
+        }
+
+        .status-installed {
+            color: var(--accent-green);
+        }
+
+        .priority-high {
+            background: rgba(239, 68, 68, 0.2);
+            color: var(--accent-red);
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .priority-medium {
+            background: rgba(234, 179, 8, 0.2);
+            color: var(--accent-yellow);
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .priority-low {
+            background: rgba(34, 197, 94, 0.2);
+            color: var(--accent-green);
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .card {
+            background: var(--bg-card);
+            padding: 1.25rem;
+            border-radius: 8px;
+            border: 1px solid transparent;
+            transition: border-color 0.2s;
+        }
+
+        .card:hover {
+            border-color: var(--accent-blue);
+        }
+
+        .card h4 {
+            color: var(--accent-blue);
+            margin-bottom: 0.5rem;
+        }
+
+        .card p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .backlog-connection {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(6, 182, 212, 0.1));
+            border: 1px solid var(--accent-blue);
+        }
+
+        .backlog-connection h2 {
+            color: var(--accent-blue);
+        }
+
+        .connection-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--bg-card);
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+        }
+
+        .connection-arrow {
+            color: var(--accent-cyan);
+            font-size: 1.5rem;
+        }
+
+        .connection-backlog {
+            flex: 1;
+        }
+
+        .connection-backlog h4 {
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .connection-backlog p {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .connection-feature {
+            flex: 1;
+            text-align: right;
+        }
+
+        .connection-feature span {
+            background: var(--accent-blue);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
+        }
+
+        .telos-diagram {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 12px;
+            margin: 1.5rem 0;
+            font-family: 'SF Mono', Monaco, monospace;
+        }
+
+        .telos-level {
+            display: flex;
+            align-items: center;
+            margin: 0.5rem 0;
+            padding-left: calc(var(--level) * 2rem);
+        }
+
+        .telos-id {
+            background: var(--accent-blue);
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            margin-right: 0.75rem;
+            font-weight: 600;
+            min-width: 3rem;
+            text-align: center;
+        }
+
+        .telos-arrow {
+            color: var(--accent-cyan);
+            margin: 0.5rem 0 0.5rem 1rem;
+        }
+
+        .action-checklist {
+            list-style: none;
+        }
+
+        .action-checklist li {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.75rem;
+            background: var(--bg-card);
+            border-radius: 8px;
+            margin-bottom: 0.5rem;
+        }
+
+        .action-checklist li::before {
+            content: "☐";
+            font-size: 1.2rem;
+            color: var(--accent-cyan);
+        }
+
+        .effort-badge {
+            background: var(--bg-primary);
+            color: var(--text-secondary);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-left: auto;
+        }
+
+        code {
+            background: var(--bg-primary);
+            color: var(--accent-cyan);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'SF Mono', Monaco, monospace;
+            font-size: 0.9rem;
+        }
+
+        .highlight-box {
+            background: rgba(6, 182, 212, 0.1);
+            border: 1px solid var(--accent-cyan);
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+
+        .stats-row {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin: 1rem 0;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+            min-width: 120px;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent-cyan);
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PAI v2.3 Capability Analysis</h1>
+            <p class="subtitle">For Dougtastic | Created 2026-01-16</p>
+        </header>
+
+        <div class="executive-summary">
+            <h2>Executive Summary</h2>
+            <p>You have <strong>all the infrastructure</strong> of v2.3 installed. What's missing is <strong>your personal content</strong> in the new structures. The system is ready - you just need to fill in the USER files.</p>
+        </div>
+
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-number">14</div>
+                <div class="stat-label">Hooks</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">11</div>
+                <div class="stat-label">Agents</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">20</div>
+                <div class="stat-label">Skills</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">16</div>
+                <div class="stat-label">TELOS Files</div>
+            </div>
+        </div>
+
+        <!-- BACKLOG CONNECTION - Featured Section -->
+        <section class="backlog-connection">
+            <h2>How v2.3 Connects to Your Backlog</h2>
+            <p style="color: var(--text-secondary); margin-bottom: 1.5rem;">From your <code>MEMORY/pai-backlog/README.md</code>, here's how v2.3 features directly support your existing priorities:</p>
+
+            <div class="connection-item">
+                <div class="connection-backlog">
+                    <h4>Transcript Pipeline</h4>
+                    <p>Audio → structured knowledge (Whisper + CLEAN→MARK→EXTRACT)</p>
+                    <span class="priority-high">HIGH PRIORITY</span>
+                </div>
+                <div class="connection-arrow">→</div>
+                <div class="connection-feature">
+                    <span>MEMORY system stores learnings automatically</span>
+                </div>
+            </div>
+
+            <div class="connection-item">
+                <div class="connection-backlog">
+                    <h4>Brainstorm Ingestion</h4>
+                    <p>Best thinking happens outside the loop, never gets in</p>
+                    <span class="priority-high">TOP PRIORITY</span>
+                </div>
+                <div class="connection-arrow">→</div>
+                <div class="connection-feature">
+                    <span>TELOS framework structures your ideas</span>
+                </div>
+            </div>
+
+            <div class="connection-item">
+                <div class="connection-backlog">
+                    <h4>Daily Brief System</h4>
+                    <p>Periodic briefing - what's next, what to focus on</p>
+                    <span class="priority-medium">MEDIUM</span>
+                </div>
+                <div class="connection-arrow">→</div>
+                <div class="connection-feature">
+                    <span>TELOS/STATUS.md + goals provides context</span>
+                </div>
+            </div>
+
+            <div class="connection-item">
+                <div class="connection-backlog">
+                    <h4>Personal Finance System</h4>
+                    <p>Consolidate + automate finances, visibility dashboard</p>
+                    <span class="priority-high">HIGH PRIORITY</span>
+                </div>
+                <div class="connection-arrow">→</div>
+                <div class="connection-feature">
+                    <span>USER/FINANCES/ template ready</span>
+                </div>
+            </div>
+
+            <div class="connection-item">
+                <div class="connection-backlog">
+                    <h4>Chat History Ingestion</h4>
+                    <p>Extract knowledge from ChatGPT, Claude, Perplexity</p>
+                    <span class="priority-medium">MEDIUM</span>
+                </div>
+                <div class="connection-arrow">→</div>
+                <div class="connection-feature">
+                    <span>MEMORY/learnings/ is the destination</span>
+                </div>
+            </div>
+
+            <div class="connection-item">
+                <div class="connection-backlog">
+                    <h4>PAI Upgrade Automation</h4>
+                    <p>Near-automated review + upgrade process</p>
+                    <span class="priority-medium">MEDIUM</span>
+                </div>
+                <div class="connection-arrow">→</div>
+                <div class="connection-feature">
+                    <span>UpgradePAI workflow just created!</span>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <strong>Key Insight:</strong> Your backlog item "Brainstorm Ingestion" maps directly to TELOS. When you fill in MISSION.md and GOALS.md, you're creating the structure that captures your best thinking.
+            </div>
+        </section>
+
+        <!-- TELOS Framework -->
+        <section>
+            <h2>TELOS Framework — Life Operating System</h2>
+            <p style="color: var(--text-secondary); margin-bottom: 1rem;">A structured way to capture your purpose, goals, and how you think. Everything connects with IDs.</p>
+
+            <div class="telos-diagram">
+                <div class="telos-level" style="--level: 0">
+                    <span class="telos-id">M?</span>
+                    <span>Help myself think better and capture insights</span>
+                </div>
+                <div class="telos-arrow">↓ supported by</div>
+                <div class="telos-level" style="--level: 1">
+                    <span class="telos-id">G?</span>
+                    <span>Build transcript pipeline for audio → knowledge</span>
+                </div>
+                <div class="telos-level" style="--level: 1">
+                    <span class="telos-id">G?</span>
+                    <span>Create brainstorm ingestion system</span>
+                </div>
+                <div class="telos-arrow" style="margin-left: 3rem">↓ blocked by</div>
+                <div class="telos-level" style="--level: 2">
+                    <span class="telos-id">C?</span>
+                    <span>Best thinking happens outside the loop, never gets in</span>
+                </div>
+                <div class="telos-arrow" style="margin-left: 5rem">↓ addressed by</div>
+                <div class="telos-level" style="--level: 3">
+                    <span class="telos-id">S?</span>
+                    <span>Morning voice notes, automatic processing</span>
+                </div>
+            </div>
+
+            <h3>TELOS Files Status</h3>
+            <table>
+                <tr>
+                    <th>File</th>
+                    <th>Status</th>
+                    <th>Notes</th>
+                </tr>
+                <tr><td>MISSION.md</td><td class="status-exists">Template</td><td>Needs your content - START HERE</td></tr>
+                <tr><td>GOALS.md</td><td class="status-exists">Template</td><td>Needs your content - START HERE</td></tr>
+                <tr><td>CHALLENGES.md</td><td class="status-exists">Template</td><td>Add over time</td></tr>
+                <tr><td>STRATEGIES.md</td><td class="status-exists">Template</td><td>Add over time</td></tr>
+                <tr><td>BELIEFS.md</td><td class="status-exists">Template</td><td>Optional</td></tr>
+                <tr><td>FRAMES.md</td><td class="status-exists">Template</td><td>Optional</td></tr>
+                <tr><td>MODELS.md</td><td class="status-exists">Template</td><td>Optional</td></tr>
+                <tr><td>LEARNED.md</td><td class="status-exists">Template</td><td>Add as insights emerge</td></tr>
+                <tr><td>WISDOM.md</td><td class="status-exists">Template</td><td>Add as insights emerge</td></tr>
+                <tr><td>WRONG.md</td><td class="status-exists">Template</td><td>Things you changed your mind about</td></tr>
+                <tr><td>BOOKS.md</td><td class="status-exists">Template</td><td>Intellectual influences</td></tr>
+                <tr><td>MOVIES.md</td><td class="status-exists">Template</td><td>Films that shaped you</td></tr>
+                <tr><td>PREDICTIONS.md</td><td class="status-exists">Template</td><td>Your predictions about the future</td></tr>
+                <tr><td>PROJECTS.md</td><td class="status-exists">Template</td><td>Active projects</td></tr>
+                <tr><td>STATUS.md</td><td class="status-exists">Template</td><td>Current status overview</td></tr>
+            </table>
+            <p style="color: var(--text-secondary); margin-top: 1rem;"><strong>Location:</strong> <code>~/.claude/skills/CORE/USER/TELOS/</code></p>
+        </section>
+
+        <!-- USER Directory -->
+        <section>
+            <h2>USER Directory — Personal Knowledge Base</h2>
+
+            <table>
+                <tr>
+                    <th>File</th>
+                    <th>Status</th>
+                    <th>Action Needed</th>
+                </tr>
+                <tr>
+                    <td><code>USER/ABOUTME.md</code></td>
+                    <td class="status-missing">Missing</td>
+                    <td>Create - tell PAI who you are</td>
+                </tr>
+                <tr>
+                    <td><code>USER/DAIDENTITY.md</code></td>
+                    <td class="status-missing">Missing</td>
+                    <td>Create - customize AI personality</td>
+                </tr>
+                <tr>
+                    <td><code>USER/TECHSTACKPREFERENCES.md</code></td>
+                    <td class="status-missing">Missing</td>
+                    <td>Create - TypeScript > Python, bun > npm</td>
+                </tr>
+                <tr>
+                    <td><code>USER/CONTACTS.md</code></td>
+                    <td class="status-missing">Missing</td>
+                    <td>Create - people you work with</td>
+                </tr>
+                <tr>
+                    <td><code>USER/CORECONTENT.md</code></td>
+                    <td class="status-missing">Missing</td>
+                    <td>Create - your published work</td>
+                </tr>
+                <tr>
+                    <td><code>USER/PAISECURITYSYSTEM/</code></td>
+                    <td class="status-exists">Exists</td>
+                    <td>Already have custom security patterns</td>
+                </tr>
+            </table>
+
+            <div class="highlight-box">
+                <strong>Why it matters:</strong> Without ABOUTME.md, PAI doesn't know your background. Without TECHSTACKPREFERENCES.md, PAI might suggest Python when you prefer TypeScript. Without CONTACTS.md, "send to Mike" has no context.
+            </div>
+        </section>
+
+        <!-- Gap Analysis -->
+        <section>
+            <h2>Gap Analysis — What to Fill In</h2>
+
+            <h3>High Priority (Fill These First)</h3>
+            <ul class="action-checklist">
+                <li>
+                    <code>USER/ABOUTME.md</code> — PAI doesn't know who you are
+                    <span class="effort-badge">15 min</span>
+                </li>
+                <li>
+                    <code>USER/TECHSTACKPREFERENCES.md</code> — PAI guesses your preferences
+                    <span class="effort-badge">10 min</span>
+                </li>
+                <li>
+                    <code>TELOS/MISSION.md</code> — No life purpose context
+                    <span class="effort-badge">10 min</span>
+                </li>
+                <li>
+                    <code>TELOS/GOALS.md</code> — No goals to connect work to
+                    <span class="effort-badge">15 min</span>
+                </li>
+            </ul>
+
+            <h3>Medium Priority (Add Over Time)</h3>
+            <ul class="action-checklist">
+                <li>
+                    <code>USER/CONTACTS.md</code> — Context when you mention names
+                    <span class="effort-badge">20 min</span>
+                </li>
+                <li>
+                    <code>TELOS/CHALLENGES.md</code> — No obstacle awareness
+                    <span class="effort-badge">10 min</span>
+                </li>
+                <li>
+                    <code>TELOS/STRATEGIES.md</code> — No approach context
+                    <span class="effort-badge">10 min</span>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Learning Loop -->
+        <section>
+            <h2>Learning Loop — PAI Gets Better</h2>
+
+            <div class="card-grid">
+                <div class="card">
+                    <h4>Explicit Ratings</h4>
+                    <p>Say "8 - that was helpful" or "3 - not what I wanted"</p>
+                </div>
+                <div class="card">
+                    <h4>Implicit Sentiment</h4>
+                    <p>PAI detects "nice!" or "ugh, not again"</p>
+                </div>
+                <div class="card">
+                    <h4>Session Insights</h4>
+                    <p>Patterns extracted at session end</p>
+                </div>
+                <div class="card">
+                    <h4>Status Line</h4>
+                    <p>Shows trend: "Learning: 7.2↑"</p>
+                </div>
+            </div>
+
+            <p style="color: var(--text-secondary); margin-top: 1rem;"><strong>Effort:</strong> Zero - just use PAI normally and rate when you feel like it</p>
+        </section>
+
+        <!-- Infrastructure -->
+        <section>
+            <h2>Infrastructure — All Installed</h2>
+
+            <h3>14 Hooks</h3>
+            <div class="card-grid">
+                <div class="card"><h4>StartupGreeting</h4><p>Banner with stats</p></div>
+                <div class="card"><h4>LoadContext</h4><p>Injects CORE skill</p></div>
+                <div class="card"><h4>CheckVersion</h4><p>Update alerts</p></div>
+                <div class="card"><h4>FormatEnforcer</h4><p>Response format</p></div>
+                <div class="card"><h4>AutoWorkCreation</h4><p>Work directories</p></div>
+                <div class="card"><h4>ExplicitRatingCapture</h4><p>1-10 ratings</p></div>
+                <div class="card"><h4>ImplicitSentimentCapture</h4><p>Emotion detection</p></div>
+                <div class="card"><h4>UpdateTabTitle</h4><p>Terminal + voice</p></div>
+                <div class="card"><h4>SecurityValidator</h4><p>Dangerous op checks</p></div>
+                <div class="card"><h4>SetQuestionTab</h4><p>Question visual</p></div>
+                <div class="card"><h4>AgentOutputCapture</h4><p>Subagent results</p></div>
+                <div class="card"><h4>WorkCompletionLearning</h4><p>Session insights</p></div>
+                <div class="card"><h4>SessionSummary</h4><p>Marks complete</p></div>
+                <div class="card"><h4>StopOrchestrator</h4><p>Tab reset + voice</p></div>
+            </div>
+
+            <h3>11 Named Agents</h3>
+            <div class="card-grid">
+                <div class="card"><h4>Architect</h4><p>System design</p></div>
+                <div class="card"><h4>Engineer</h4><p>TDD implementation</p></div>
+                <div class="card"><h4>Artist</h4><p>Visual content</p></div>
+                <div class="card"><h4>Designer</h4><p>UX/UI</p></div>
+                <div class="card"><h4>QATester</h4><p>Browser automation</p></div>
+                <div class="card"><h4>Pentester</h4><p>Security testing</p></div>
+                <div class="card"><h4>Intern</h4><p>High-agency generalist</p></div>
+                <div class="card"><h4>GeminiResearcher</h4><p>Google Gemini</p></div>
+                <div class="card"><h4>GrokResearcher</h4><p>xAI Grok</p></div>
+                <div class="card"><h4>CodexResearcher</h4><p>Technical archaeology</p></div>
+                <div class="card"><h4>ClaudeResearcher</h4><p>Academic research</p></div>
+            </div>
+
+            <h3>20 Skills</h3>
+            <table>
+                <tr><th>Category</th><th>Skills</th></tr>
+                <tr><td>Core</td><td>CORE, THEALGORITHM, System, PAIUpgrade</td></tr>
+                <tr><td>Research</td><td>Research, OSINT, PrivateInvestigator, AnnualReports</td></tr>
+                <tr><td>Creative</td><td>Art, Prompting, Council, RedTeam</td></tr>
+                <tr><td>Development</td><td>Browser, CreateCLI, CreateSkill, Agents</td></tr>
+                <tr><td>Specialized</td><td>Telos, FirstPrinciples, BrightData, Recon</td></tr>
+            </table>
+        </section>
+
+        <footer>
+            <p>PAI v2.3 Capability Analysis | Generated 2026-01-16</p>
+            <p style="margin-top: 0.5rem;">Full docs: <code>~/.claude/MEMORY/learnings/v2.3-CAPABILITY-ANALYSIS.md</code></p>
+        </footer>
+    </div>
+</body>
+</html>

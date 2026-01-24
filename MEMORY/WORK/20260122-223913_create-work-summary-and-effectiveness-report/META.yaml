@@ -1,0 +1,12 @@
+id: "20260122-223913_create-work-summary-and-effectiveness-report"
+title: "Create work summary and effectiveness report"
+created_at: "2026-01-22T22:39:13-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "d5fdd28e-9f94-48d8-ab95-0bd83d0518ea"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

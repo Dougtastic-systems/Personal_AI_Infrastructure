@@ -1,0 +1,11 @@
+id: "002"
+description: "retry the 5 failed files"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T14:11:35-08:00"
+completed_at: "2026-01-24T14:14:33-08:00"
+response_summary: "All five failed files retried successfully. Graphiti now at 116 of 116 complete."
+lineage:
+  created_by: "user_request"

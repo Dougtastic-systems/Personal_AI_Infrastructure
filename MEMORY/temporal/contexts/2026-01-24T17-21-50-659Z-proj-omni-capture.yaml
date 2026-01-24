@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:21:50.659Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:21:50.659Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Confirming source attribution exists in all extraction JSONs"
+  next_step: "Review the 5 test JSONs, confirm schema is locked, then batch extract all 117"
+  status: "All 5 test extractions complete with attribution. Ready for your review before batch processing the remaining 112."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Yes, source_file field in each JSON links directly back to original markdown document.

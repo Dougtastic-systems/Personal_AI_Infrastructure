@@ -1,0 +1,11 @@
+id: "002"
+description: "that is a start.   more details. like.... schedule initial guest meeting.   Meet with guest.  etc.  if you are producting a show what are all the things that are done.   we'll get very granular.   I want to get clear about what good enough looks like and estimate time to do and elapsed time from start to finish.   now imagine 6-20 shows in the pipeline including scheduleing confilicts.   think like a show producer who is expert on waht is required to do 30-60 shows a year.  "
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T11:28:10-08:00"
+completed_at: "2026-01-24T11:31:47-08:00"
+response_summary: "Production guide created. Sixty tasks, nine phases, pipeline management, batch scheduling included."
+lineage:
+  created_by: "user_request"

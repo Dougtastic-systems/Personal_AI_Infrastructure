@@ -1,0 +1,11 @@
+id: "001"
+description: "start the observability dashboard"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T16:11:44-08:00"
+completed_at: "2026-01-22T16:11:46-08:00"
+response_summary: "Phase 2 continuation prompt created. Copy the code block to new terminal window."
+lineage:
+  created_by: "user_request"

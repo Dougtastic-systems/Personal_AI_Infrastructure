@@ -1,0 +1,11 @@
+id: "013"
+description: "how can we use bank statements and credit card statements to help fill in this info?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T17:19:04-08:00"
+completed_at: "2026-01-16T17:19:27-08:00"
+response_summary: "Download two to three months of bank and card statements. I'll extract all recurring charges."
+lineage:
+  created_by: "user_request"

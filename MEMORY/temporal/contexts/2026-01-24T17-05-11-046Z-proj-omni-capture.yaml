@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:05:11.046Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:05:11.046Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Displaying Email 1 JSON inline for your review against the article."
+  next_step: "Tell me what adjustments are needed, or say \"show email 2\" when ready."
+  status: "Email 1 JSON displayed. Review against article, then I'll show Email 2."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Email one JSON displayed inline. Review against article and note any missing elements.

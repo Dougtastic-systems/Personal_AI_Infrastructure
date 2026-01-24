@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T18:24:02.837Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T18:24:02.837Z"
+transition: SESSION_END
+
+state:
+  what_doing: "OAuth task already completed successfully - waiting for you to enable Gmail API."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  OAuth done. Waiting for you to enable Gmail API, then I'll fetch the DCM Marketing email.

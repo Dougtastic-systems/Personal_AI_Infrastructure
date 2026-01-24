@@ -1,0 +1,11 @@
+id: "002"
+description: "proceed next"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T14:18:20-08:00"
+completed_at: "2026-01-20T14:20:16-08:00"
+response_summary: "Added Ctrl+Up/Down history navigation. Preserves draft query. Both Sprint 5 priorities complete."
+lineage:
+  created_by: "user_request"

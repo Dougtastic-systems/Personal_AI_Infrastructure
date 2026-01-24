@@ -1,0 +1,16 @@
+id: "001"
+description: " 📋 SUMMARY: Here's your copy-paste prompt for a fresh terminal.                   
+                                                                                    
+  Continue Brain Factory work.                                                      
+                                                                                    
+  Context: Architecture documented, TELOS extracted with 6 mental models.           
+                                                                            "
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:18:21-08:00"
+completed_at: "2026-01-23T20:18:50-08:00"
+response_summary: "Bulk capture complete. Zero new emails, two already captured. Ready for Graphiti review next."
+lineage:
+  created_by: "user_request"

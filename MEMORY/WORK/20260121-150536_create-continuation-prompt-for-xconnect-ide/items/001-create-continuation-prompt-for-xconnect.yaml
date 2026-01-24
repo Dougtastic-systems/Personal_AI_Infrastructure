@@ -1,0 +1,11 @@
+id: "001"
+description: "Create a continuation prompt for the XConnect IDE project. Take a look at the project and continuation prompt to date for next steps."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T15:05:36-08:00"
+completed_at: "2026-01-21T15:07:34-08:00"
+response_summary: "Created xConnect IDE continuation with Sprint 7 pipeline visualization tasks. Index updated."
+lineage:
+  created_by: "user_request"

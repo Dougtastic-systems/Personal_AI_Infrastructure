@@ -1,0 +1,11 @@
+id: "001"
+description: "why in my observablity window localhost 5172 do i see the name Daniel?  I'm Doug.  doe we refer to Daniel Miessler in this project?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T10:28:12-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

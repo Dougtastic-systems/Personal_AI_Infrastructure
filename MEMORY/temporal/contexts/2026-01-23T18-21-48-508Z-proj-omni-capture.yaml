@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T18:21:48.508Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T18:21:48.508Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Waiting for you to enable Gmail API in Google Cloud Console."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Enable Gmail API at the link above. Say done when ready to test connection.

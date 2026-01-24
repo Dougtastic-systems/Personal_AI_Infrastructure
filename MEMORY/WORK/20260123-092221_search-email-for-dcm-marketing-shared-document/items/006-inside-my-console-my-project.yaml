@@ -1,0 +1,11 @@
+id: "006"
+description: "Inside my console, my project I have named is Cloud Code NeonBrain. Does it matter if I name it differently like PAI integration? Or would it be helpful to call it something different?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T09:29:59-08:00"
+completed_at: "2026-01-23T09:30:12-08:00"
+response_summary: "Project name doesn't matter. Use existing Cloud Code NeonBrain, just enable Gmail, Sheets, Drive APIs."
+lineage:
+  created_by: "user_request"

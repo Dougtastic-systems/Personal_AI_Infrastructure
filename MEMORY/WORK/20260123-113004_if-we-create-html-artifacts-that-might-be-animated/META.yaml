@@ -1,0 +1,12 @@
+id: "20260123-113004_if-we-create-html-artifacts-that-might-be-animated"
+title: "If we create HTML artifacts that might be animated"
+created_at: "2026-01-23T11:30:04-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "c714058d-9bf5-4e73-8674-e029c83cf1d0"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

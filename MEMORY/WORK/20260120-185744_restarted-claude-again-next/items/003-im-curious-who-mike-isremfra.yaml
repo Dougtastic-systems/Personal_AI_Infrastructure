@@ -1,0 +1,11 @@
+id: "003"
+description: "I'm curious who Mike is.Remfrance is above."
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T18:59:53-08:00"
+completed_at: "2026-01-20T19:00:22-08:00"
+response_summary: "Mike is fictional test data from ontology extraction demo. Not a real contact."
+lineage:
+  created_by: "user_request"

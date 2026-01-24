@@ -1,0 +1,12 @@
+id: "20260122-150643_im-not-sure-please-perform-a-survey-of-how-cur"
+title: "I"m not sure.   Please perform a survey of how cur"
+created_at: "2026-01-22T15:06:43-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "a5dd84a6-76a5-46cc-8e60-df7d24f9c8d6"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

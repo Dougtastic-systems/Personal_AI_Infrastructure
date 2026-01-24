@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T14:00:22.812Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T14:00:22.812Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Background task notifications received - most were killed, one completed successfully."
+  next_step: "Would you like to:"
+  status: "- First email successfully ingested with OpenAI"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Task notifications acknowledged. First email ingested. HTML diagram open showing Graphiti architecture.

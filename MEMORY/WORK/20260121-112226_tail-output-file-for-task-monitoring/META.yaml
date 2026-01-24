@@ -1,0 +1,12 @@
+id: "20260121-112226_tail-output-file-for-task-monitoring"
+title: "Tail output file for task monitoring"
+created_at: "2026-01-21T11:22:26-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "78017f8b-53d5-468e-bd0d-6d0e2ad67064"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

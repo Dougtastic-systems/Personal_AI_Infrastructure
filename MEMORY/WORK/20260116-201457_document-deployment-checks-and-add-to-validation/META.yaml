@@ -1,0 +1,12 @@
+id: "20260116-201457_document-deployment-checks-and-add-to-validation"
+title: "Document deployment checks and add to validation"
+created_at: "2026-01-16T20:14:57-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "3285332e-a992-424e-adb7-91bb3eceb50f"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

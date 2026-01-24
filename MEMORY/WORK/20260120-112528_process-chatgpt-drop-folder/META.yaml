@@ -1,0 +1,12 @@
+id: "20260120-112528_process-chatgpt-drop-folder"
+title: "Process ChatGPT drop folder"
+created_at: "2026-01-20T11:25:28-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "fd143c45-4c8c-49ff-a59b-1ed8abebbe1a"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

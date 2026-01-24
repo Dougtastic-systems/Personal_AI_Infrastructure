@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T22:44:31.163Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T22:44:31.163Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Working on task"
+  next_step: "- Start voice server: `cd ~/.claude/VoiceServer && bun run start`"
+  status: "System operational. Voice server needs restart for audio feedback."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  PAI . operational. Twenty-one skills loaded. Voice server needs restart. Dashboard running.

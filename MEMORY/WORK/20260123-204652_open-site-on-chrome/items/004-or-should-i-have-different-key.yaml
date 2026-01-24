@@ -1,0 +1,11 @@
+id: "004"
+description: "or should I have different keys for trackiong purposees?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:50:24-08:00"
+completed_at: "2026-01-23T20:50:37-08:00"
+response_summary: "Single key is fine. Anthropic dashboard tracks by model. Add logging for granular tracking."
+lineage:
+  created_by: "user_request"

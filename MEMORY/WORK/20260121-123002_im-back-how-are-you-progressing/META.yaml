@@ -1,0 +1,12 @@
+id: "20260121-123002_im-back-how-are-you-progressing"
+title: "i'm back. how are you progressing?"
+created_at: "2026-01-21T12:30:02-08:00"
+completed_at: "2026-01-21T12:31:50-08:00"
+source: "SESSION"
+status: "COMPLETED"
+session_id: "4acc7091-5c72-4c34-86f4-f2580c7572ca"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

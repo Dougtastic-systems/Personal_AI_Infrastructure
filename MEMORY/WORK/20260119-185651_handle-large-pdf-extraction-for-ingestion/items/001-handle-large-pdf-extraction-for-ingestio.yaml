@@ -1,0 +1,25 @@
+id: "001"
+description: "prior session:
+
+📊 STATUS: Workflow complete. Drop files → auto-processed → auto-archived
+
+➡️ NEXT:
+
+Drop new files into ~/Inbox/drop/
+Run bun ~/.claude/tools/CaptureIngest.ts process to batch process
+Or use bun ~/.claude/tools/CaptureIngest.ts watch for live watching
+📖 STORY EXPLANATION:
+
+You wanted auto-ingest and auto-archive for dropped files
+Found you already had CaptureIngest.ts with file watching infrastructure
+Extended it with PDF text extraction using pdftotext
+Added Dot memory queuing"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:56:51-08:00"
+completed_at: "2026-01-19T19:00:18-08:00"
+response_summary: "Added smart chunking to CaptureIngest. 202K char PDF now splits into 29 overlapping chunks for memory."
+lineage:
+  created_by: "user_request"

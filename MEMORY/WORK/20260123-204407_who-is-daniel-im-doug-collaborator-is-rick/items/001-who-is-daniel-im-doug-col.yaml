@@ -1,0 +1,11 @@
+id: "001"
+description: "who is Daniel?  I'm Doug.  Collaborator is rick"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:44:07-08:00"
+completed_at: "2026-01-23T20:44:37-08:00"
+response_summary: "Apologies Doug. Fixed all project files. You and Rick, not Daniel. Ready to continue."
+lineage:
+  created_by: "user_request"

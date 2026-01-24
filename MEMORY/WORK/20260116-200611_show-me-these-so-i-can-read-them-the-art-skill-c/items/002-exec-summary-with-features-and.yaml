@@ -1,0 +1,11 @@
+id: "002"
+description: "exec summary with features and usage patterns - for each"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T20:09:09-08:00"
+completed_at: "2026-01-16T20:10:23-08:00"
+response_summary: "Summarized all eighteen Art workflows with features, usage patterns, and quick selection guide."
+lineage:
+  created_by: "user_request"

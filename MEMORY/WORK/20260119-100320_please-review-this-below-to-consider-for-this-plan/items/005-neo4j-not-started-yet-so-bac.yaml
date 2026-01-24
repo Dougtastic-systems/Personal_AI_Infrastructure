@@ -1,0 +1,11 @@
+id: "005"
+description: "neo4j not started yet.  So backup not needed.  but private mac back up would be needed.  is that an option too.  Segregrate out work stuff and only my stuff including configs and PAI data.  Thoughts?"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T10:28:13-08:00"
+completed_at: "2026-01-19T10:31:14-08:00"
+response_summary: "Backup strategy outlined with drive recommendations. Ready for Phase 2 Cloudflare setup."
+lineage:
+  created_by: "user_request"

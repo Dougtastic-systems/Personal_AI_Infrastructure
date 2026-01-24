@@ -1,0 +1,10 @@
+{
+  "taskId": "001_pai-v24-upgrade-cleanup-tasks",
+  "status": "PENDING",
+  "effortLevel": "QUICK",
+  "criteria": [],
+  "antiCriteria": [],
+  "satisfaction": null,
+  "createdAt": "2026-01-24T15:16:35-08:00",
+  "updatedAt": "2026-01-24T15:16:45-08:00"
+}

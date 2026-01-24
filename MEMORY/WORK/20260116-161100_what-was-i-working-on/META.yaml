@@ -1,0 +1,12 @@
+id: "20260116-161100_what-was-i-working-on"
+title: "What was I working on?"
+created_at: "2026-01-16T16:11:00-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "8e0f34e0-80cd-4346-8152-807e691600d3"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,11 @@
+id: "003"
+description: "For my edification, what happens when compaction happens? I know that if we're less than 40% context usage, we're in the smart zone. I'm concerned that we get too deep into it, close to extraction, that the LLM might make mistakes. That's my true concern around this."
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T09:57:54-08:00"
+completed_at: "2026-01-24T09:58:21-08:00"
+response_summary: "Agents use separate context. Compaction is Claude Code, not PAI. Safe to batch here."
+lineage:
+  created_by: "user_request"

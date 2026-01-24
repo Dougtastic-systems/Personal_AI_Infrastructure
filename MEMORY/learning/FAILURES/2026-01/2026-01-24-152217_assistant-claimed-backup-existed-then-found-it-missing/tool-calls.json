@@ -1,0 +1,50 @@
+[
+  {
+    "name": "WebFetch",
+    "input": {
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure/discussions/436",
+      "prompt": "Extract all guidance about:\n1. How to set up and maintain a private fork\n2. Backup procedures before upgrades\n3. How to handle MEMORY directory\n4. Git workflow recommendations\n5. Any warnings or best practices mentioned"
+    },
+    "timestamp": "2026-01-24T23:20:19.973Z"
+  },
+  {
+    "name": "Bash",
+    "input": {
+      "command": "cd ~/.claude && git remote -v 2>/dev/null && echo \"---\" && git status --short 2>/dev/null | head -30 && echo \"---\" && echo \"Total uncommitted:\" && git status --porcelain 2>/dev/null | wc -l",
+      "description": "Check git remote and uncommitted changes in ~/.claude"
+    },
+    "timestamp": "2026-01-24T23:20:31.166Z"
+  },
+  {
+    "name": "Bash",
+    "input": {
+      "command": "ls -la ~/.claude/MEMORY/ 2>/dev/null | head -20 && echo \"---\" && du -sh ~/.claude/MEMORY/ 2>/dev/null",
+      "description": "Check MEMORY directory size and contents"
+    },
+    "timestamp": "2026-01-24T23:20:32.312Z"
+  },
+  {
+    "name": "Bash",
+    "input": {
+      "command": "cd ~/.claude && git log --oneline -5 2>/dev/null",
+      "description": "Check recent git commits"
+    },
+    "timestamp": "2026-01-24T23:20:32.844Z"
+  },
+  {
+    "name": "Bash",
+    "input": {
+      "command": "ls -la ~/.claude/.git 2>/dev/null || echo \"No .git directory found\"",
+      "description": "Check if .git exists in ~/.claude"
+    },
+    "timestamp": "2026-01-24T23:20:38.074Z"
+  },
+  {
+    "name": "Bash",
+    "input": {
+      "command": "ls -la ~/.claude-backup-pre-v2.4/.git 2>/dev/null || echo \"No .git in backup either\"",
+      "description": "Check if backup had .git"
+    },
+    "timestamp": "2026-01-24T23:20:38.969Z"
+  }
+]

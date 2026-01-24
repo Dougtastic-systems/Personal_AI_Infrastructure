@@ -1,0 +1,20 @@
+id: "001"
+description: "<task-notification>
+<task-id>bcccd07</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bcccd07.output</output-file>
+<status>failed</status>
+<summary>Background command \"Restart server with new credentials\" failed with exit code 137.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bcccd07.output
+<task-notification>
+<task-id>b433dd3</task-id>
+"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T22:57:08-08:00"
+completed_at: "2026-01-22T22:57:14-08:00"
+response_summary: "Old server tasks cleaned up. Current dashboard running on port 5180 with Oura connected."
+lineage:
+  created_by: "user_request"

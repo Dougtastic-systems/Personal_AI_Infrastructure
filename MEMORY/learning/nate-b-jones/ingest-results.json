@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-01-24T01:20:20.566640",
+  "results": [
+    {
+      "file": "2025-11-24_prompting-is-too-hard-check-out-my-easy-prompt-lifecycle-gui.md",
+      "status": "completed",
+      "original_chars": 39476,
+      "cleaned_chars": 23471,
+      "num_chunks": 13,
+      "chunks_succeeded": 13,
+      "total_entities": 117,
+      "total_edges": 83
+    }
+  ],
+  "summary": {
+    "emails_processed": 1,
+    "total_entities": 117,
+    "total_edges": 83
+  }
+}

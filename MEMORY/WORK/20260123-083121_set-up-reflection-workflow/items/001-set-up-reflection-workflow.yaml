@@ -1,0 +1,11 @@
+id: "001"
+description: "set up the reflection workflow"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T08:31:21-08:00"
+completed_at: "2026-01-23T08:31:59-08:00"
+response_summary: "Fathom needs login. Grab transcript or summarize, meanwhile I can start project structure."
+lineage:
+  created_by: "user_request"

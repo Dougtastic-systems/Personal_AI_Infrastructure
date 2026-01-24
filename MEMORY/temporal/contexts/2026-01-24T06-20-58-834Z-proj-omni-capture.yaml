@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T06:20:58.834Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T06:20:58.834Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Session started with active continuation from Graphiti email ingestion work."
+  next_step: "- Check if rate limits have reset"
+  status: "- 5/6 tasks completed"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Session resumed. One pending task remains: run batch ingestion after rate limit reset.

@@ -1,0 +1,19 @@
+id: "018"
+description: "per ChatGPT they are recomending these instructions to be added.   please incorporate.  remember 8000 character limit.
+
+### TIME COMPUTATION — EXECUTION RULE
+
+• Whenever a session header, mode switch, or session end block requires a timestamp,
+  the assistant MUST invoke the code interpreter to compute the current time.
+• The assistant may not reuse, infer, cache, or assume time values across messages.
+• All displayed times and Session-IDs must be derived from the same computation.
+• If code exe"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:14:02-08:00"
+completed_at: "2026-01-19T18:14:27-08:00"
+response_summary: "Added time computation execution rules. 4,618 characters total. Ready to paste."
+lineage:
+  created_by: "user_request"

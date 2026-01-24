@@ -1,0 +1,12 @@
+id: "20260122-152344_reverse-engineer-codebase-for-documentation-and-de"
+title: "Reverse engineer codebase for documentation and delegation"
+created_at: "2026-01-22T15:23:44-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "6a7f3302-bb7c-40d5-a29c-f836a7d2cfea"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

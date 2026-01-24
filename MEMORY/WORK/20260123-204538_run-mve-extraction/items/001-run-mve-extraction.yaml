@@ -1,0 +1,11 @@
+id: "001"
+description: "run the MVE extraction"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:45:38-08:00"
+completed_at: "2026-01-23T20:45:53-08:00"
+response_summary: "Holding. Ready to resume extraction when you give the signal."
+lineage:
+  created_by: "user_request"

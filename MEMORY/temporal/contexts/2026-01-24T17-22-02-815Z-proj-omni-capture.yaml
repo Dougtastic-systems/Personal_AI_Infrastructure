@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:22:02.815Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:22:02.815Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Yes - every JSON has full source attribution built in"
+  next_step: "Want to review any of the 5 test extractions, or ready to lock the schema and batch process?"
+  status: "All 5 test extractions have this attribution. When we batch the remaining 112, they'll all have it too."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Yes, source_file field links each JSON directly to its original markdown document.

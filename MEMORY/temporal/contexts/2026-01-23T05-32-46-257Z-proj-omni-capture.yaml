@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T05:32:46.257Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T05:32:46.257Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Noticed biometrics integration has been added - Phase 8 work already started."
+  next_step: "- Need `biometrics.ts` file (the actual Oura API client)"
+  status: "Phase 8 in progress - biometrics layer working"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Oura biometrics already integrated into dashboard. Phase partially complete. Calendar integration next.

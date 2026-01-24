@@ -1,0 +1,25 @@
+id: "001"
+description: "Multiple Fathom Summaries for Rick and Doug.
+
+Please create a meta analysis of what we should be working on today.
+
+<Summary 2025-01-03>
+
+Impromptu Zoom Meeting - January 03
+VIEW RECORDING: https://fathom.video/share/pk_t4yEy5uK4kk9Y-8yts1vuN2Ru2isy
+Meeting Purpose
+
+To align on 2026 strategy, community engagement, and operational goals.
+
+Key Takeaways
+
+  - 2026 Goal: Achieve $25k Monthly Recurring Revenue (MRR) to become self-sustaining. This requires ~88 paid members at a ~$285 price point, ena"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-17T05:56:55-08:00"
+completed_at: "2026-01-17T05:57:25-08:00"
+response_summary: "Top priorities today: operations manual, therapist marketing copy, and session playbook for Saturday review."
+lineage:
+  created_by: "user_request"

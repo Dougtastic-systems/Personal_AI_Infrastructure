@@ -1,0 +1,12 @@
+id: "20260120-085910_plan-neo4j-local-setup-and-paa-integration"
+title: "Plan Neo4j local setup and PAA integration"
+created_at: "2026-01-20T08:59:10-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "560d7fed-ef61-4ee3-b2ee-d9024f08196a"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

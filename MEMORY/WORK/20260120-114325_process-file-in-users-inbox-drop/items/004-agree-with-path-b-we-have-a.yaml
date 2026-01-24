@@ -1,0 +1,13 @@
+id: "004"
+description: "agree with path b.   we have a start on ontology extract and will add this in too.  They should ping pong off each other as we refine one then the other.   it will be a ongoing process.
+
+I would like to kick this off in another window and continue on to item 3 - QA friction in Razor connecting to Xactly Connect db.   I need to operationalize implimentation."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T11:55:11-08:00"
+completed_at: "2026-01-20T12:09:21-08:00"
+response_summary: "Created xConnect knowledge area. Schema snapshot and Claude SELECT access designed. Need RazorSQL connection details."
+lineage:
+  created_by: "user_request"

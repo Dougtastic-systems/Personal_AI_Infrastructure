@@ -1,0 +1,11 @@
+id: "004"
+description: "added as suggested including PAI-Local.  Add these to config documentation."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T13:05:58-08:00"
+completed_at: "2026-01-21T13:06:37-08:00"
+response_summary: "Added PAI-Local Neo4j configuration to ASSETMANAGEMENT.md under new Databases section."
+lineage:
+  created_by: "user_request"

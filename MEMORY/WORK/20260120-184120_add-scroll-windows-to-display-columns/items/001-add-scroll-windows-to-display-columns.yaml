@@ -1,0 +1,11 @@
+id: "001"
+description: "tested manually. Does not have scroll windows. I have it loaded up and I can only see a couple of the columns."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-20T18:41:20-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

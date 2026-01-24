@@ -1,0 +1,12 @@
+id: "20260122-160714_build-phase-1-core-schema-foundation"
+title: "Build Phase 1 Core Schema Foundation"
+created_at: "2026-01-22T16:07:14-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "fd44986f-c62a-4174-94de-53d77eeb455a"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

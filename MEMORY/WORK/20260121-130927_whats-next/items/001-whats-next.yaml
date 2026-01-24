@@ -1,0 +1,11 @@
+id: "001"
+description: "what's next?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T13:09:27-08:00"
+completed_at: "2026-01-21T13:10:03-08:00"
+response_summary: "Phase 2 complete. Options: test live query, build diff tool, query library, or continue IDE."
+lineage:
+  created_by: "user_request"

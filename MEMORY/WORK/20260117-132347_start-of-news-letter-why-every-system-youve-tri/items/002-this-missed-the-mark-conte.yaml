@@ -1,0 +1,25 @@
+id: "002"
+description: "this missed the mark --> context and tone. off --> 
+What Questions You Should Be Asking
+Critical Questions About Nate's Framework
+1. The Cognitive Tax Question:
+
+\"What is PAI currently costing me cognitively that I've normalized?\"
+
+Where are my open loops that PAI should be closing?
+What relationships have cooled because I forgot follow-ups?
+What projects failed in ways I predicted but didn't capture?
+2. The Loop Question:
+
+\"Is PAI running a LOOP, or am I still the engine?\"
+
+Nate's key disti"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-17T13:38:56-08:00"
+completed_at: "2026-01-17T13:39:41-08:00"
+response_summary: "Reframed to systems thinking: closed loops, iteration velocity, determinism for steering, overhead detection."
+lineage:
+  created_by: "user_request"

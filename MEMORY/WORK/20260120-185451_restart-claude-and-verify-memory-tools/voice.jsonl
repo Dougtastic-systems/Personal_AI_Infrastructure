@@ -1,0 +1,1 @@
+{"timestamp":"2026-01-20T18:55:50-08:00","session_id":"a496e93d-c64e-42da-b4df-13317e542f7f","message":"Fixed PYTHONPATH in MCP config. Was pointing to wrong directory. Need one more restart.","character_count":87,"voice_id":"21m00Tcm4TlvDq8ikWAM","event_type":"failed","error":"Unable to connect. Is the computer able to access the url?"}

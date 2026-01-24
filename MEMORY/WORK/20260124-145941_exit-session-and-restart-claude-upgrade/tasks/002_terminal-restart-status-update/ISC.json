@@ -1,0 +1,10 @@
+{
+  "taskId": "002_terminal-restart-status-update",
+  "status": "PENDING",
+  "effortLevel": "TRIVIAL",
+  "criteria": [],
+  "antiCriteria": [],
+  "satisfaction": null,
+  "createdAt": "2026-01-24T15:00:30-08:00",
+  "updatedAt": "2026-01-24T15:03:18-08:00"
+}

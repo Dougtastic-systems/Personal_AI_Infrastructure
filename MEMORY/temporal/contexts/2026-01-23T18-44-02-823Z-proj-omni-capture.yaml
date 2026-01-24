@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T18:44:02.823Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T18:44:02.823Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Mapped your actual engagement workflow and identified the key insight - your synthesis is the primary value, Nate's content is fuel."
+  next_step: "**Proposed approach for \"intentional\" use:**"
+  status: "Understanding solidified. Ready to architect for intentional use."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Mapped your synthesis workflow. Key insight: your reflections are the value, Nate is the primer.

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T19:26:05.924Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T19:26:05.924Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Session paused. Continuation updated with resume prompt. TELOS extracted. Ready for fresh window."
+  next_step: "In fresh window, paste:"
+  status: "Continuation saved at `MEMORY/continuations/nate-historical-processing.md`"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Continuation saved with resume prompt. Six mental models extracted to TELOS. Ready for fresh session.

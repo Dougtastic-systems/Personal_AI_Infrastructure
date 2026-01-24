@@ -1,0 +1,13 @@
+id: "20260124-103620_this-is-not-a-tool-it-is-shared-language-no-stag"
+title: "This is not a tool It is shared language
+No stag"
+created_at: "2026-01-24T10:36:20-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "7d6d2a14-7406-41b4-ae19-ea40db2bd7bb"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

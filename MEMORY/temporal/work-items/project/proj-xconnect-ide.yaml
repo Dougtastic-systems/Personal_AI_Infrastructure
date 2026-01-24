@@ -1,0 +1,77 @@
+# Work Item: xConnect IDE
+# Level: Project (months)
+# Source: Continuation XCONNECT-IDE.md
+
+id: proj-xconnect-ide
+title: "Build xConnect IDE for daily production work"
+description: "Replace RazorSQL with custom web-based IDE for querying xConnect databases. Modern, learns from usage, provides xConnect-specific features like pipeline visualization."
+
+# Hierarchy
+level: project
+parent_id: null  # Could link to life goal when defined
+children_ids: []  # Sessions created as work progresses
+
+# State
+status: active
+context: "Sprint 7 complete and stable. IDE ready for daily use. Sprint 8 (Step Details) next."
+next_step: "Use IDE daily, collect observations, then start Sprint 8 when ready"
+blockers: []
+
+# Energy & Time
+energy_required: high
+time_estimate_minutes: null  # Ongoing project
+time_elapsed_minutes: null   # Multiple sessions
+time_remaining_minutes: null
+
+# Context Tags
+tags:
+  - "work:xconnect"
+  - "type:development"
+  - "domain:data-tools"
+  - "tech:typescript"
+  - "tech:react"
+
+# Priority
+priority: P1  # Today-level priority
+
+# Temporal
+created_at: "2026-01-20T00:00:00Z"
+last_touched_at: "2026-01-22T14:55:00Z"
+due_at: null
+
+# Learning
+outcome: null
+learnings:
+  - "Recursive pipeline hierarchy works well for complex nested data"
+  - "Context panel pattern effective for object details"
+  - "SHOW commands parse naturally as pseudo-SQL"
+
+# Sprint Tracking (project-specific metadata)
+sprints:
+  completed:
+    - sprint: 1
+      name: Foundation
+    - sprint: 2
+      name: Schema Explorer
+    - sprint: 3
+      name: Monaco Editor
+    - sprint: 4
+      name: Results & History
+    - sprint: 5
+      name: Autocomplete & QA
+    - sprint: 6
+      name: Layout & Objects
+    - sprint: 7
+      name: Pipeline Visualization
+      status: STABLE
+  next:
+    - sprint: 8
+      name: Step Details
+    - sprint: 9
+      name: Variables & Iterators
+    - sprint: 10
+      name: Production Polish
+
+# Links
+continuation_file: "~/.claude/MEMORY/continuations/XCONNECT-IDE.md"
+work_directory: "~/.claude/WORK/xConnect/ide/"

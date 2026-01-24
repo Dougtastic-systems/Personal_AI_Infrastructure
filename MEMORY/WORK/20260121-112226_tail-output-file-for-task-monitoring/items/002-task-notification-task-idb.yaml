@@ -1,0 +1,17 @@
+id: "002"
+description: "<task-notification>
+<task-id>bb28327</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bb28327.output</output-file>
+<status>failed</status>
+<summary>Background command \"Follow output of background task ad33488\" failed with exit code 137.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bb28327.output"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T11:24:02-08:00"
+completed_at: "2026-01-21T11:24:08-08:00"
+response_summary: "Exit code 137 is normal. That's the tail process I killed after reading the output."
+lineage:
+  created_by: "user_request"

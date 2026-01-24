@@ -1,0 +1,11 @@
+id: "002"
+description: "Before we kick off all 117 in batches, I have a question around how context memory usage and spooling up agents, how that works. This is for my edification about PAI. And also, is compaction a PAI feature or is that happening only through CLOD? I just need to understand before we kick this off and what will it look like? And do I need to start a new continuation prompt or how does this work?"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T09:56:21-08:00"
+completed_at: "2026-01-24T09:56:49-08:00"
+response_summary: "Agents use separate context. Compaction is Claude Code, not PAI. Safe to batch here."
+lineage:
+  created_by: "user_request"

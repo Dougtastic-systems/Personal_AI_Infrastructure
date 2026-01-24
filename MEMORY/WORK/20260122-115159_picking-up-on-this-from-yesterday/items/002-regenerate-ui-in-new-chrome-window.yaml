@@ -1,0 +1,11 @@
+id: "002"
+description: "please regen UI in new chrome window"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T11:53:18-08:00"
+completed_at: "2026-01-22T11:53:29-08:00"
+response_summary: "New Chrome window opened with xConnect IDE. Click Objects tab to test Sprint 7."
+lineage:
+  created_by: "user_request"

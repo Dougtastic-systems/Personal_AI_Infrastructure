@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T19:45:31.111Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T19:45:31.111Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Production guide ready to use as interview framework with Melissa to capture specifics."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Production guide ready for Melissa interview. Sixty tasks with TBD slots to fill.

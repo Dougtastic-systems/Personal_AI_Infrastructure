@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T18:23:47.979Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T18:23:47.979Z"
+transition: SESSION_END
+
+state:
+  what_doing: "OAuth works but Gmail API needs to be enabled on this specific project."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  OAuth working. Gmail API not enabled on this project. Click Enable on the page I opened.

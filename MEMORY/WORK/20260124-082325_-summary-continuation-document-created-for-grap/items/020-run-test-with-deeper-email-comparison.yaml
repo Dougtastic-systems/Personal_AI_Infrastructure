@@ -1,0 +1,11 @@
+id: "020"
+description: "Run the test, including a deeper comparison on email one, because we've looked at it a couple of times."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T09:36:47-08:00"
+completed_at: "2026-01-24T09:47:41-08:00"
+response_summary: "Pipeline extracts deeper content; manual has finer categories. Both valid approaches."
+lineage:
+  created_by: "user_request"

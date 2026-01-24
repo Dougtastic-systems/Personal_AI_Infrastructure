@@ -1,0 +1,12 @@
+id: "20260123-075921_build-reliable-nate-jones-content-ingestion-system"
+title: "Build reliable Nate Jones content ingestion system"
+created_at: "2026-01-23T07:59:21-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "bcf3ee1a-0f7a-4338-bb5b-57fc08cc8cee"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

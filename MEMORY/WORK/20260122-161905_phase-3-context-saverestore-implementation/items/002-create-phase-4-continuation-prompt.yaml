@@ -1,0 +1,11 @@
+id: "002"
+description: "create phase 4 continuation prompt"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T16:22:19-08:00"
+completed_at: "2026-01-22T16:22:48-08:00"
+response_summary: "Phase 4 continuation prompt created for hook integration with session start and stop."
+lineage:
+  created_by: "user_request"

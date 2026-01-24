@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T02:14:00.880Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T02:14:00.880Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Helping spec out calendar/day view for cognitive wave visualization - continuation prompt questions."
+  next_step: "Pick 3-5 questions that matter most to you - that becomes the continuation prompt."
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Twelve design questions for cognitive wave calendar. Pick key ones for continuation prompt.

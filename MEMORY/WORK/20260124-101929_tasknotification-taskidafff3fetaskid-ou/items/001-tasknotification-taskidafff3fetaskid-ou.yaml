@@ -1,0 +1,20 @@
+id: "001"
+description: "<task-notification>
+<task-id>afff3fe</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/afff3fe.output</output-file>
+<status>completed</status>
+<summary>Agent \"Extract: amazon-layoffs\" completed.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/afff3fe.output
+<task-notification>
+<task-id>ade3606</task-id>
+<output-file>/var/folders/gc/glvhzzq52"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T10:19:29-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

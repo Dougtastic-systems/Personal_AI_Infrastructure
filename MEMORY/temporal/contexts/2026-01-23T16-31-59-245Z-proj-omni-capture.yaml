@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T16:31:59.245Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T16:31:59.245Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Browser skill now fixed, but Fathom requires OAuth login (Google/Microsoft/SSO)."
+  next_step: "Continue work"
+  status: "Browser fixed. Blocked on transcript access. Ready to start project scaffolding."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Fathom needs login. Grab transcript or summarize, meanwhile I can start project structure.

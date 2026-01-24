@@ -1,0 +1,23 @@
+id: "001"
+description: "Please review this below to consider for this plan.
+
+I want to firm up an action plan.  Having local folder as 1st step is still a 1st step for me.
+
+I want to keep things local but want to have the ablity send things to a twillo account and at least queue messages for local processing.
+
+see thee below thread from noodling on Perplexity.  Not sure what makes sense.
+
+we'll then revise the plan and create a continuation prompt to exectute.
+
+<Perplexity Inquiry>
+
+Doug --> So I have to be logged in t"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T10:03:20-08:00"
+completed_at: "2026-01-19T10:08:42-08:00"
+response_summary: "Progressive capture plan presented. Awaiting your review before proceeding with implementation."
+lineage:
+  created_by: "user_request"

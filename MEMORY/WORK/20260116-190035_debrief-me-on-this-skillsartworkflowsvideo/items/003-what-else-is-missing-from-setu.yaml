@@ -1,0 +1,11 @@
+id: "003"
+description: "what else is missing from setup but referenced in workflows for skils / agents?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T19:04:39-08:00"
+completed_at: "2026-01-16T19:06:25-08:00"
+response_summary: "Found 14 broken references across five skills. AnnualReports missing entire Workflows directory."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,15 @@
+id: "014"
+description: "During my test and GPT, I noticed that the timestamps were off. I brainstormed with it for a minute or two and it came up with this following instruction to add to it. I'd like you to analyze this instruction and suggest improvements so that we have a much higher likelihood of getting the timestamp correct. I often am doing this while I'm driving in a car and I'm walking around and I'm looking at this so I want to make this as solid as possible.
+
+### TIME AUTHORITY — CRITICAL
+
+• Pacific Time (PT"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:01:55-08:00"
+completed_at: "2026-01-19T18:02:11-08:00"
+response_summary: "Added human-verified timestamp anchor. GPT asks for time, you confirm verbally. Fallback to UNVERIFIED."
+lineage:
+  created_by: "user_request"

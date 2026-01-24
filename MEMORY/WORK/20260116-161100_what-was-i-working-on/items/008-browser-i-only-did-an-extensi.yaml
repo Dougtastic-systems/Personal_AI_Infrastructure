@@ -1,0 +1,11 @@
+id: "008"
+description: "Browser, I only did an extension for Firefox. Should I also do Safari and Chrome? Do they even have extensions for those ones?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T16:58:08-08:00"
+completed_at: "2026-01-16T16:58:23-08:00"
+response_summary: "Firefox extension is sufficient. Install others only if you log into sites there."
+lineage:
+  created_by: "user_request"

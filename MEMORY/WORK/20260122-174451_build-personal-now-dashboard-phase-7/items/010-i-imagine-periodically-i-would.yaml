@@ -1,0 +1,11 @@
+id: "010"
+description: "I imagine periodically I would be doing... I imagine I would be doing periodic brain dumps of things to do, tasks, items, that I also want to bring to service."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T18:19:05-08:00"
+completed_at: "2026-01-22T18:19:37-08:00"
+response_summary: "Brain dump capture added. Quick inbox anytime, periodic processing to backlog. Full spec ready."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,98 @@
+# Work Item: Omni Capture System
+# Level: Project (months)
+# Source: Continuation OMNI-CAPTURE-MASTER-PLAN.md
+
+id: proj-omni-capture
+title: "Build unified capture system for 24/7 thought capture"
+description: "Capture now, structure later. Zero friction ingest from SMS, WhatsApp, email, voice memos, ChatGPT exports. Cloud-based 24/7 capture with local processing."
+
+# Hierarchy
+level: project
+parent_id: null
+children_ids: []
+
+# State
+status: ready
+context: "Phase 1 (Local Foundation) complete. Phase 2 (Cloud infrastructure) ready to start."
+next_step: "Phase 2A: Create Cloudflare account + R2 buckets"
+blockers: []
+
+# Energy & Time
+energy_required: medium
+time_estimate_minutes: null
+time_elapsed_minutes: null
+time_remaining_minutes: null
+
+# Context Tags
+tags:
+  - "domain:pai-infrastructure"
+  - "type:development"
+  - "tech:typescript"
+  - "tech:cloudflare"
+  - "tech:twilio"
+  - "category:capture-system"
+
+# Priority
+priority: P1
+
+# Temporal
+created_at: "2026-01-17T00:00:00Z"
+last_touched_at: "2026-01-19T10:32:00Z"
+due_at: null
+
+# Learning
+outcome: null
+learnings:
+  - "Philosophy: Capture now, structure later"
+  - "Zero friction is critical for ADHD-friendly design"
+  - "Cloudflare Workers + R2 provide 24/7 capture when Mac is offline"
+
+# Phase Tracking
+phases:
+  completed:
+    - phase: 1
+      name: Local Foundation
+      deliverables:
+        - "~/Inbox/{drop,raw,archive} folder structure"
+        - "~/.claude/MEMORY/captured/{raw,processed,index} storage"
+        - "CaptureIngest.ts - FileWatcher + metadata"
+        - "capture CLI command"
+  ready:
+    - phase: 2A
+      name: Cloudflare Setup
+      tasks:
+        - "Create Cloudflare account"
+        - "Enable R2 storage"
+        - "Create pai-capture and pai-backups buckets"
+        - "Generate API token"
+    - phase: 2B
+      name: Twilio Setup
+      tasks:
+        - "Create Twilio account"
+        - "Buy SMS-capable phone number"
+        - "Configure WhatsApp sandbox (optional)"
+  blocked:
+    - phase: 2C
+      name: Webhook Worker
+      blocked_by: [2A, 2B]
+    - phase: 2D
+      name: Mac Pull Script
+      blocked_by: [2A]
+    - phase: 2E
+      name: Integration
+      blocked_by: [2C, 2D]
+  future:
+    - phase: 3
+      name: Voice Transcription
+    - phase: 4
+      name: ChatGPT Parser
+      note: "HIGH PRIORITY - primary capture modality"
+    - phase: 5
+      name: Email Capture
+    - phase: 6
+      name: Processing Pipeline
+
+# Links
+continuation_file: "~/.claude/MEMORY/continuations/OMNI-CAPTURE-MASTER-PLAN.md"
+work_directory: "~/.claude/tools/"
+local_inbox: "~/Inbox/"

@@ -1,0 +1,10 @@
+{
+  "taskId": "002_create-infrastructure-deletion-continuat",
+  "status": "PENDING",
+  "effortLevel": "QUICK",
+  "criteria": [],
+  "antiCriteria": [],
+  "satisfaction": null,
+  "createdAt": "2026-01-24T15:13:40-08:00",
+  "updatedAt": "2026-01-24T15:13:58-08:00"
+}

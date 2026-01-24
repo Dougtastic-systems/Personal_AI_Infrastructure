@@ -1,0 +1,11 @@
+id: "002"
+description: "When I say marketing, I mean, if you're going to have a podcast and you want people to come, you have to write some marketing copy and post it someplace so they show up or that you remember to set an invite inside of Mighty Networks and a sign-up for it so they get a Zoom invite. I'm talking, I want to come up with a basic end-to-end, this work has to be done, otherwise we don't have an end-to-end pipeline of work and things to run. That's what I want to start with and then I can back into some "
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T11:14:20-08:00"
+completed_at: "2026-01-24T11:16:48-08:00"
+response_summary: "Hybrid knowledge graph integration complete, aligned with existing PAA Neo4j and Graphiti setup."
+lineage:
+  created_by: "user_request"

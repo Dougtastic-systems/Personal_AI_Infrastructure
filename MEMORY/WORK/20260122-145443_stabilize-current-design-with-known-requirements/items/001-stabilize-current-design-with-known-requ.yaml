@@ -1,0 +1,11 @@
+id: "001"
+description: "Testing passed suggested test step.  I have observations and design changes.  I want to stabilize with what we know now and what we think we're doing next.  Then I can factor in proposed changes. I need to get to using this which will expose the real requirements."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-22T14:54:43-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

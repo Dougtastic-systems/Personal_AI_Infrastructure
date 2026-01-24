@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T19:55:31.544Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T19:55:31.544Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Working on task"
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Neoj works. Graphiti hit rate limit at k tokens per minute. Need slower approach.

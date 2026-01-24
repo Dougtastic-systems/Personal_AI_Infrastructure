@@ -1,0 +1,11 @@
+id: "015"
+description: "In email one, he actually has it as practice. We might have practices or other things, so I'm not sure if that category carries over, but it definitely gets you around, is this theoretical or action-oriented, so that's super helpful. But I think we're getting close. Thoughts, counter-arguments? I want this to be light enough to actually work, but deep enough to drive value. Looking for the Goldilocks on this JSON."
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T09:11:12-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

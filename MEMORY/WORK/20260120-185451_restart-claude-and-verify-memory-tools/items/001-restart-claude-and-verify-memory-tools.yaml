@@ -1,0 +1,13 @@
+id: "001"
+description: "continuation   ➡️ NEXT:                                                                                                                                                                                                       
+  1. Restart Claude Code one more time                                                                                                                                                                           
+  2. After restart, I should see memory_search, memory_ingest, etc."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T18:54:51-08:00"
+completed_at: "2026-01-20T18:55:50-08:00"
+response_summary: "Fixed PYTHONPATH in MCP config. Was pointing to wrong directory. Need one more restart."
+lineage:
+  created_by: "user_request"

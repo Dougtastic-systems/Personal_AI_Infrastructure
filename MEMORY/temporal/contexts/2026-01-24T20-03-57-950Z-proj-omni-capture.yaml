@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T20:03:57.950Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T20:03:57.950Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Opened localhost:5172 in your default browser."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Opened observability dashboard in browser. Usage panel should be expanded at top.

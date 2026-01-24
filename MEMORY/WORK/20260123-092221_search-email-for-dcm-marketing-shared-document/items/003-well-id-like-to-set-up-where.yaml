@@ -1,0 +1,11 @@
+id: "003"
+description: "Well, I'd like to set up where the OAuth is done so I can do for other projects. So where would this Google Setup be underneath what folder again?"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T09:25:53-08:00"
+completed_at: "2026-01-23T09:26:04-08:00"
+response_summary: "Credentials go in skills/_NATE/tools/ now. Can centralize to credentials folder after setup."
+lineage:
+  created_by: "user_request"

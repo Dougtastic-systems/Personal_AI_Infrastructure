@@ -1,0 +1,13 @@
+id: "023"
+description: "please create a continuation prompt for recommended Parser enhancements or additional work.
+
+What happens if I drop a file from before?  I have one I want from yesterday.   What instructions to I give to ingest that?"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:34:35-08:00"
+completed_at: "2026-01-19T18:36:19-08:00"
+response_summary: "Parser uses session date from PDF content, so older files store under their original date."
+lineage:
+  created_by: "user_request"

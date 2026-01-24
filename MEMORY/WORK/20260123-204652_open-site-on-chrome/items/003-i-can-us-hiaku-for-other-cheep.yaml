@@ -1,0 +1,11 @@
+id: "003"
+description: "I can us hiaku for other cheeper processing.   more general name please"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:49:51-08:00"
+completed_at: "2026-01-23T20:50:03-08:00"
+response_summary: "Recommend pai-haiku, simple and covers all Haiku use cases."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,19 @@
+id: "001"
+description: "in terminal after typing in claude+[enter]. it asks if I trust claude.  I enter  = yes,
+
+I get this.
+
+Try \"fix typecheck errors\"                                                    
+──T─────────────────────────────────────────────────────────────────────────────
+  PAI v2.3 STATUSLINE: Oxnard, California │ 17:45 │ 14.4°C Cloudy               
+  ◉ CONTEXT: ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ 11% (22k/200k) │ ⏱ 21s             
+  ◎ LEARNING: 📁130 Work │ ✦160 Ratings                                   "
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T17:47:38-08:00"
+completed_at: "2026-01-20T17:47:52-08:00"
+response_summary: "PAI loaded successfully. Context at eleven percent. Ready for your command."
+lineage:
+  created_by: "user_request"

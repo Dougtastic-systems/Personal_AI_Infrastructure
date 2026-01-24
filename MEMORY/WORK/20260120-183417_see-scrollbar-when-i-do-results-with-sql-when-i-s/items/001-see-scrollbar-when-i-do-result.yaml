@@ -1,0 +1,11 @@
+id: "001"
+description: "see scrollbar when I do results with SQL. When I show step, which is also a form of SQL, I cannot scroll in the results area."
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T18:34:17-08:00"
+completed_at: "2026-01-20T18:35:11-08:00"
+response_summary: "Fixed panel overflow CSS blocking scrollbars. SHOW STEP results now scrollable. Refresh browser."
+lineage:
+  created_by: "user_request"

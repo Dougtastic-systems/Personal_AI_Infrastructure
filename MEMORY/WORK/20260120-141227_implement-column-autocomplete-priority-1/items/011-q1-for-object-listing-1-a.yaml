@@ -1,0 +1,14 @@
+id: "011"
+description: "Q1. for object listing.  1.  ALL.  2.  only stored shortlist per my currated subject area.
+
+Q2. Pipelines we'll have to work thru
+Q3.  yes a button to visualize in deeper detail.  Would like a simple indented named list as defalut with option to open of generated visual for more context and data flow..  I woudl like to Generate only when changes - typically once changes completed.   Otherwise generate once and just pull up the created Art Skill visual.   If we make changes and want to see it, we"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T17:19:03-08:00"
+completed_at: "2026-01-20T17:20:21-08:00"
+response_summary: "Design locked. All objects plus filter, visuals in public folder. Ready to implement layout."
+lineage:
+  created_by: "user_request"

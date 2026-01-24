@@ -1,0 +1,23 @@
+{
+  "timestamp": 1769277783335,
+  "data": {
+    "available": true,
+    "capacity": "peak",
+    "recommendation": "Peak capacity - tackle your most challenging work",
+    "last_updated": "2026-01-24T18:03:03.071Z",
+    "data_date": "2026-01-24",
+    "readiness": {
+      "score": 87,
+      "level": "optimal",
+      "contributors": {
+        "hrv_balance": 87,
+        "sleep_balance": 88,
+        "recovery_index": 100
+      }
+    },
+    "sleep": {
+      "score": 91,
+      "level": "optimal"
+    }
+  }
+}

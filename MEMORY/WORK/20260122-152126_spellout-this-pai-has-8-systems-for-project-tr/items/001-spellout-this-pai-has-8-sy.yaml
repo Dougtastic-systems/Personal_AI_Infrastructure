@@ -1,0 +1,11 @@
+id: "001"
+description: "spellout this --> PAI has 8 systems for project tracking."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T15:21:26-08:00"
+completed_at: "2026-01-22T15:21:53-08:00"
+response_summary: "Eight systems: TELOS, MEMORY, Continuations, WORK, Algorithm, Session Continuity, Hooks, TodoWrite."
+lineage:
+  created_by: "user_request"

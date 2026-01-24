@@ -1,0 +1,11 @@
+id: "001"
+description: "great.  what should I be looking at   in pen http://localhost:7474    not very intuative.  just saying I'm connected to Neo4j.  I have a working connections and serve auth is disabled"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T12:09:23-08:00"
+completed_at: "2026-01-24T12:09:59-08:00"
+response_summary: "Type Cypher query in command bar at top. Try MATCH m MentalModel RETURN m.name LIMIT 5."
+lineage:
+  created_by: "user_request"

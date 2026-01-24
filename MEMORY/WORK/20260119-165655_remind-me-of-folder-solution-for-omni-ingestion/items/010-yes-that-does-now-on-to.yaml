@@ -1,0 +1,24 @@
+id: "010"
+description: "yes that does.
+
+now on to 
+
+### STRATEGIC Mode
+**Trigger:** \"Strategic planning\", \"strategy mode\", \"let's plan\"
+
+**Behavior:**
+- Use structured frameworks when helpful
+- Ask clarifying questions others would ask: \"What's the timeline?\", \"What does success look like?\", \"What's the constraint?\"
+- Surface blind spots and unstated assumptions
+- Reflect back priorities and tradeoffs
+- Suggest organizing structures (priority matrix, phases, dependencies)
+- Push for specificity on vague int"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T17:29:31-08:00"
+completed_at: "2026-01-19T17:29:44-08:00"
+response_summary: "Revised STRATEGIC to systems thinking and assumption surfacing. Not project management."
+lineage:
+  created_by: "user_request"

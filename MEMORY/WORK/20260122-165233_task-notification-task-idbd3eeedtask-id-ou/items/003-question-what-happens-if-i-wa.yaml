@@ -1,0 +1,11 @@
+id: "003"
+description: "Question. What happens if I want to have a visibility around this that isn't associated with the X-Connects IDE, like an overview, personal IDE, for all the things I do? Is that planned for? Because, yes, some of my work, a lot of my work will be in the X-Connects IDE, but I will be doing multiple things, including tool build out, etc. Help me understand that. And let me know if that is something that needs to be planned out after Phase 6 completes, or is complimentary, or I need to pause and th"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T16:55:38-08:00"
+completed_at: "2026-01-22T16:56:18-08:00"
+response_summary: "Temporal system is universal. xConnect is one client. Personal Dashboard can be Phase 7."
+lineage:
+  created_by: "user_request"

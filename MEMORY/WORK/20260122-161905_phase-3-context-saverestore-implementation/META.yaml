@@ -1,0 +1,12 @@
+id: "20260122-161905_phase-3-context-saverestore-implementation"
+title: "Phase 3 context save/restore implementation"
+created_at: "2026-01-22T16:19:05-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "1cf44170-17d6-4357-8884-916587e691d5"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

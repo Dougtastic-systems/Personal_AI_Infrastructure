@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T19:30:35.928Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T19:30:35.928Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Exploring the best ways to share interactive HTML artifacts with collaborators who need to view them exactly as you see them."
+  next_step: "Would you like me to help you set up a quick artifact-sharing workflow? I could create a simple deployment script that takes any HTML artifact and publishes it to a shareable URL in one command."
+  status: "Conceptual guidance provided"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  CodePen for quick shares, Cloudflare Pages for recurring use. Attachment works but requires download.

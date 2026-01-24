@@ -1,0 +1,8 @@
+{
+  "rating": 3,
+  "summary": "Frustrated by contradictory findings; expected backup existed",
+  "detailed_context": "Dougtastic was trying to understand why MEMORY data was lost during the 2.3 upgrade. Dougtastic recalls explicitly backing up before the upgrade and references an upgrade guide that should have documented this process. NeonBrain identified that no git repository exists in ~/.claude, implying no backup was present—contradicting Dougtastic's recollection. The root frustration is the disconnect: either (1) the backup procedure wasn't actually executed despite Dougtastic's memory of it, (2) NeonBrain missed where the backup was stored, or (3) the backup was lost during the upgrade despite precautions. Dougtastic's tone ('What gives here?') indicates mild skepticism toward NeonBrain's conclusion. NeonBrain should have: first checked git history/logs for evidence of past commits, searched for backups in alternative locations (cloud storage, external drives, dated archives), reviewed the actual upgrade guide to see what backup steps were documented, and presented findings alongside acknowledging the discrepancy rather than stating definitively that no backup exists. This reveals Dougtastic expects NeonBrain to be thorough in investigation before contradicting stated facts, and to account for human memory/documentation as credible evidence sources.",
+  "session_id": "f31b78ae-080f-4cdc-b224-e9b61a5c3ade",
+  "captured_at": "2026-01-24T23:22:17.580Z",
+  "transcript_source": "f31b78ae-080f-4cdc-b224-e9b61a5c3ade.jsonl"
+}

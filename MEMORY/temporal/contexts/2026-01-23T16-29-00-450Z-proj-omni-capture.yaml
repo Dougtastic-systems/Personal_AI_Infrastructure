@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T16:29:00.450Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T16:29:00.450Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Gmail integration tools created - authorization flow, fetch tool, and bonus prompt extraction ready. Requires one-time Google Cloud setup."
+  next_step: "Continue work"
+  status: "Tools ready, awaiting Google Cloud credentials"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Gmail tools ready. Need Google Cloud project, OAuth credentials, then run gmail-auth.ts to authorize.

@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nate Historical Processing - Briefing</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e8e8e8;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            color: #93c5fd;
+        }
+        .subtitle { color: #64748b; margin-bottom: 2rem; }
+
+        /* Tabs */
+        .tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .tab {
+            padding: 0.75rem 1.5rem;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 8px 8px 0 0;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        .tab:hover { background: rgba(255,255,255,0.1); }
+        .tab.active {
+            background: rgba(59, 130, 246, 0.2);
+            border-color: #3b82f6;
+            color: #93c5fd;
+        }
+
+        /* Panels */
+        .panel {
+            display: none;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 0 12px 12px 12px;
+            padding: 2rem;
+        }
+        .panel.active { display: block; }
+
+        /* Status Grid */
+        .status-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .status-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            padding: 1.25rem;
+            text-align: center;
+        }
+        .status-card .number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #3b82f6;
+        }
+        .status-card .label { color: #94a3b8; font-size: 0.85rem; }
+        .status-card.success .number { color: #22c55e; }
+        .status-card.pending .number { color: #f59e0b; }
+
+        /* Flow Diagram */
+        .flow {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin: 2rem 0;
+        }
+        .flow-box {
+            background: rgba(59, 130, 246, 0.15);
+            border: 2px solid #3b82f6;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            text-align: center;
+            min-width: 140px;
+        }
+        .flow-box.source { border-color: #22c55e; background: rgba(34, 197, 94, 0.15); }
+        .flow-box.process { border-color: #f59e0b; background: rgba(245, 158, 11, 0.15); }
+        .flow-box.output { border-color: #a855f7; background: rgba(168, 85, 247, 0.15); }
+        .flow-arrow {
+            color: #64748b;
+            font-size: 1.5rem;
+        }
+
+        /* Decision Box */
+        .decision-box {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(168, 85, 247, 0.1));
+            border: 2px dashed #64748b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+        }
+        .decision-box h3 {
+            color: #f59e0b;
+            margin-bottom: 1rem;
+            font-size: 1.1rem;
+        }
+        .decision-option {
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .decision-option:hover {
+            background: rgba(255,255,255,0.1);
+            transform: translateX(5px);
+        }
+        .decision-option strong { color: #93c5fd; }
+
+        /* Code Block */
+        .code {
+            background: #0f172a;
+            border-radius: 8px;
+            padding: 1rem;
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 0.85rem;
+            overflow-x: auto;
+            margin: 1rem 0;
+        }
+        .code .comment { color: #64748b; }
+        .code .cmd { color: #22c55e; }
+
+        /* Checklist */
+        .checklist {
+            list-style: none;
+            padding: 0;
+        }
+        .checklist li {
+            padding: 0.5rem 0;
+            padding-left: 2rem;
+            position: relative;
+        }
+        .checklist li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #22c55e;
+            font-weight: bold;
+        }
+        .checklist li.pending::before {
+            content: '○';
+            color: #f59e0b;
+        }
+
+        /* TL;DR Box */
+        .tldr {
+            background: linear-gradient(90deg, rgba(34, 197, 94, 0.2), rgba(59, 130, 246, 0.2));
+            border-left: 4px solid #22c55e;
+            padding: 1.5rem;
+            border-radius: 0 8px 8px 0;
+            margin-bottom: 2rem;
+        }
+        .tldr h2 { color: #22c55e; margin-bottom: 0.5rem; font-size: 1rem; }
+        .tldr p { font-size: 1.1rem; line-height: 1.6; }
+
+        /* Storage Tree */
+        .tree {
+            font-family: 'Monaco', 'Consolas', monospace;
+            background: #0f172a;
+            padding: 1rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            line-height: 1.6;
+        }
+        .tree .folder { color: #3b82f6; }
+        .tree .count { color: #22c55e; }
+        .tree .empty { color: #f59e0b; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nate B. Jones Historical Processing</h1>
+        <p class="subtitle">Continuation briefing for 2026-01-23</p>
+
+        <div class="tldr">
+            <h2>TL;DR</h2>
+            <p>We built a system to capture and reflect on Nate's newsletters. It's working for new content (20 captured).
+               <strong>Next step:</strong> Bulk capture your years of historical Gmail forwards, then decide how deeply to process them.</p>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="showPanel('done')">What's Done</div>
+            <div class="tab" onclick="showPanel('next')">What's Next</div>
+            <div class="tab" onclick="showPanel('flow')">Data Flow</div>
+            <div class="tab" onclick="showPanel('decide')">Decisions</div>
+        </div>
+
+        <!-- Panel 1: What's Done -->
+        <div id="done" class="panel active">
+            <h2 style="margin-bottom: 1rem;">Current State: Working System</h2>
+
+            <div class="status-grid">
+                <div class="status-card success">
+                    <div class="number">20</div>
+                    <div class="label">Newsletters Captured</div>
+                </div>
+                <div class="status-card success">
+                    <div class="number">20</div>
+                    <div class="label">Reflections Generated</div>
+                </div>
+                <div class="status-card success">
+                    <div class="number">2</div>
+                    <div class="label">Gmail Emails</div>
+                </div>
+                <div class="status-card success">
+                    <div class="number">6am</div>
+                    <div class="label">Daily Cron Active</div>
+                </div>
+            </div>
+
+            <h3 style="margin-bottom: 0.75rem; color: #93c5fd;">Storage Structure</h3>
+            <div class="tree">
+<span class="folder">MEMORY/learning/nate-b-jones/</span>
+├── <span class="folder">newsletters/</span>     <span class="count"># 20 RSS captures (Jan 4-23)</span>
+├── <span class="folder">email-captures/</span>  <span class="count"># 2 Gmail captures (paid content)</span>
+├── <span class="folder">reflections/</span>     <span class="count"># 20 AI-processed reflections</span>
+├── <span class="folder">bonus-prompts/</span>   <span class="empty"># Empty (prompts in article content)</span>
+├── <span class="folder">themes/</span>          <span class="empty"># Ready for pattern analysis</span>
+└── <span class="folder">logs/</span>            <span class="count"># Ingest logs</span>
+            </div>
+
+            <ul class="checklist" style="margin-top: 1.5rem;">
+                <li>RSS ingestion working (public content)</li>
+                <li>Gmail OAuth integration working (paid subscriber content)</li>
+                <li>AI reflection pipeline (concept extraction)</li>
+                <li>Daily 6am PST automation</li>
+                <li class="pending">Historical email processing</li>
+                <li class="pending">Theme extraction across content</li>
+            </ul>
+        </div>
+
+        <!-- Panel 2: What's Next -->
+        <div id="next" class="panel">
+            <h2 style="margin-bottom: 1rem;">Next: Historical Processing</h2>
+
+            <p style="margin-bottom: 1.5rem; color: #94a3b8; line-height: 1.6;">
+                You have <strong>years of Nate's newsletters</strong> forwarded to Gmail.
+                The goal is to extract maximum learning value, not just archive content.
+            </p>
+
+            <h3 style="color: #22c55e; margin-bottom: 0.75rem;">Phase 1: Bulk Capture</h3>
+            <div class="code">
+<span class="comment"># Run this to capture ALL historical Nate emails from Gmail</span>
+<span class="cmd">bun ~/.claude/skills/_NATE/tools/gmail-fetch.ts --all</span>
+
+<span class="comment"># Expected: 50-200+ newsletters depending on subscription length</span>
+            </div>
+
+            <h3 style="color: #f59e0b; margin-bottom: 0.75rem; margin-top: 1.5rem;">Phase 2: Tiered Processing</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+                <div class="status-card">
+                    <div class="number" style="font-size: 1.5rem;">90 Days</div>
+                    <div class="label">Full reflection workflow<br>Most relevant to current AI landscape</div>
+                </div>
+                <div class="status-card">
+                    <div class="number" style="font-size: 1.5rem;">Milestone</div>
+                    <div class="label">Deep processing for major posts<br>Tool launches, paradigm shifts</div>
+                </div>
+                <div class="status-card">
+                    <div class="number" style="font-size: 1.5rem;">Archive</div>
+                    <div class="label">Light processing (6+ months)<br>Key concepts only, flag evergreen</div>
+                </div>
+            </div>
+
+            <h3 style="color: #a855f7; margin-bottom: 0.75rem; margin-top: 1.5rem;">Phase 3: Theme Extraction</h3>
+            <ul class="checklist">
+                <li class="pending">Recurring concepts (what does Nate return to?)</li>
+                <li class="pending">Evolution patterns (how has his thinking changed?)</li>
+                <li class="pending">Your response patterns (what resonates with you?)</li>
+            </ul>
+        </div>
+
+        <!-- Panel 3: Data Flow -->
+        <div id="flow" class="panel">
+            <h2 style="margin-bottom: 1rem;">Architecture: Data Flow</h2>
+
+            <h3 style="color: #94a3b8; margin-bottom: 0.5rem;">Ingestion Pipeline</h3>
+            <div class="flow">
+                <div class="flow-box source">
+                    Gmail<br><small>PAI/Nate label</small>
+                </div>
+                <span class="flow-arrow">→</span>
+                <div class="flow-box source">
+                    RSS Feed<br><small>substack.com/feed</small>
+                </div>
+                <span class="flow-arrow">→</span>
+                <div class="flow-box process">
+                    gmail-fetch.ts<br><small>OAuth API</small>
+                </div>
+                <span class="flow-arrow">→</span>
+                <div class="flow-box output">
+                    newsletters/<br>email-captures/
+                </div>
+            </div>
+
+            <h3 style="color: #94a3b8; margin-bottom: 0.5rem; margin-top: 2rem;">Reflection Pipeline</h3>
+            <div class="flow">
+                <div class="flow-box source">
+                    Raw Content<br><small>newsletters/</small>
+                </div>
+                <span class="flow-arrow">→</span>
+                <div class="flow-box process">
+                    reflect.ts<br><small>AI Extraction</small>
+                </div>
+                <span class="flow-arrow">→</span>
+                <div class="flow-box output">
+                    reflections/<br><small>Concepts + Prompts</small>
+                </div>
+                <span class="flow-arrow">→</span>
+                <div class="flow-box output">
+                    themes/<br><small>Patterns</small>
+                </div>
+            </div>
+
+            <h3 style="color: #94a3b8; margin-bottom: 0.5rem; margin-top: 2rem;">Storage Locations</h3>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                    <td style="padding: 0.75rem; color: #3b82f6;">newsletters/</td>
+                    <td style="padding: 0.75rem;">Full newsletter text (RSS public content)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                    <td style="padding: 0.75rem; color: #3b82f6;">email-captures/</td>
+                    <td style="padding: 0.75rem;">Gmail forwards (includes paid subscriber content)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                    <td style="padding: 0.75rem; color: #a855f7;">reflections/</td>
+                    <td style="padding: 0.75rem;">AI-extracted concepts, questions, implementation ideas</td>
+                </tr>
+                <tr>
+                    <td style="padding: 0.75rem; color: #a855f7;">themes/</td>
+                    <td style="padding: 0.75rem;">Cross-cutting patterns across all content</td>
+                </tr>
+            </table>
+        </div>
+
+        <!-- Panel 4: Decisions -->
+        <div id="decide" class="panel">
+            <h2 style="margin-bottom: 1rem;">Your Decisions Needed</h2>
+
+            <div class="decision-box">
+                <h3>1. What are you trying to learn from Nate's content?</h3>
+                <div class="decision-option"><strong>AI tool mastery</strong> - Prompts, workflows, practical applications</div>
+                <div class="decision-option"><strong>Newsletter writing patterns</strong> - Structure, engagement, distribution</div>
+                <div class="decision-option"><strong>Prompt engineering</strong> - Advanced techniques, context engineering</div>
+                <div class="decision-option"><strong>Systems thinking</strong> - Meta-patterns, strategic frameworks</div>
+            </div>
+
+            <div class="decision-box">
+                <h3>2. How will you use the extracted insights?</h3>
+                <div class="decision-option"><strong>Reference during work</strong> - Quick lookup, searchable archive</div>
+                <div class="decision-option"><strong>Inform content creation</strong> - Apply patterns to your own writing</div>
+                <div class="decision-option"><strong>Knowledge graph</strong> - Build connected concept network</div>
+            </div>
+
+            <div class="decision-box">
+                <h3>3. Processing capacity?</h3>
+                <div class="decision-option"><strong>High engagement</strong> - Can review 5 reflections/day, respond to prompts</div>
+                <div class="decision-option"><strong>Moderate</strong> - Weekly batch review, occasional deep dives</div>
+                <div class="decision-option"><strong>Archive mode</strong> - Mostly searchable reference, minimal active engagement</div>
+            </div>
+
+            <h3 style="margin-top: 2rem; color: #22c55e;">Ready to Continue?</h3>
+            <div class="code">
+<span class="comment"># Tell me when you're ready:</span>
+"Resume the _NATE skill work. I've decided on [my processing approach].
+Let's [capture all historical emails / process recent only / create archive mode].
+My main learning goal is [X]."
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showPanel(id) {
+            document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>

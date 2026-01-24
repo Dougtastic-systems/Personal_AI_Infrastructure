@@ -1,0 +1,1 @@
+{"timestamp":"2026-01-23T08:12:03-08:00","session_id":"bcf3ee1a-0f7a-4338-bb5b-57fc08cc8cee","message":"Cron job active at 6am daily. Logs to nate-b-jones/logs. Deduplication confirmed working.","character_count":89,"voice_id":"21m00Tcm4TlvDq8ikWAM","event_type":"failed","error":"Unable to connect. Is the computer able to access the url?"}

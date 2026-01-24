@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T14:00:02.695Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T14:00:02.695Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Created HTML diagram showing Graphiti's 5-LLM-call-per-chunk architecture and cost analysis."
+  next_step: "1. **Run overnight** - Let batch process while you sleep"
+  status: "OpenAI ingestion works but is slow (~30 min/email). Full batch would take ~60 hours."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Created HTML flow diagram. Graphiti makes five LLM calls per chunk. OpenAI works, costs two dollars total.

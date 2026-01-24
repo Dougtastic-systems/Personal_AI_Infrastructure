@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T02:16:39.206Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T02:16:39.206Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Expanding scope - Oura Ring biometrics integration plus work notes/journaling."
+  next_step: "1. Get Oura Personal Access Token from https://cloud.ouraring.com/personal-access-tokens"
+  status: "Continuation prompt drafted for Phase 8"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Continuation prompt drafted. Oura biometrics plus work notes. Need API token from Oura cloud.

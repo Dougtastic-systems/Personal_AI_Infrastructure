@@ -1,0 +1,12 @@
+id: "20260119-185651_handle-large-pdf-extraction-for-ingestion"
+title: "Handle large PDF extraction for ingestion"
+created_at: "2026-01-19T18:56:51-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "2f53242e-5f00-446e-b671-9bbc6696a4da"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

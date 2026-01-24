@@ -1,0 +1,17 @@
+id: "001"
+description: "<task-notification>
+<task-id>bae37f8</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bae37f8.output</output-file>
+<status>completed</status>
+<summary>Background command \"Move OAuth credentials and run auth flow\" completed (exit code 0).</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/bae37f8.output"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T10:23:54-08:00"
+completed_at: "2026-01-23T10:24:02-08:00"
+response_summary: "OAuth done. Waiting for you to enable Gmail API, then I'll fetch the DCM Marketing email."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,12 @@
+id: "20260120-132732_summary-prototype-complete-decision-point-on"
+title: "SUMMARY Prototype complete  decision point on"
+created_at: "2026-01-20T13:27:32-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "0cb30289-755a-442f-aedd-d4b316358d87"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

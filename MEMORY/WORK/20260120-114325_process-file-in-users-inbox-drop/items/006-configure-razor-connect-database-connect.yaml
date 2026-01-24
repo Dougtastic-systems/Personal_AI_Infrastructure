@@ -1,0 +1,17 @@
+id: "006"
+description: "Razor connect details to environment:  password available once ready.
+
+Authentication Type: Login / Password
+Login: dsnyder@cydcor.com
+Driver class: com.xactly.connect.jdbc.Driver
+Driver Location:  /Users/DSnyder/Desktop/Drivers/xjdbc-with-dependencies-1.2.0-RELEASE 1.jar
+JDBC URL: jdbc:xactly://secure4.xactlycorp.com:443?useSSL=true"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T12:10:18-08:00"
+completed_at: "2026-01-20T12:11:13-08:00"
+response_summary: "Stored Xactly Connect credentials in .env. JDBC driver is proprietary. Ready for password to proceed."
+lineage:
+  created_by: "user_request"

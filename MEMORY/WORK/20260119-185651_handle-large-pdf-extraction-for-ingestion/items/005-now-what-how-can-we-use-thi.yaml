@@ -1,0 +1,11 @@
+id: "005"
+description: "now what ?  how can we use this not chunked?"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T19:12:17-08:00"
+completed_at: "2026-01-19T19:15:07-08:00"
+response_summary: "Voice memos exported to markdown. Pipeline complete with chunking, speaker tags, and query tools."
+lineage:
+  created_by: "user_request"

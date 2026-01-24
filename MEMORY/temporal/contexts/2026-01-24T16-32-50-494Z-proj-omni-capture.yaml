@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:32:50.494Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:32:50.494Z"
+transition: SESSION_END
+
+state:
+  what_doing: "You're asking the right question—what's the minimum viable path to prove the VALUE of organized knowledge, before committing to infrastructure?"
+  next_step: "1. Want me to write the extraction prompt + script for one email?"
+  status: "Architecture ready for immediate testing"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  File-based extraction gives eighty percent of graph value with five percent of complexity. Test first.

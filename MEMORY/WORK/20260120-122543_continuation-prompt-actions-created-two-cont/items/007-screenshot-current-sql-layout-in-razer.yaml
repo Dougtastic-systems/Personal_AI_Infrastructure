@@ -1,0 +1,11 @@
+id: "007"
+description: "I'm not sure if the side-by-side for SQL and results work. I'm thinking SQL on top, results on bottom. Is there any way that you can take a screenshot of the current layout in Razer? It's pretty simple. I'm not too far off from that."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T12:58:34-08:00"
+completed_at: "2026-01-20T13:00:49-08:00"
+response_summary: "Created RazorSQL-style layout with SQL on top, results on bottom. Opened in Chrome for comparison."
+lineage:
+  created_by: "user_request"

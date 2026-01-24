@@ -1,0 +1,11 @@
+id: "001"
+description: "If we create HTML artifacts that might be animated, data-driven, or an explainer, how can I get that HTML in front of a collaboration partner, like email, that they can then do something with it to see it the same way? What is the easiest process for that? How should I think about this?"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T11:30:04-08:00"
+completed_at: "2026-01-23T11:30:35-08:00"
+response_summary: "CodePen for quick shares, Cloudflare Pages for recurring use. Attachment works but requires download."
+lineage:
+  created_by: "user_request"

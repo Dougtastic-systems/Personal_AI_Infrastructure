@@ -1,0 +1,11 @@
+id: "012"
+description: "not seeing it open.  please confirm yourself."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T13:13:05-08:00"
+completed_at: "2026-01-20T13:13:29-08:00"
+response_summary: "Server confirmed running. Used macOS open command to launch browser directly."
+lineage:
+  created_by: "user_request"

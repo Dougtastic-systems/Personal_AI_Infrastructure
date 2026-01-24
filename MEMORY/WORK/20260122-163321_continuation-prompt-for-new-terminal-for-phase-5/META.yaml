@@ -1,0 +1,12 @@
+id: "20260122-163321_continuation-prompt-for-new-terminal-for-phase-5"
+title: "Continuation prompt for new terminal for phase 5"
+created_at: "2026-01-22T16:33:21-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "0973a7ed-9e70-4bad-bfa6-338d971fe796"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

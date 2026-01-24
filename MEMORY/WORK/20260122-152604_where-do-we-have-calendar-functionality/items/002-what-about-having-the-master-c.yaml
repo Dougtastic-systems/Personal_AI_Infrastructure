@@ -1,0 +1,11 @@
+id: "002"
+description: "what about having the master calender in here?  i"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T15:27:32-08:00"
+completed_at: "2026-01-22T15:28:02-08:00"
+response_summary: "Master calendar in PAI makes sense. Single source, project-integrated, energy-aware scheduling."
+lineage:
+  created_by: "user_request"

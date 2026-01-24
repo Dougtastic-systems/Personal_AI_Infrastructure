@@ -1,0 +1,11 @@
+id: "007"
+description: "then we can add obligations from calendar"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T18:16:45-08:00"
+completed_at: "2026-01-22T18:17:14-08:00"
+response_summary: "Full spec ready. Oura biometrics plus calendar obligations plus work notes. Three APIs needed."
+lineage:
+  created_by: "user_request"

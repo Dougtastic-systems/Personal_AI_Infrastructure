@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain Factory - Architecture</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
+            color: #e8e8e8;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(90deg, #3b82f6, #a855f7, #ec4899);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle { color: #64748b; margin-bottom: 2rem; font-size: 1.1rem; }
+
+        /* The Vision */
+        .vision {
+            background: linear-gradient(135deg, rgba(168, 85, 247, 0.15), rgba(236, 72, 153, 0.15));
+            border: 2px solid rgba(168, 85, 247, 0.5);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+        .vision::before {
+            content: '🧠';
+            position: absolute;
+            right: 1rem;
+            top: 1rem;
+            font-size: 4rem;
+            opacity: 0.2;
+        }
+        .vision h2 { color: #c4b5fd; font-size: 1.2rem; margin-bottom: 1rem; }
+        .vision p { line-height: 1.8; font-size: 1.05rem; }
+        .vision .highlight {
+            background: rgba(59, 130, 246, 0.2);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            color: #93c5fd;
+        }
+
+        /* Flow Diagram - Vertical */
+        .flow-vertical {
+            background: rgba(0,0,0,0.3);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        .flow-vertical h2 {
+            color: #f59e0b;
+            font-size: 1.2rem;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+
+        .pipeline {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0;
+        }
+        .stage {
+            width: 100%;
+            max-width: 600px;
+            position: relative;
+        }
+        .stage-box {
+            background: rgba(255,255,255,0.05);
+            border: 2px solid;
+            border-radius: 12px;
+            padding: 1.25rem;
+            display: flex;
+            gap: 1rem;
+            align-items: flex-start;
+        }
+        .stage-icon {
+            font-size: 2rem;
+            flex-shrink: 0;
+        }
+        .stage-content h3 { font-size: 1rem; margin-bottom: 0.25rem; }
+        .stage-content p { font-size: 0.85rem; color: #94a3b8; line-height: 1.5; }
+        .stage-content .detail {
+            font-size: 0.8rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 0.5rem;
+        }
+
+        .stage-arrow {
+            width: 2px;
+            height: 30px;
+            background: linear-gradient(to bottom, currentColor, transparent);
+            margin: 0 auto;
+        }
+
+        .stage:nth-child(1) .stage-box { border-color: #22c55e; }
+        .stage:nth-child(1) .stage-content h3 { color: #86efac; }
+        .stage:nth-child(1) .stage-arrow { color: #22c55e; }
+
+        .stage:nth-child(2) .stage-box { border-color: #3b82f6; }
+        .stage:nth-child(2) .stage-content h3 { color: #93c5fd; }
+        .stage:nth-child(2) .stage-arrow { color: #3b82f6; }
+
+        .stage:nth-child(3) .stage-box {
+            border-color: #f59e0b;
+            background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(234, 88, 12, 0.1));
+        }
+        .stage:nth-child(3) .stage-content h3 { color: #fcd34d; }
+        .stage:nth-child(3) .stage-arrow { color: #f59e0b; }
+
+        .stage:nth-child(4) .stage-box { border-color: #a855f7; }
+        .stage:nth-child(4) .stage-content h3 { color: #c4b5fd; }
+        .stage:nth-child(4) .stage-arrow { color: #a855f7; }
+
+        .stage:nth-child(5) .stage-box { border-color: #ec4899; }
+        .stage:nth-child(5) .stage-content h3 { color: #f9a8d4; }
+
+        /* Components Grid */
+        .components {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .component {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 1.25rem;
+        }
+        .component h3 {
+            font-size: 0.95rem;
+            color: #93c5fd;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .component p { font-size: 0.85rem; color: #94a3b8; line-height: 1.5; margin-bottom: 0.75rem; }
+        .component .tech {
+            font-size: 0.75rem;
+            color: #64748b;
+            background: rgba(0,0,0,0.3);
+            padding: 0.5rem;
+            border-radius: 6px;
+            font-family: monospace;
+        }
+        .component .status {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            margin-top: 0.5rem;
+        }
+        .status.exists { background: rgba(34, 197, 94, 0.2); color: #86efac; }
+        .status.partial { background: rgba(59, 130, 246, 0.2); color: #93c5fd; }
+        .status.new { background: rgba(245, 158, 11, 0.2); color: #fcd34d; }
+        .status.fantasy { background: rgba(168, 85, 247, 0.2); color: #c4b5fd; }
+
+        /* Phases */
+        .phases {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        .phases h2 { color: #22c55e; font-size: 1.2rem; margin-bottom: 1.5rem; }
+
+        .phase {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .phase:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .phase-num {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, #3b82f6, #a855f7);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        .phase-content h3 { font-size: 1rem; color: #e8e8e8; margin-bottom: 0.25rem; }
+        .phase-content p { font-size: 0.85rem; color: #94a3b8; line-height: 1.5; }
+        .phase-content .deliverable {
+            display: inline-block;
+            background: rgba(34, 197, 94, 0.15);
+            color: #86efac;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            margin-top: 0.5rem;
+        }
+
+        /* Key Insight */
+        .insight {
+            background: linear-gradient(90deg, rgba(34, 197, 94, 0.15), rgba(59, 130, 246, 0.15));
+            border-left: 4px solid #22c55e;
+            padding: 1.5rem;
+            border-radius: 0 12px 12px 0;
+            margin-bottom: 2rem;
+        }
+        .insight h2 { color: #22c55e; font-size: 1rem; margin-bottom: 0.75rem; }
+        .insight p { line-height: 1.6; }
+        .insight strong { color: #93c5fd; }
+
+        /* Data Model */
+        .data-model {
+            background: #0f172a;
+            border-radius: 12px;
+            padding: 1.5rem;
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 0.8rem;
+            overflow-x: auto;
+            margin-bottom: 2rem;
+        }
+        .data-model .comment { color: #64748b; }
+        .data-model .folder { color: #3b82f6; }
+        .data-model .file { color: #94a3b8; }
+        .data-model .desc { color: #22c55e; }
+
+        /* Action Box */
+        .action {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(34, 197, 94, 0.15));
+            border: 2px solid #3b82f6;
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        .action h2 { color: #3b82f6; font-size: 1.1rem; margin-bottom: 1rem; }
+        .action-item {
+            display: flex;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+            align-items: flex-start;
+        }
+        .action-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            margin-top: 2px;
+        }
+        .action-item label { line-height: 1.5; }
+        .action-item .cmd {
+            display: block;
+            background: rgba(0,0,0,0.3);
+            padding: 0.5rem;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 0.8rem;
+            margin-top: 0.25rem;
+            color: #22c55e;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Brain Factory</h1>
+        <p class="subtitle">Systematized creativity pipeline for multi-domain synthesis</p>
+
+        <!-- The Vision -->
+        <div class="vision">
+            <h2>The Vision</h2>
+            <p>
+                A <span class="highlight">chemically enriched narrow window</span> where pattern-finding is maximized.
+                Pre-primed with problems. Fed with someone solving problems in real-time.
+                The output: <span class="highlight">cross-domain synthesis</span> across 3-5 major projects.
+                Captured immediately. Converted to <span class="highlight">artifacts that move projects forward</span>.
+            </p>
+        </div>
+
+        <!-- Key Insight -->
+        <div class="insight">
+            <h2>The Core Pattern (2 weeks, proven)</h2>
+            <p>
+                <strong>Before:</strong> Music → stabilize → work<br>
+                <strong>Now:</strong> Problem brief → Nate audio → shower flow state → scenic drive ramble → capture<br>
+                <strong>Result:</strong> Supercharged creativity. Patterns that didn't exist before. System-level insights.
+            </p>
+        </div>
+
+        <!-- Pipeline Flow -->
+        <div class="flow-vertical">
+            <h2>The Pipeline</h2>
+            <div class="pipeline">
+                <div class="stage">
+                    <div class="stage-box">
+                        <span class="stage-icon">📋</span>
+                        <div class="stage-content">
+                            <h3>1. Problem State Brief (Hemingway Bridge)</h3>
+                            <p>"You're thinking about A, B, and C. Fascinated about what comes after. This one is narrowing down to X and Y."</p>
+                            <div class="detail">Quick brief waiting for you. Context loaded before flow begins.</div>
+                        </div>
+                    </div>
+                    <div class="stage-arrow"></div>
+                </div>
+                <div class="stage">
+                    <div class="stage-box">
+                        <span class="stage-icon">🎧</span>
+                        <div class="stage-content">
+                            <h3>2. Audio Primer (Nate Content)</h3>
+                            <p>Someone solving problems in real-time. Reweighting factors. Making connections. Served as audio chunks matched to your problem types.</p>
+                            <div class="detail">Fantasy: YouTube ripped → chunked → indexed → matched to your problems</div>
+                        </div>
+                    </div>
+                    <div class="stage-arrow"></div>
+                </div>
+                <div class="stage">
+                    <div class="stage-box">
+                        <span class="stage-icon">🚿✨</span>
+                        <div class="stage-content">
+                            <h3>3. Flow State (Human Magic)</h3>
+                            <p>Narrow window. Chemical enhancement. Pattern-finding engine at maximum. Cross-domain connections happen naturally. 3-5 projects synthesized simultaneously.</p>
+                            <div class="detail">The black box. System doesn't touch this. Just sets up and captures output.</div>
+                        </div>
+                    </div>
+                    <div class="stage-arrow"></div>
+                </div>
+                <div class="stage">
+                    <div class="stage-box">
+                        <span class="stage-icon">🎤</span>
+                        <div class="stage-content">
+                            <h3>4. Synthesis Capture</h3>
+                            <p>Voice capture during scenic drive. "Here's what came out..." Connected to which problems, which primer triggered it.</p>
+                            <div class="detail">Dopamine will seek its own path. Guardrails: "Here's the problem you're solving. Here's how it makes a difference now."</div>
+                        </div>
+                    </div>
+                    <div class="stage-arrow"></div>
+                </div>
+                <div class="stage">
+                    <div class="stage-box">
+                        <span class="stage-icon">📦</span>
+                        <div class="stage-content">
+                            <h3>5. Artifact Generation</h3>
+                            <p>Synthesis → artifact that moves project forward immediately. Plan. Insight. Decision. Next action.</p>
+                            <div class="detail">Not just captured. Applied. The output has to DO something.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- System Components -->
+        <h2 style="color: #94a3b8; margin-bottom: 1rem;">System Components</h2>
+        <div class="components">
+            <div class="component">
+                <h3>📂 Problem States</h3>
+                <p>Active problems with Hemingway bridges. What you're thinking about, what's narrowing down, what's next.</p>
+                <div class="tech">TELOS projects + continuations</div>
+                <span class="status exists">Exists (needs integration)</span>
+            </div>
+            <div class="component">
+                <h3>📧 Newsletter Archive</h3>
+                <p>Historical Nate emails. Searchable. Tagged by topic/thinking pattern. Written format.</p>
+                <div class="tech">bun gmail-fetch.ts --all</div>
+                <span class="status partial">Ready to run</span>
+            </div>
+            <div class="component">
+                <h3>🎬 YouTube Archive</h3>
+                <p>All Nate videos. Transcribed. Chunked by topic. Audio served for priming.</p>
+                <div class="tech">yt-dlp + whisper + chunking</div>
+                <span class="status fantasy">Fantasy tier</span>
+            </div>
+            <div class="component">
+                <h3>🔍 Primer Matcher</h3>
+                <p>Given problems → find relevant Nate content. Semantic search across newsletters + videos.</p>
+                <div class="tech">Embeddings + vector search</div>
+                <span class="status new">New build</span>
+            </div>
+            <div class="component">
+                <h3>🎤 Synthesis Capture</h3>
+                <p>Voice → text pipeline. Links to problems + primers. Extracts key insights.</p>
+                <div class="tech">Whisper + inference</div>
+                <span class="status new">New build</span>
+            </div>
+            <div class="component">
+                <h3>📦 Artifact Generator</h3>
+                <p>Synthesis → actionable artifact. Plans, decisions, next steps. Feeds back to problems.</p>
+                <div class="tech">AI processing + templates</div>
+                <span class="status new">New build</span>
+            </div>
+        </div>
+
+        <!-- Data Model -->
+        <h2 style="color: #94a3b8; margin-bottom: 1rem;">Storage Structure</h2>
+        <div class="data-model">
+<span class="comment"># Brain Factory Data Model</span>
+<span class="folder">MEMORY/brain-factory/</span>
+├── <span class="folder">problems/</span>                  <span class="desc"># Active problem states (from TELOS)</span>
+│   └── <span class="file">YYYY-MM-DD_problem.md</span>   <span class="desc"># Hemingway bridge for each</span>
+├── <span class="folder">primers/</span>                   <span class="desc"># Indexed Nate content</span>
+│   ├── <span class="folder">newsletters/</span>           <span class="desc"># Written content (from _NATE)</span>
+│   ├── <span class="folder">youtube/</span>               <span class="desc"># Video transcripts + audio chunks</span>
+│   └── <span class="file">index.json</span>             <span class="desc"># Topic tags, embeddings, durations</span>
+├── <span class="folder">sessions/</span>                  <span class="desc"># Flow state sessions</span>
+│   └── <span class="file">YYYY-MM-DD_session.md</span>  <span class="desc"># Primers used, problems addressed</span>
+├── <span class="folder">synthesis/</span>                 <span class="desc"># Voice captures + transcripts</span>
+│   └── <span class="file">YYYY-MM-DD_synthesis.md</span> <span class="desc"># Linked to session + problems</span>
+└── <span class="folder">artifacts/</span>                 <span class="desc"># Outputs that move projects</span>
+    └── <span class="file">YYYY-MM-DD_artifact.md</span>  <span class="desc"># Plans, insights, decisions</span>
+        </div>
+
+        <!-- Phased Implementation -->
+        <div class="phases">
+            <h2>Phased Implementation</h2>
+
+            <div class="phase">
+                <div class="phase-num">1</div>
+                <div class="phase-content">
+                    <h3>Foundation: Archive + Brief</h3>
+                    <p>Bulk capture historical emails. Light processing. Create problem state briefs from TELOS. Manual primer selection (you pick the Nate video).</p>
+                    <span class="deliverable">→ Searchable archive + morning brief generator</span>
+                </div>
+            </div>
+
+            <div class="phase">
+                <div class="phase-num">2</div>
+                <div class="phase-content">
+                    <h3>Capture: Synthesis Pipeline</h3>
+                    <p>Voice capture tool that prompts "which problems?" and "what primer?". Transcription. Basic linking to problems.</p>
+                    <span class="deliverable">→ Post-flow capture that connects to context</span>
+                </div>
+            </div>
+
+            <div class="phase">
+                <div class="phase-num">3</div>
+                <div class="phase-content">
+                    <h3>Intelligence: Primer Matching</h3>
+                    <p>Index newsletters by topic/thinking pattern. Given problems → suggest relevant primers. Start with text, add YouTube later.</p>
+                    <span class="deliverable">→ "Based on your problems, consider this Nate content"</span>
+                </div>
+            </div>
+
+            <div class="phase">
+                <div class="phase-num">4</div>
+                <div class="phase-content">
+                    <h3>Fantasy: YouTube Audio System</h3>
+                    <p>Rip all Nate YouTube. Transcribe + chunk. Serve audio matched to problem types. Full semantic search.</p>
+                    <span class="deliverable">→ Personalized audio primer queue</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Immediate Actions -->
+        <div class="action">
+            <h2>Start Now: Phase 1</h2>
+            <div class="action-item">
+                <input type="checkbox" id="a1">
+                <label for="a1">
+                    <strong>Bulk capture historical emails</strong>
+                    <span class="cmd">bun ~/.claude/skills/_NATE/tools/gmail-fetch.ts --all</span>
+                </label>
+            </div>
+            <div class="action-item">
+                <input type="checkbox" id="a2">
+                <label for="a2">
+                    <strong>Update continuation with Brain Factory architecture</strong>
+                </label>
+            </div>
+            <div class="action-item">
+                <input type="checkbox" id="a3">
+                <label for="a3">
+                    <strong>Create morning brief generator</strong> - pulls active TELOS problems into Hemingway bridge format
+                </label>
+            </div>
+            <div class="action-item">
+                <input type="checkbox" id="a4">
+                <label for="a4">
+                    <strong>Test one cycle manually</strong> - brief → Nate video → flow → voice capture → artifact
+                </label>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

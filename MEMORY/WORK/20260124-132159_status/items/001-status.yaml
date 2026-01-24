@@ -1,0 +1,11 @@
+id: "001"
+description: "status?"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T13:21:59-08:00"
+completed_at: "2026-01-24T13:22:09-08:00"
+response_summary: "Graphiti at 86 of 116. Seventy-four percent done, about three minutes left."
+lineage:
+  created_by: "user_request"

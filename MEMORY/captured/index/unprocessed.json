@@ -1,0 +1,304 @@
+[
+  {
+    "id": "2026-01-17-193819-drop-idea-capture-system-test-txt",
+    "captured_at": "2026-01-17T19:38:19.100Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "idea-capture-system-test.txt",
+      "drop_path": "/Users/DSnyder/Inbox/drop/idea-capture-system-test.txt"
+    },
+    "file_info": {
+      "size_bytes": 256,
+      "mime_type": "text/plain",
+      "extension": ".txt"
+    },
+    "auto_tags": [
+      "idea"
+    ],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-17T19:38:19.100Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-17/113819_drop_idea-capture-system-test.txt",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-17/113819_drop_idea-capture-system-test.txt"
+    }
+  },
+  {
+    "id": "2026-01-20-010232-drop-GTP-Chat-test-pdf",
+    "captured_at": "2026-01-20T01:02:32.121Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "GTP Chat test.pdf",
+      "drop_path": "/Users/DSnyder/Inbox/drop/GTP Chat test.pdf"
+    },
+    "file_info": {
+      "size_bytes": 163403,
+      "mime_type": "application/pdf",
+      "extension": ".pdf"
+    },
+    "auto_tags": [],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-20T01:02:32.121Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-20/170232_drop_GTP Chat test.pdf",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-20/170232_drop_GTP Chat test.pdf"
+    }
+  },
+  {
+    "id": "2026-01-20-022806-drop-VProcessing---Brainstorming-GP",
+    "captured_at": "2026-01-20T02:28:06.335Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "VProcessing - Brainstorming GPT Test.pdf",
+      "drop_path": "/Users/DSnyder/Inbox/drop/VProcessing - Brainstorming GPT Test.pdf"
+    },
+    "file_info": {
+      "size_bytes": 704105,
+      "mime_type": "application/pdf",
+      "extension": ".pdf"
+    },
+    "auto_tags": [
+      "brainstorm"
+    ],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-20T02:28:06.335Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-20/182806_drop_VProcessing - Brainstorming GPT Test.pdf",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-20/182806_drop_VProcessing - Brainstorming GPT Test.pdf"
+    }
+  },
+  {
+    "id": "2026-01-20-024809-drop-Mindfulness-and-Neurochemicals",
+    "captured_at": "2026-01-20T02:48:09.169Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "Mindfulness and Neurochemicals.pdf",
+      "drop_path": "/Users/DSnyder/Inbox/drop/Mindfulness and Neurochemicals.pdf"
+    },
+    "file_info": {
+      "size_bytes": 1799863,
+      "mime_type": "application/pdf",
+      "extension": ".pdf"
+    },
+    "auto_tags": [],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-20T02:48:09.169Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-20/184809_drop_Mindfulness and Neurochemicals.pdf",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-20/184809_drop_Mindfulness and Neurochemicals.pdf"
+    }
+  },
+  {
+    "id": "2026-01-21-191608-drop-VProcessing---Omni-Ingest-Syst",
+    "captured_at": "2026-01-21T19:16:08.482Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "VProcessing - Omni Ingest System Design.pdf",
+      "drop_path": "/Users/DSnyder/Inbox/drop/VProcessing - Omni Ingest System Design.pdf"
+    },
+    "file_info": {
+      "size_bytes": 330101,
+      "mime_type": "application/pdf",
+      "extension": ".pdf"
+    },
+    "auto_tags": [],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-21T19:16:08.482Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-21/111608_drop_VProcessing - Omni Ingest System Design.pdf",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-21/111608_drop_VProcessing - Omni Ingest System Design.pdf"
+    }
+  },
+  {
+    "id": "2026-01-21-191608-meeting-test-meeting-note-txt",
+    "captured_at": "2026-01-21T19:16:08.604Z",
+    "source": "meeting",
+    "source_details": {
+      "original_filename": "test-meeting-note.txt",
+      "drop_path": "/Users/DSnyder/Inbox/drop/test-meeting-note.txt"
+    },
+    "file_info": {
+      "size_bytes": 181,
+      "mime_type": "text/plain",
+      "extension": ".txt"
+    },
+    "auto_tags": [
+      "note",
+      "meeting"
+    ],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-21T19:16:08.604Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-21/111608_meeting_test-meeting-note.txt",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-21/111608_meeting_test-meeting-note.txt"
+    }
+  },
+  {
+    "id": "2026-01-21-191907-drop-graphiti-test-txt",
+    "captured_at": "2026-01-21T19:19:07.211Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "graphiti-test.txt",
+      "drop_path": "/Users/DSnyder/Inbox/drop/graphiti-test.txt"
+    },
+    "file_info": {
+      "size_bytes": 117,
+      "mime_type": "text/plain",
+      "extension": ".txt"
+    },
+    "auto_tags": [],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-21T19:19:07.211Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-21/111907_drop_graphiti-test.txt",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-21/111907_drop_graphiti-test.txt"
+    }
+  },
+  {
+    "id": "2026-01-21-191924-meeting-test-meeting-2-txt",
+    "captured_at": "2026-01-21T19:19:24.142Z",
+    "source": "meeting",
+    "source_details": {
+      "original_filename": "test-meeting-2.txt",
+      "drop_path": "/Users/DSnyder/Inbox/drop/test-meeting-2.txt"
+    },
+    "file_info": {
+      "size_bytes": 139,
+      "mime_type": "text/plain",
+      "extension": ".txt"
+    },
+    "auto_tags": [
+      "meeting"
+    ],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-21T19:19:24.142Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-21/111924_meeting_test-meeting-2.txt",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-21/111924_meeting_test-meeting-2.txt"
+    }
+  },
+  {
+    "id": "2026-01-21-203809-meeting-meeting-notes-test-txt",
+    "captured_at": "2026-01-21T20:38:09.096Z",
+    "source": "meeting",
+    "source_details": {
+      "original_filename": "meeting-notes-test.txt",
+      "drop_path": "/Users/DSnyder/Inbox/drop/meeting-notes-test.txt"
+    },
+    "file_info": {
+      "size_bytes": 269,
+      "mime_type": "text/plain",
+      "extension": ".txt"
+    },
+    "auto_tags": [
+      "note",
+      "meeting"
+    ],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-21T20:38:09.096Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-21/123809_meeting_meeting-notes-test.txt",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-21/123809_meeting_meeting-notes-test.txt"
+    }
+  },
+  {
+    "id": "2026-01-21-204738-drop-uniqueness-test-txt",
+    "captured_at": "2026-01-21T20:47:38.692Z",
+    "source": "drop",
+    "source_details": {
+      "original_filename": "uniqueness-test.txt",
+      "drop_path": "/Users/DSnyder/Inbox/drop/uniqueness-test.txt"
+    },
+    "file_info": {
+      "size_bytes": 168,
+      "mime_type": "text/plain",
+      "extension": ".txt"
+    },
+    "auto_tags": [],
+    "manual_tags": [],
+    "processing": {
+      "status": "raw",
+      "history": [
+        {
+          "level": "raw",
+          "at": "2026-01-21T20:47:38.692Z"
+        }
+      ]
+    },
+    "stored_at": {
+      "inbox_raw": "/Users/DSnyder/Inbox/raw/2026-01-21/124738_drop_uniqueness-test.txt",
+      "memory_raw": "/Users/DSnyder/.claude/MEMORY/captured/raw/2026-01-21/124738_drop_uniqueness-test.txt"
+    }
+  }
+]

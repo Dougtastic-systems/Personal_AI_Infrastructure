@@ -1,0 +1,19 @@
+id: "002"
+description: "<task-notification>
+<task-id>b60e1bf</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b60e1bf.output</output-file>
+<status>failed</status>
+<summary>Background command \"Start xConnect IDE backend server on port 3001\" failed with exit code 137.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b60e1bf.output
+<task-notification>
+<task-id>b7d1979"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T16:47:09-08:00"
+completed_at: "2026-01-21T16:47:22-08:00"
+response_summary: "Old server tasks cleaned up. New servers running fine. Ready for testing or next task."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T17:27:38.009Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T17:27:38.009Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Central credentials folder created with Google OAuth handler."
+  next_step: "Continue work"
+  status: "Credentials infrastructure ready. Waiting for you to add `oauth-client.json` from Google Cloud Console."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Created credentials folder with Google OAuth handler. Download oauth-client.json from Google Cloud Console.

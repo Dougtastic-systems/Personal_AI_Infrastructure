@@ -1,0 +1,17 @@
+id: "001"
+description: "<task-notification>
+<task-id>b0c03eb</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b0c03eb.output</output-file>
+<status>completed</status>
+<summary>Background command \"Restart dashboard with fixed path\" completed (exit code 0).</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b0c03eb.output"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:29:24-08:00"
+completed_at: "2026-01-24T10:29:42-08:00"
+response_summary: "Dashboard restart completed. Server watching correct projects directory. Events streaming live."
+lineage:
+  created_by: "user_request"

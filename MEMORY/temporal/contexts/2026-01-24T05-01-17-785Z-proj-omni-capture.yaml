@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T05:01:17.785Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T05:01:17.785Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Opened v2 in your default app."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Opened therapist-value-proposition-v.md for your review.

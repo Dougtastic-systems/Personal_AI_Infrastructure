@@ -1,0 +1,11 @@
+id: "006"
+description: "Until we can get where we're exporting out GPTs, I'll need to come up with a process where I think I might need to make a custom GPT that has instructions for the different type of verbal processing I'm doing. That identifies the GPT identifies itself with the date and time stamp in the text block before answering, summarizing, or doing anything else. Thoughts on customizing a prompt and then having a way that if I create a PDF and import it that you'll be able to parse it, understand my questio"
+type: "work"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T17:06:33-08:00"
+completed_at: "2026-01-19T17:15:58-08:00"
+response_summary: "Designed four-mode GPT with parseable headers and \"close it out\" ritual for exports."
+lineage:
+  created_by: "user_request"

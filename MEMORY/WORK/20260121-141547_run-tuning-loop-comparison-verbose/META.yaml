@@ -1,0 +1,12 @@
+id: "20260121-141547_run-tuning-loop-comparison-verbose"
+title: "Run tuning loop comparison verbose"
+created_at: "2026-01-21T14:15:47-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "02aa0f1a-eadb-448b-b15f-97835221c3b1"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

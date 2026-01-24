@@ -1,0 +1,11 @@
+id: "001"
+description: "show me the continuation prompt"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T11:18:43-08:00"
+completed_at: "2026-01-23T11:18:55-08:00"
+response_summary: "Continuation prompt shown. Contains context, resources, workflow, and pending tasks for Friday."
+lineage:
+  created_by: "user_request"

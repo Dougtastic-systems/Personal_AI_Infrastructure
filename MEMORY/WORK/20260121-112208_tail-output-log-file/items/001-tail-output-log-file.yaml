@@ -1,0 +1,11 @@
+id: "001"
+description: "tail -f /tmp/claude/-Users-DSnyder--claude-worktrees-Personal-AI-Infrastructure-flamboyant-wescoff/tasks/a504fe7.output"
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-21T11:22:08-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

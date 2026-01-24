@@ -1,0 +1,11 @@
+id: "001"
+description: "foward email.  want me to kick them off?"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T08:50:31-08:00"
+completed_at: "2026-01-23T08:50:44-08:00"
+response_summary: "Fathom API working. Full project created. Therapist value prop draft ready for Friday homework."
+lineage:
+  created_by: "user_request"

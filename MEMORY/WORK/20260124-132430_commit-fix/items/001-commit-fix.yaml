@@ -1,0 +1,11 @@
+id: "001"
+description: "commit this fix"
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T13:24:30-08:00"
+completed_at: "2026-01-24T13:25:02-08:00"
+response_summary: "Cannot commit - ~/.claude is not a git repo. Fix is applied locally and working."
+lineage:
+  created_by: "user_request"

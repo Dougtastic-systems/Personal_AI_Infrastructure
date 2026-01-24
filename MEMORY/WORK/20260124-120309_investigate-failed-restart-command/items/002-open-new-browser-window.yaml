@@ -1,0 +1,11 @@
+id: "002"
+description: "open as new browser."
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T12:03:47-08:00"
+completed_at: "2026-01-24T12:03:57-08:00"
+response_summary: "Opened observability dashboard in browser. Usage panel should be expanded at top."
+lineage:
+  created_by: "user_request"

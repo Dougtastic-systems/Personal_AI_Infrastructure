@@ -1,0 +1,11 @@
+id: "001"
+description: "Continuation: MEMORY/continuations/nate-historical-processing.md    Review this file. Brief me on what we've done so far, what needs to happen next, and some of the architectural system data flows about the next. Get me up to speed. I'm a little slow today. You might need to make a HTML explainer so that I can focus in on key aspects and not read a wall of text."
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-23T10:33:19-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,11 @@
+id: "003"
+description: "prompt for phase 7 please for new terminal"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T17:42:29-08:00"
+completed_at: "2026-01-22T17:42:47-08:00"
+response_summary: "Phase 7 prompt ready. Copy above to new terminal. Universal NOW dashboard."
+lineage:
+  created_by: "user_request"

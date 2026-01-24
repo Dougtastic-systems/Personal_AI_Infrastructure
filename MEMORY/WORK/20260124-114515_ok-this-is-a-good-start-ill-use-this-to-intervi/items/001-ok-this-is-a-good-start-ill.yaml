@@ -1,0 +1,11 @@
+id: "001"
+description: "OK this is a good start.  I'll use this to interview melissa to tease out specifics to plug into this model to flesh out. "
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T11:45:15-08:00"
+completed_at: "2026-01-24T11:45:31-08:00"
+response_summary: "Production guide ready for Melissa interview. Sixty tasks with TBD slots to fill."
+lineage:
+  created_by: "user_request"

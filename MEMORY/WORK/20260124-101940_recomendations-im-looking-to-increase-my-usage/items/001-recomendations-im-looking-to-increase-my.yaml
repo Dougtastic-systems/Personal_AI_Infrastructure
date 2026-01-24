@@ -1,0 +1,11 @@
+id: "001"
+description: "recomendations?   i'm looking to increase my usage and I have Max 5x and need to know when to upgrade to Max20x to deal with maxed out 5 hr/weekly windows"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T10:19:40-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

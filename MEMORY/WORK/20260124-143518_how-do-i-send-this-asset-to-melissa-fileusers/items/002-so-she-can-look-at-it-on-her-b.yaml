@@ -1,0 +1,11 @@
+id: "002"
+description: "so she can look at it on her browser locally"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T14:35:49-08:00"
+completed_at: "2026-01-24T14:36:08-08:00"
+response_summary: "File revealed in Finder. Drag it into your email or message to Melissa."
+lineage:
+  created_by: "user_request"

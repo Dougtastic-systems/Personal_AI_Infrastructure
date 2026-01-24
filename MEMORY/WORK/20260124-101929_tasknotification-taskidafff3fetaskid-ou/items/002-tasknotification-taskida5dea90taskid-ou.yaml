@@ -1,0 +1,22 @@
+id: "002"
+description: "<task-notification>
+<task-id>a5dea90</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/a5dea90.output</output-file>
+<status>completed</status>
+<summary>Agent \"Extract: 100-ai-tools\" completed.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/a5dea90.output
+/rate-limit-options
+/rate-limit-options
+/rate-limit-options
+/rate-limit-options
+/rate-l"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T10:19:34-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

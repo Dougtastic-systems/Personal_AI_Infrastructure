@@ -1,0 +1,11 @@
+id: "006"
+description: "Create a continuation prompt to explore the three next practical directions from here so that we can start using verbal processing to drive projects, knowledge, what's on my mind, changing attitudes, all of the above."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T19:16:13-08:00"
+completed_at: "2026-01-19T19:17:19-08:00"
+response_summary: "Created verbal processing continuation with three directions: semantic search, synthesis, and framework extraction."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,11 @@
+id: "017"
+description: "I need this less than 8000 characters for gpt."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:08:59-08:00"
+completed_at: "2026-01-19T18:09:46-08:00"
+response_summary: "Condensed to 4,377 characters. All modes and functionality preserved. Ready to paste."
+lineage:
+  created_by: "user_request"

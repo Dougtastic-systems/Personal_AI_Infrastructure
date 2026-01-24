@@ -1,0 +1,11 @@
+id: "002"
+description: "why are we looking at mindfulness and neurochmicals pdf.  why don't you have the folder location in instructions?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-20T11:33:07-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

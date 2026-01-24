@@ -1,0 +1,12 @@
+id: "20260120-190512_create-pai-work-summary-and-quality-assessment"
+title: "Create PAI work summary and quality assessment"
+created_at: "2026-01-20T19:05:12-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "a0198e22-10a5-4861-9aa8-70f867ac1c3c"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T16:46:10.280Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T16:46:10.280Z"
+transition: SESSION_END
+
+state:
+  what_doing: "You have three options - auto-forward is simplest, or I can build Microsoft Graph integration for direct Outlook access."
+  next_step: "- **If you want simplest:** Set up the Outlook auto-forward rule (5 min)"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Three options: auto-forward Outlook to Gmail, I build Graph API, or manual drop. Your call.

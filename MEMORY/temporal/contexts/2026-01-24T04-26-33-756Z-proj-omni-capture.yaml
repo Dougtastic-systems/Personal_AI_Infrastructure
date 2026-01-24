@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T04:26:33.756Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T04:26:33.756Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Created Google Doc formatted preview of therapist value proposition content."
+  next_step: "1. Review/edit this preview"
+  status: "Preview ready at `~/.claude/WORK/renify/marketing/google-doc-preview.md`"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Created Google Doc preview. Shows therapist value prop with all sections formatted for readability.

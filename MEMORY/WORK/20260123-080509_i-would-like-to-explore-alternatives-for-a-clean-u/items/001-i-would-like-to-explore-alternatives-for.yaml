@@ -1,0 +1,11 @@
+id: "001"
+description: "I would like to explore alternatives for a clean UX design for our now dashboard. The default in the art skill doesn't always work for me. I'm not sure what's off for me because I'm not a graphic designer. I don't have the language I necessarily say. But it's not laid out in a way that might match cognitive understanding, right? Translation to what you need to know right now, but yet be able to mutate to deeper details once you've transitioned to being even oriented what's going on, right? This "
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-23T08:05:09-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

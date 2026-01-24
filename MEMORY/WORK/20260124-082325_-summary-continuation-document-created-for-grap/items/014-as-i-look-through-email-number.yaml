@@ -1,0 +1,11 @@
+id: "014"
+description: "As I look through email number one, I notice that he has some argument assertions. These things are happening. I'm wondering if we have a section of what Nate's assertions are. Think in Seth Godin's thinking around strategy, around assertions, constraints for his thinking. Also, I noticed that in the email he has a practice one, adopt engineering manager identity. We called out adopting engineer manager identity. But I'd like to extract a few more key concepts in each section versus kill the con"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T09:08:11-08:00"
+completed_at: "2026-01-24T09:08:51-08:00"
+response_summary: "Adding strategic assertions with implications and six practices with three to four sub-points each."
+lineage:
+  created_by: "user_request"

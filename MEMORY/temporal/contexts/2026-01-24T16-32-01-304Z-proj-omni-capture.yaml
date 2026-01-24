@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:32:01.304Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:32:01.304Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Your 36GB M4 Max can run Qwen 2.5 32B, but it will be tight—expect to close other apps and use 4-bit quantization."
+  next_step: "- Test with `ollama run qwen2.5:32b-instruct-q4_K_M` to see actual performance"
+  status: "Runnable but constrained—48GB+ recommended for comfortable operation"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Qwen B fits with Q quantization at -GB. Tight but runnable on GB M Max.

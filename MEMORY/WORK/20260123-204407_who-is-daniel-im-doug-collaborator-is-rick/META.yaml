@@ -1,0 +1,12 @@
+id: "20260123-204407_who-is-daniel-im-doug-collaborator-is-rick"
+title: "who is Daniel?  I'm Doug.  Collaborator is rick"
+created_at: "2026-01-23T20:44:07-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "dc55c965-e7dc-46ba-8394-377b4a1d3e3b"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

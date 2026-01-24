@@ -1,0 +1,12 @@
+id: "20260123-111727_engineering-review-neo4j-knowledge-graph-prototype"
+title: "Engineering review Neo4j knowledge graph prototype"
+created_at: "2026-01-23T11:17:27-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "2ed8ed53-4db8-4319-83ac-aa35c438320e"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

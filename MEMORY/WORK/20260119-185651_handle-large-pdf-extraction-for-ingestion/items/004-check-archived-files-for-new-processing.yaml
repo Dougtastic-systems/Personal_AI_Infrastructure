@@ -1,0 +1,11 @@
+id: "004"
+description: "check the other archived files for new processing"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T19:09:47-08:00"
+completed_at: "2026-01-19T19:11:46-08:00"
+response_summary: "Reprocessed all 5 archived files. 40 chunks created with speaker detection across 280K chars total."
+lineage:
+  created_by: "user_request"

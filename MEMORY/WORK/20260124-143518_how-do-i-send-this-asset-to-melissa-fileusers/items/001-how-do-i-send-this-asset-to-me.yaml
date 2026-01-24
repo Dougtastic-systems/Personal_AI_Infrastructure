@@ -1,0 +1,11 @@
+id: "001"
+description: "how do I send this asset to melissa? file:///Users/DSnyder/.claude/WORK/TalksWithMelissa/PRODUCTION-GUIDE.html"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T14:35:18-08:00"
+completed_at: "2026-01-24T14:35:43-08:00"
+response_summary: "Production guide is ready. How should I send it - email, text, hosted URL, or cloud link?"
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,19 @@
+id: "001"
+description: "Help me work thru a process to figure out my next doing and how to configure this tool to help me systemize the doing.
+
+Development / configuration of the tool to support work I do.  I'm looking at breaking down core features of PAI vs what I actually do.
+
+Review my PIA Backlog list to decompose features or system workflows for gaps to build out.
+
+I want to come up with a compounding tool development plan to support real work I need to do.
+
+Biasing towards systemizing core work I do and scaffold"
+type: "work"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-17T11:19:55-08:00"
+completed_at: "2026-01-17T11:40:30-08:00"
+response_summary: "Built Universal Capture System Phase 1. Drop files to Inbox folder, auto-captured with metadata."
+lineage:
+  created_by: "user_request"

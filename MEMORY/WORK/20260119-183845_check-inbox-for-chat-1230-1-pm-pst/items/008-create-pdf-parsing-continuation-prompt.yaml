@@ -1,0 +1,11 @@
+id: "008"
+description: "create a continuation prompt to deal with large PDFs from exporting from chat gpt.  I will do long sessions.  Will need to be able to parse"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-19T18:54:53-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

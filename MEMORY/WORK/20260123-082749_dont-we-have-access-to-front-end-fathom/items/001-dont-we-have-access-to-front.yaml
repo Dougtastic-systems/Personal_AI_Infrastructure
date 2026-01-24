@@ -1,0 +1,11 @@
+id: "001"
+description: "don't we have access to front end Fathom?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T08:27:49-08:00"
+completed_at: "2026-01-23T08:29:00-08:00"
+response_summary: "Gmail tools ready. Need Google Cloud project, OAuth credentials, then run gmail-auth.ts to authorize."
+lineage:
+  created_by: "user_request"

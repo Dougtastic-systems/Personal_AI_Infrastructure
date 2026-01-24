@@ -1,0 +1,11 @@
+id: "001"
+description: "Concerning the observability dashboard, is there a way to add from Claude console my actual usage and when I'm going to be running up against limits? How would we enhance this dashboard to be able to incorporate that information as we go?"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:08:43-08:00"
+completed_at: "2026-01-24T10:10:41-08:00"
+response_summary: "Usage tracking possible via stats-cache.json, two implementation approaches ready for your decision."
+lineage:
+  created_by: "user_request"

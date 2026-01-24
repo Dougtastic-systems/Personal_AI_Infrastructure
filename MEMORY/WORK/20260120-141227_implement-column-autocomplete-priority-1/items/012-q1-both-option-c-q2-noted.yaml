@@ -1,0 +1,16 @@
+id: "012"
+description: "Q1.  both option c
+Q2. noted.  Pipelines we'll figure this out.  Visuals can be built from an \"invoked\" pipeline as a initial build.  it shows all objects order and commands executed.  doesn tnot require recursive re-construction.   SHOW INVOCATION DETAILS [invocation id]. this would be much easier for v1
+
+Q3.   agreed.
+
+you can look in project history for main pipeline  SHOW INVOCATION DETAILS stored as CSV."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T17:26:01-08:00"
+completed_at: "2026-01-20T17:36:41-08:00"
+response_summary: "Discovered pipeline tables in ovrd_dev schema. Ready to implement Sprint 6 layout."
+lineage:
+  created_by: "user_request"

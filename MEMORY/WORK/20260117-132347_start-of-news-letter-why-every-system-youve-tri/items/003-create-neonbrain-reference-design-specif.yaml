@@ -1,0 +1,11 @@
+id: "003"
+description: "I need a relatable view of \"this is what good looks like\".    That I can design for instead of casting about on the latest integration.   Needs to be my NeonBrain."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-17T13:41:18-08:00"
+completed_at: "2026-01-17T13:42:21-08:00"
+response_summary: "Created vision document showing what ideal NeonBrain feels like as lived daily experience."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,11 @@
+id: "001"
+description: "why do I need to deploy Neo4j?  I already have it installed?  Why docker?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T11:07:34-08:00"
+completed_at: "2026-01-24T11:07:54-08:00"
+response_summary: "Docker was optional convenience. Your existing Neo4j works. Just set credentials and run loader."
+lineage:
+  created_by: "user_request"

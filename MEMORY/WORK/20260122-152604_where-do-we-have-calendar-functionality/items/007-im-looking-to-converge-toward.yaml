@@ -1,0 +1,11 @@
+id: "007"
+description: "I'm looking to converge towards action"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T15:35:03-08:00"
+completed_at: "2026-01-22T15:35:21-08:00"
+response_summary: "Three options to start building. Pick one: build now, seed data first, or wait for merge."
+lineage:
+  created_by: "user_request"

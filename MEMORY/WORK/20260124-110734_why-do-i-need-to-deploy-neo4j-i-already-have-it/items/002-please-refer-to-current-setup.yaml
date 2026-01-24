@@ -1,0 +1,11 @@
+id: "002"
+description: "please refer to current setup in neo4j continouation prompt.    I feel you don't have that reference of what exists including how we will emmulate multi db via specific main nodes.  "
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T11:09:23-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

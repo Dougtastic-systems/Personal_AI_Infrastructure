@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T02:18:11.883Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T02:18:11.883Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Adding end-of-day summary with Hemingway bridges - complete daily cycle."
+  next_step: "1. Save this prompt to `~/.claude/MEMORY/continuations/`"
+  status: "Complete cognitive performance system spec ready"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Complete daily cycle spec with Hemingway bridges. Morning context to evening summary. Save to continuations.

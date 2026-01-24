@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T02:18:47.345Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T02:18:47.345Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Adding continuation backlog to morning view - see all active threads, not just yesterday's bridges."
+  next_step: "Want me to save this full continuation prompt to `~/.claude/MEMORY/continuations/`?"
+  status: "Complete spec with continuation backlog integration"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Continuation backlog added to morning view. Full spec ready. Save to continuations directory?

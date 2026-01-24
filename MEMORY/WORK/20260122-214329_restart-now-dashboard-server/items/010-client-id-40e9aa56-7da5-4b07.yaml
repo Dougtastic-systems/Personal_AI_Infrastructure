@@ -1,0 +1,12 @@
+id: "010"
+description: "Client ID: 40e9aa56-7da5-4b07-99fb-238c6b789c8a
+Client secret: zDlVHQxoDElas88_IofufpWmJD9NcjyZv1r3Cvgi1l4"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T22:19:46-08:00"
+completed_at: "2026-01-22T22:20:22-08:00"
+response_summary: "Credentials added. OAuth configured. Open dashboard and click Connect Oura button to authenticate."
+lineage:
+  created_by: "user_request"

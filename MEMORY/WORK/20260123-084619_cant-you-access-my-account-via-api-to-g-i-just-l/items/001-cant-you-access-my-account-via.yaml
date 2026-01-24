@@ -1,0 +1,11 @@
+id: "001"
+description: "cant you access my account via api?  to g I just l"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-23T08:46:19-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

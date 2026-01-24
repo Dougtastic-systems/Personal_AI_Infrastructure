@@ -1,0 +1,20 @@
+id: "001"
+description: "<start of news letter>
+Why every system you've tried has failed + grab the 90-minute guide to one that won't
+The case for building a second brain in 2026—and why the HOW matters as much as the what.
+Nate
+Jan 09, 2026
+∙ Paid
+
+Most second brain systems die the same death.
+
+You find a tool, set it up with real enthusiasm, capture notes for a few weeks. Then the pile gets messy. You stop trusting it. You stop using it. The whole thing quietly collapses, and you tell yourself you’ll try again when li"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-17T13:23:47-08:00"
+completed_at: "2026-01-17T13:26:11-08:00"
+response_summary: "Manifesto complete with twelve principles, eight building blocks, and PAI assessment framework ready for evaluation."
+lineage:
+  created_by: "user_request"

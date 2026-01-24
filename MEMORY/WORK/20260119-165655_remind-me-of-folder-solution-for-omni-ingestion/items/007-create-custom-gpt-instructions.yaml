@@ -1,0 +1,11 @@
+id: "007"
+description: "please create custom GPT instructions"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T17:17:13-08:00"
+completed_at: "2026-01-19T17:18:09-08:00"
+response_summary: "Created Custom GPT instructions with four modes, session headers, and close-out ritual."
+lineage:
+  created_by: "user_request"

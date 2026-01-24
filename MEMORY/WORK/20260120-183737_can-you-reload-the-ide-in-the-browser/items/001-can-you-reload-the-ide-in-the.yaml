@@ -1,0 +1,11 @@
+id: "001"
+description: "can you reload the IDE in the browser?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T18:37:37-08:00"
+completed_at: "2026-01-20T18:37:48-08:00"
+response_summary: "Browser opened to localhost:3000. IDE reloaded with scrolling fixes applied."
+lineage:
+  created_by: "user_request"

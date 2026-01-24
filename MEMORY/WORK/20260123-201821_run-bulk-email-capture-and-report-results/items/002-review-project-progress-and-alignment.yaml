@@ -1,0 +1,11 @@
+id: "002"
+description: "what???? there should be 50 +   review the project so far.  let's get alligned!"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:21:48-08:00"
+completed_at: "2026-01-23T20:23:06-08:00"
+response_summary: "Found 119 Nate emails. Tool searched wrong query. Fix and capture 117 missing?"
+lineage:
+  created_by: "user_request"

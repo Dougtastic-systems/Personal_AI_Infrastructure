@@ -1,0 +1,11 @@
+id: "001"
+description: "I was able to run a query, sample query. I was able to open pipelines and steps. When I tried to run show step, I got a query failure. Please check it out and see what it is. I'd like to make the left column wider or that I can drag it and open it. And can you move the execution buttons run all the way to the left next to the query editor name."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-20T18:26:17-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

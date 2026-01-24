@@ -1,0 +1,11 @@
+id: "001"
+description: "set up the project structure"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:44:07-08:00"
+completed_at: "2026-01-24T10:46:09-08:00"
+response_summary: "Project structure created. Nine files, six directories. Ready for first episode."
+lineage:
+  created_by: "user_request"

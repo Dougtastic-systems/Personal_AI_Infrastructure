@@ -1,0 +1,12 @@
+id: "20260122-115159_picking-up-on-this-from-yesterday"
+title: "picking up on this from yesterday"
+created_at: "2026-01-22T11:51:59-08:00"
+completed_at: "2026-01-22T11:54:40-08:00"
+source: "SESSION"
+status: "COMPLETED"
+session_id: "566dae7e-c38a-48d3-a8cb-52aa70a79427"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

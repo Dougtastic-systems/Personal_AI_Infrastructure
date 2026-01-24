@@ -1,0 +1,11 @@
+id: "019"
+description: "I have a test run prformed while we were adjusting the custom instrucitons.  I'm going to export to PDF and we should test ingestion here."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:19:18-08:00"
+completed_at: "2026-01-19T18:19:29-08:00"
+response_summary: "Ready. Drop PDF in ~/Inbox/drop folder, then tell me to process it."
+lineage:
+  created_by: "user_request"

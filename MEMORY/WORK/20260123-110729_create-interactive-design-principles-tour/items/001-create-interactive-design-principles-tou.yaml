@@ -1,0 +1,11 @@
+id: "001"
+description: "um, I appreciate good design. So yeah, every pixel earns its place, but really understanding how cognitive friction, how you get oriented. So I think this is good. I don't understand all the pieces. Um, understanding my design language. Um, can you create a comprehensive HTML based tour? Of the design principles that we say is important to follow and ones that aren't helpful and show it the style. Give me something to react to so that we are not spooling up artifact, tweaking artifact, tweaking "
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T11:07:29-08:00"
+completed_at: "2026-01-23T11:07:52-08:00"
+response_summary: "Chunked HTML tours to establish design language before building. Starting with information density principles."
+lineage:
+  created_by: "user_request"

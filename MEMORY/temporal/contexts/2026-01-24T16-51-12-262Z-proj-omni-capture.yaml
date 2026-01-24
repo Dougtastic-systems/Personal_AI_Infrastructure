@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:51:12.262Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:51:12.262Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Good catch—enriching people mentions with attribution context makes the extraction much more useful."
+  next_step: "Should I update the full JSON file with this change, then proceed to Email 2?"
+  status: "Schema refined with enriched people attributions"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Enhanced people mentions with context and concept attribution. Shows intellectual lineage of each idea.

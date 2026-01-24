@@ -1,0 +1,11 @@
+id: "001"
+description: "cat ~/.claude/MEMORY/continuations/2026-01-21_graphiti-tuning.md      "
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T13:30:17-08:00"
+completed_at: "2026-01-21T13:41:24-08:00"
+response_summary: "Task extraction tuned from 46 to 80 percent. All four test tasks now extracting correctly."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,17 @@
+id: "001"
+description: "<task-notification>
+<task-id>b78d768</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b78d768.output</output-file>
+<status>failed</status>
+<summary>Background command \"Restart observability server with new usage endpoint\" failed with exit code 137.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b78d768.output"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:54:23-08:00"
+completed_at: "2026-01-24T10:54:36-08:00"
+response_summary: "Server running normally. Exit 137 was expected kill signal during restart process."
+lineage:
+  created_by: "user_request"

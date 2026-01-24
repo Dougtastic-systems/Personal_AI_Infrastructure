@@ -1,0 +1,12 @@
+id: "20260121-111336_setup-parallel-task-execution-with-handoff"
+title: "Setup parallel task execution with handoff"
+created_at: "2026-01-21T11:13:36-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "750503ab-3f32-41a2-8448-e84581ca2704"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

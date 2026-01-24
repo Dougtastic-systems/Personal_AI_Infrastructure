@@ -1,0 +1,11 @@
+id: "001"
+description: "search my email to see shared document for collaborating:   recieved 2026-01-22 at 7:48 AM --> Document shared with you: \"DCM Marketing\""
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T09:22:21-08:00"
+completed_at: "2026-01-23T09:23:12-08:00"
+response_summary: "Gmail OAuth not configured. Share Doc link directly or run gmail-auth.ts to enable."
+lineage:
+  created_by: "user_request"

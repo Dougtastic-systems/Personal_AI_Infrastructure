@@ -1,0 +1,20 @@
+id: "001"
+description: "<task-notification>
+<task-id>b1787bb</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b1787bb.output</output-file>
+<status>failed</status>
+<summary>Background command \"Run full hybrid load with Graphiti\" failed with exit code 144.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b1787bb.output
+<task-notification>
+<task-id>b42849a</task-id>
+<"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T11:55:37-08:00"
+completed_at: "2026-01-24T11:57:44-08:00"
+response_summary: "Loaded 116 emails into Neo4j with 5,798 relationships. Graphiti loader ready for later."
+lineage:
+  created_by: "user_request"

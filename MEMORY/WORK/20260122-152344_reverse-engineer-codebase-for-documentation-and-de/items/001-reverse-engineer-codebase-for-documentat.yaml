@@ -1,0 +1,11 @@
+id: "001"
+description: "Codebase reverse engineer to document techically and for translations for communicating for delegation (team/tools/future self), collaboration (technical peers, technical leaders), supervisors, VP and C-Level."
+type: "work"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-22T15:23:44-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T20:18:37.629Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T20:18:37.629Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Working on task"
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  PAI uses three-tier model selection. Sonnet default, Haiku for speed, Opus for deep reasoning. Subscription billing.

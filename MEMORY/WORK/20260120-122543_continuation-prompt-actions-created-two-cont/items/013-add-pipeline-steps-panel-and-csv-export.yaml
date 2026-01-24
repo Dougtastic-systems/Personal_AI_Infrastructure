@@ -1,0 +1,13 @@
+id: "013"
+description: "ok seeing it now.  Let's add a 4th panel that can appear between schma and SQL / Results.  to show nested pipelines / steps etc.  clicking on step allows SHOW STEP code.
+
+And can export out of results.  CSV "
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T13:17:05-08:00"
+completed_at: "2026-01-20T13:19:37-08:00"
+response_summary: "Added pipeline panel with step code modals and CSV export button to prototype."
+lineage:
+  created_by: "user_request"

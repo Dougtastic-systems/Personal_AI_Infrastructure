@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T18:10:41.326Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T18:10:41.326Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Analyzed observability dashboard and Claude usage tracking—enhancement is feasible with existing data sources."
+  next_step: "**Two Implementation Options:**"
+  status: "Ready to implement with two approaches."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Usage tracking possible via stats-cache.json, two implementation approaches ready for your decision.

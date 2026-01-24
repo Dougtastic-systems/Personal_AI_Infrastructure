@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:08:51.685Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:08:51.685Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Good catches—adding a \"practices\" section with sub-points and strengthening the assertions to be more strategic/thesis-driven."
+  next_step: "Should I update Email 1 JSON with these new sections? Then you can review the complete extraction."
+  status: "Schema enhancement designed"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Adding strategic assertions with implications and six practices with three to four sub-points each.

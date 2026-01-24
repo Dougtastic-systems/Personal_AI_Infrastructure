@@ -1,0 +1,19 @@
+id: "001"
+description: "<task-notification>
+<task-id>b6394fe</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b6394fe.output</output-file>
+<status>failed</status>
+<summary>Background command \"Start xConnect IDE backend server on port 3001\" failed with exit code 1.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b6394fe.output
+<task-notification>
+<task-id>b652281</"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T16:46:24-08:00"
+completed_at: "2026-01-21T16:47:03-08:00"
+response_summary: "Servers restarted, both healthy. Browser refreshed. Test the Objects tab for new features."
+lineage:
+  created_by: "user_request"

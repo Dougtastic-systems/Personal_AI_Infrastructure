@@ -1,0 +1,12 @@
+id: "20260124-110734_why-do-i-need-to-deploy-neo4j-i-already-have-it"
+title: "why do I need to deploy Neo4j?  I already have it "
+created_at: "2026-01-24T11:07:34-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "60f66e3f-f611-461e-81aa-41b7360a03cf"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,11 @@
+id: "001"
+description: "better fix then check context window and ether run or continuation prompt"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-23T20:27:11-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

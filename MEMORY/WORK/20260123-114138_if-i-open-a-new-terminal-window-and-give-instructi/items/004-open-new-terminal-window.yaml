@@ -1,0 +1,11 @@
+id: "004"
+description: "Prompt for new terminal window."
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:17:02-08:00"
+completed_at: "2026-01-23T20:17:10-08:00"
+response_summary: "Prompt ready. Paste into new terminal or use claude -p for one-shot execution."
+lineage:
+  created_by: "user_request"

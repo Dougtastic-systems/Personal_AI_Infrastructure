@@ -1,0 +1,11 @@
+id: "002"
+description: "how do I find this folder on finder?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T17:00:01-08:00"
+completed_at: "2026-01-19T17:00:13-08:00"
+response_summary: "Press Cmd+Shift+G in Finder, type ~/Inbox/drop/ and hit Enter."
+lineage:
+  created_by: "user_request"

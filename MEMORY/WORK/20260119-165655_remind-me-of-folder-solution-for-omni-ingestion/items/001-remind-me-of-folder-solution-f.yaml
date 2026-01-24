@@ -1,0 +1,13 @@
+id: "001"
+description: "remind me of folder solution for omni ingestion.  I have a pdf I want to test
+
+"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T16:56:55-08:00"
+completed_at: "2026-01-19T16:57:30-08:00"
+response_summary: "Drop folder at ~/Inbox/drop/ ready. Copy PDF there, run capture process to ingest."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,12 @@
+id: "20260121-111933_enhance-custom-gpt-setup-and-domain-context-handli"
+title: "Enhance Custom GPT setup and domain context handling"
+created_at: "2026-01-21T11:19:33-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "91c2eeed-2fca-4d5c-90f5-f9970305902c"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

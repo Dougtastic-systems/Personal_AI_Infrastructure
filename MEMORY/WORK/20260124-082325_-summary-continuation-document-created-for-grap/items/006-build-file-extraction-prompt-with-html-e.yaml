@@ -1,0 +1,11 @@
+id: "006"
+description: "Yes. Let's start building a file extraction prompt, noting that you're at 32% context window. I don't want to get deeper than 50. So if we can iterate on the file prompt extract, and I'd like to understand your design and how it works before we proceed. I'll need an HTML explainer understanding what you're doing. So let's proceed to understand that, and then let's do a test of five of the most recent, not based on where they landed in the email, but where they landed in as the date sent. I'm mos"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T08:37:16-08:00"
+completed_at: "2026-01-24T08:39:48-08:00"
+response_summary: "HTML explainer open in browser. Five most recent emails identified from January 18 to 23."
+lineage:
+  created_by: "user_request"

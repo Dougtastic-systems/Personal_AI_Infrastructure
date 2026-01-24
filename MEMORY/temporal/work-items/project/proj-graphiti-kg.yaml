@@ -1,0 +1,75 @@
+# Work Item: Graphiti Temporal Knowledge Graph
+# Level: Project (months)
+# Source: Continuation GRAPHITI_TEMPORAL_KG.md
+
+id: proj-graphiti-kg
+title: "Build temporal knowledge graph infrastructure with Graphiti"
+description: "Implement bi-temporal knowledge graph using Graphiti for PAI memory system. Enables historical queries, change tracking, contradiction detection, and point-in-time reconstruction."
+
+# Hierarchy
+level: project
+parent_id: null  # Could link to life goal when defined
+children_ids: []
+
+# State
+status: ready
+context: "Research complete. 100% type accuracy achieved. Implementation ready for next phase."
+next_step: "Improve Relationship F1, build temporal query helpers, expand ground truth"
+blockers: []
+
+# Energy & Time
+energy_required: high
+time_estimate_minutes: null
+time_elapsed_minutes: null
+time_remaining_minutes: null
+
+# Context Tags
+tags:
+  - "domain:pai-infrastructure"
+  - "type:development"
+  - "tech:python"
+  - "tech:neo4j"
+  - "tech:graphiti"
+  - "category:memory-system"
+
+# Priority
+priority: P1
+
+# Temporal
+created_at: "2026-01-21T00:00:00Z"
+last_touched_at: "2026-01-21T17:04:00Z"
+due_at: null
+
+# Learning
+outcome: null
+learnings:
+  - "Pydantic model docstrings ARE the extraction prompts - more detail = better extraction"
+  - "Bi-temporal model has 4 dimensions: valid_at, created_at, invalid_at, expired_at"
+  - "~10-20 LLM calls per episode ingestion, ~$0.10-0.50 per 1000-word episode"
+  - "Node attribute versioning is a gap - store historical data in edges"
+
+# Performance Metrics
+metrics:
+  type_accuracy: 100%  # Target: 90%
+  entity_f1: "85-86%"  # Target: 90%
+  relationship_f1: "70-77%"  # Target: 85%
+
+# Next Steps (ranked)
+next_steps:
+  immediate:
+    - "Improve Relationship F1 - enhance edge type docstrings"
+    - "Build temporal query helpers - abstract bi-temporal predicates"
+    - "Expand ground truth - 10 to 50+ test cases"
+  medium_term:
+    - "Entity resolution cache"
+    - "Domain-specific entity types (Skill, Workflow, Command)"
+    - "Post-processing validation"
+  long_term:
+    - "Confidence scoring for review workflows"
+    - "Graph visualization (Neo4j Bloom or D3.js)"
+    - "Hybrid storage (Graphiti + vector store + SQLite)"
+
+# Links
+continuation_file: "~/.claude/MEMORY/continuations/GRAPHITI_TEMPORAL_KG.md"
+research_file: "~/.claude/MEMORY/research/2026-01/GRAPHITI_TEMPORAL_KG_DEEP_DIVE.md"
+tools_directory: "~/.claude/tools/"

@@ -1,0 +1,11 @@
+id: "004"
+description: "what about Relationship F1 being 45%"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T14:03:08-08:00"
+completed_at: "2026-01-21T14:10:01-08:00"
+response_summary: "Fixed relationship scoring bug. Actual F1 is seventy-five percent, not forty-five."
+lineage:
+  created_by: "user_request"

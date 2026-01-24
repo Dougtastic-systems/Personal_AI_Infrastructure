@@ -1,0 +1,12 @@
+id: "20260121-125235_create-hands-off-install-setup-prompt"
+title: "Create hands-off install setup prompt"
+created_at: "2026-01-21T12:52:35-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "82b8ffd7-9368-45d5-bbe2-9c0532322b5e"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

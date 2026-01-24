@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T17:26:04.228Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T17:26:04.228Z"
+transition: SESSION_END
+
+state:
+  what_doing: "OAuth credentials location for Gmail integration."
+  next_step: "Continue work"
+  status: "Current path is `~/.claude/skills/_NATE/tools/`. Can centralize after setup works."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Credentials go in skills/_NATE/tools/ now. Can centralize to credentials folder after setup.

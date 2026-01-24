@@ -1,0 +1,11 @@
+id: "002"
+description: "Could I attach it like to a WhatsApp communication or how about have a shared document in Google and be able to paste them there? Just thinking through a couple of ways how to simply do this right this second to see if it's valuable."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T11:31:50-08:00"
+completed_at: "2026-01-23T11:32:09-08:00"
+response_summary: "CodePen requires no login. Paste HTML, save, share link. Works in WhatsApp instantly."
+lineage:
+  created_by: "user_request"

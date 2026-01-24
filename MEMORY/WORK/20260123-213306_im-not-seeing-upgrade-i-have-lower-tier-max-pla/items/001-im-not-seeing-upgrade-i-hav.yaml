@@ -1,0 +1,11 @@
+id: "001"
+description: "i'm not seeing upgrade.  I have lower tier max plan.  i'm confused"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T21:33:06-08:00"
+completed_at: "2026-01-23T21:33:56-08:00"
+response_summary: "Tier based on spend. Need fifty dollars usage for Claude 3.5 access. Claude 3 works fine."
+lineage:
+  created_by: "user_request"

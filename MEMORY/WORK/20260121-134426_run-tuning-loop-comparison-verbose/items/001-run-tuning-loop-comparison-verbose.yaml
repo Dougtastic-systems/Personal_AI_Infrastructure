@@ -1,0 +1,11 @@
+id: "001"
+description: "cd ~/.claude/tools && source .venv/bin/activate && python tuning/TuningLoop.py --compare --verbose "
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T13:44:26-08:00"
+completed_at: "2026-01-21T13:47:07-08:00"
+response_summary: "Tuning loop shows plus eleven percent entity F1 improvement. Relationship extraction at forty-six percent needs focus."
+lineage:
+  created_by: "user_request"

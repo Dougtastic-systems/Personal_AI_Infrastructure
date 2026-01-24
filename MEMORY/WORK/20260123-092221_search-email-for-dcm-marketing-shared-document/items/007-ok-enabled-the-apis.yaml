@@ -1,0 +1,11 @@
+id: "007"
+description: "ok enabled the APIs"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T09:31:31-08:00"
+completed_at: "2026-01-23T09:31:41-08:00"
+response_summary: "APIs enabled. Now create OAuth client ID, type Desktop app, download the JSON file."
+lineage:
+  created_by: "user_request"

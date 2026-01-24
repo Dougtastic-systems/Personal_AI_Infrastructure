@@ -1,0 +1,11 @@
+id: "001"
+description: "Can you open up security settings for permissions? Where would I find that in this project?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T18:35:18-08:00"
+completed_at: "2026-01-16T18:36:46-08:00"
+response_summary: "Security patterns in PAISECURITYSYSTEM folder. User overrides in USER subdirectory, system defaults in main."
+lineage:
+  created_by: "user_request"

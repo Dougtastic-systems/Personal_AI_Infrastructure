@@ -1,0 +1,11 @@
+id: "007"
+description: "continuation prompt for next context window"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T13:50:27-08:00"
+completed_at: "2026-01-20T13:50:58-08:00"
+response_summary: "Created Sprint 3 continuation file with full project state for next session."
+lineage:
+  created_by: "user_request"

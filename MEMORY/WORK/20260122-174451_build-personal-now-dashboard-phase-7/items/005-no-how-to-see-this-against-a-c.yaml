@@ -1,0 +1,11 @@
+id: "005"
+description: "no how to see this against a calendar?  Day?   Thinking of my cognative wave as high value thinking time and the rest.   Help me speck out questions for continuation prompt."
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T18:13:39-08:00"
+completed_at: "2026-01-22T18:14:00-08:00"
+response_summary: "Twelve design questions for cognitive wave calendar. Pick key ones for continuation prompt."
+lineage:
+  created_by: "user_request"

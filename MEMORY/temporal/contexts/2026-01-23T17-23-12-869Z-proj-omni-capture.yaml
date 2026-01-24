@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T17:23:12.869Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T17:23:12.869Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Gmail API exists but OAuth tokens not configured yet."
+  next_step: "Either run the OAuth setup, or paste the Google Doc link from that email."
+  status: "Gmail API not configured. Need OAuth setup or direct doc link."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Gmail OAuth not configured. Share Doc link directly or run gmail-auth.ts to enable.

@@ -1,0 +1,12 @@
+id: "20260122-145702_is-anything-pending-in-future-sprints-or-just-plac"
+title: "is anything pending in future sprints or just plac"
+created_at: "2026-01-22T14:57:02-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "566dae7e-c38a-48d3-a8cb-52aa70a79427"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

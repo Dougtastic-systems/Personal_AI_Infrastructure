@@ -1,0 +1,11 @@
+id: "011"
+description: "there's session limit, so I want to get this prompt in as a continuation for follow-up on this and I can pick it back up."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T18:19:51-08:00"
+completed_at: "2026-01-22T18:21:17-08:00"
+response_summary: "Continuation saved to cognitive-wave-dashboard-phase8.md. Say \"continue cognitive wave dashboard\" to resume."
+lineage:
+  created_by: "user_request"

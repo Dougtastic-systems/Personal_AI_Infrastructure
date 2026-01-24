@@ -1,0 +1,1 @@
+{"timestamp":"2026-01-23T08:29:00-08:00","session_id":"bcf3ee1a-0f7a-4338-bb5b-57fc08cc8cee","message":"Gmail tools ready. Need Google Cloud project, OAuth credentials, then run gmail-auth.ts to authorize.","character_count":101,"voice_id":"21m00Tcm4TlvDq8ikWAM","event_type":"failed","error":"Unable to connect. Is the computer able to access the url?"}

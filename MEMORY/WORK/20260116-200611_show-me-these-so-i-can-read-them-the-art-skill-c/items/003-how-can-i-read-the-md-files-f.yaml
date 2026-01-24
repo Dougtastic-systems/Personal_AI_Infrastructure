@@ -1,0 +1,11 @@
+id: "003"
+description: "how can I read the .md files for each?   I want to learn what they do"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T20:11:02-08:00"
+completed_at: "2026-01-16T20:11:22-08:00"
+response_summary: "Use cat, code, or ask me to display any workflow file from the Art skill."
+lineage:
+  created_by: "user_request"

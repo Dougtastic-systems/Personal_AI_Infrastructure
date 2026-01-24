@@ -1,0 +1,11 @@
+id: "002"
+description: "Yes, could you render the value prop draft as an infographic so I can see the concepts and how they fit together with enough text to explain it so I can really see what's there and understand the weighting, which one's more important or not in my opinion? But also anticipate maybe what Rick might feel important so that I can then do that. Of course, part of this is we have to actually describe what value that a member will get. So I'll have to figure that out. I also like to just see a HTML, eas"
+type: "work"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-23T11:23:59-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

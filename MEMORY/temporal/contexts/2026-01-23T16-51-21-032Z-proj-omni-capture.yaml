@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T16:51:21.032Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T16:51:21.032Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Outlook forwarding done. Now set up Gmail API access to read those emails."
+  next_step: "Start with Step 1 - go to console.cloud.google.com and create the project. Let me know when you hit Step 4 and I'll walk you through the auth."
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Outlook done. Now create Google Cloud project, enable Gmail API, download OAuth credentials JSON file.

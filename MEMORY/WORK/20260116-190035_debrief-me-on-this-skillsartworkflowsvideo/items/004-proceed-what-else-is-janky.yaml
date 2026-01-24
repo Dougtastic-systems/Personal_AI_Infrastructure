@@ -1,0 +1,11 @@
+id: "004"
+description: "proceed.  what else is janky?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T19:07:48-08:00"
+completed_at: "2026-01-16T19:11:26-08:00"
+response_summary: "Found 40+ issues. Critical: hook imports broken, version drift, wrong SKILL.md paths. Tools clean."
+lineage:
+  created_by: "user_request"

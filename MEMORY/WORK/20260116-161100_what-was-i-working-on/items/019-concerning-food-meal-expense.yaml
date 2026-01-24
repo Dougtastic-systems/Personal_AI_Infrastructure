@@ -1,0 +1,11 @@
+id: "019"
+description: "Concerning food / meal expenses.  I want to automate and systemize family meal planning, shopping etc.  Thinking there are opportunities to save money time and reduce friction.   symbiotic project right? "
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T18:11:43-08:00"
+completed_at: "2026-01-16T18:12:02-08:00"
+response_summary: "Meal planning touches finances, health, time. Symbiotic project. Need household details to scope."
+lineage:
+  created_by: "user_request"

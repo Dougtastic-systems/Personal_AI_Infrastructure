@@ -1,0 +1,11 @@
+id: "001"
+description: "I\"m not sure.   Please perform a survey of how current memory really works inside of P"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T15:06:43-08:00"
+completed_at: "2026-01-22T15:09:12-08:00"
+response_summary: "Memory captures metadata not transcripts. Need to decide capture depth for knowledge graph."
+lineage:
+  created_by: "user_request"

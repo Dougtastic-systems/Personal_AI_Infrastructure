@@ -1,0 +1,11 @@
+id: "001"
+description: "All right, I'm back. I forwarded all the Nate emails to my Gmail and I also set up OAuth in another thread to be able to read them. Check our current skill. Underneath Nate, you'll see another agent updated it. Confirm and then confirm you can read one of them. And confirm you can click through and grab the additional prompt text. Then let's pause. Create a continuation prompt for how to think about processing these from throughout history. There you go. There you go. There you go."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-23T10:17:27-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

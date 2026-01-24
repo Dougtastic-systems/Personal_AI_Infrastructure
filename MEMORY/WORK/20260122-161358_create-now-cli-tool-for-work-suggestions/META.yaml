@@ -1,0 +1,12 @@
+id: "20260122-161358_create-now-cli-tool-for-work-suggestions"
+title: "Create NOW CLI tool for work suggestions"
+created_at: "2026-01-22T16:13:58-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "6cb407e3-b040-4b1c-90e2-004472dac753"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

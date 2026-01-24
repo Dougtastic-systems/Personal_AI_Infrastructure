@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T16:50:44.439Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T16:50:44.439Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Full Renify marketing project created with call analysis, therapist value proposition draft, and NeonBrain parallel track."
+  next_step: "1. Review `therapist-value-proposition-v1.md`"
+  status: "Project scaffolded. Homework draft ready. Fathom API working for future calls."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Fathom API working. Full project created. Therapist value prop draft ready for Friday homework.

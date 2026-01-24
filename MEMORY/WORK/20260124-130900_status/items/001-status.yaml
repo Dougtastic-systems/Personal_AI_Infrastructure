@@ -1,0 +1,11 @@
+id: "001"
+description: "status?"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T13:09:00-08:00"
+completed_at: "2026-01-24T13:09:12-08:00"
+response_summary: "Graphiti loading at 68 of 116 files. About 59 percent complete, five minutes remaining."
+lineage:
+  created_by: "user_request"

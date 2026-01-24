@@ -1,0 +1,11 @@
+id: "004"
+description: "we're at 48% context usage.  new context window?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T21:38:14-08:00"
+completed_at: "2026-01-23T21:38:38-08:00"
+response_summary: "Continuation saved. Start new session with \"Continue Nate email ingest testing.\""
+lineage:
+  created_by: "user_request"

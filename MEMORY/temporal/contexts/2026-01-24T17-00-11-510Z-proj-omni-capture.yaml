@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T17:00:11.510Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T17:00:11.510Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Email 1 updated with enriched schema; Email 2 extracted with same structure."
+  next_step: "- Review Email 2 extraction for any adjustments"
+  status: "2 of 5 emails extracted with refined schema"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Email one updated, email two extracted. Six mental models including locus of control and say-do ratio.

@@ -1,0 +1,11 @@
+id: "004"
+description: "before we post review Rick's sample marketng letter on the shared doc.  Let's refactor to be complimentary to Rick's language.  I fear our current response will not additive.  looking for working rythem "
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:35:41-08:00"
+completed_at: "2026-01-23T20:36:06-08:00"
+response_summary: "Drive API disabled. Paste Rick's marketing letter from the doc so I can align our language."
+lineage:
+  created_by: "user_request"

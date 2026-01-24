@@ -1,0 +1,11 @@
+id: "021"
+description: "ok it should be there"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T18:27:52-08:00"
+completed_at: "2026-01-19T18:28:34-08:00"
+response_summary: "Session parsed successfully. All delimiters survived export. Mode switches and timestamps captured cleanly."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T18:50:49.489Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T18:50:49.489Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Created comprehensive Zoom-based workflow document with 8 sections, time estimates, automation roadmap, and open questions for refinement."
+  next_step: "Review and refine these key decisions:"
+  status: "Draft complete. Needs refinement on open questions."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Zoom workflow created with eight sections, time estimates, automation phases, and seven refinement questions.

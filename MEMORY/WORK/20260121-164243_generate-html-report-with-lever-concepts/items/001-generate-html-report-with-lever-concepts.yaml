@@ -1,0 +1,11 @@
+id: "001"
+description: "can you generate a report in html in chrome for me to review?  Key concepts, how it works.  lever examples.  key improvments for backlog or immediate implimentation"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T16:42:43-08:00"
+completed_at: "2026-01-21T16:44:56-08:00"
+response_summary: "HTML report generated with key concepts, pipeline, levers, and improvements. Now open in Chrome."
+lineage:
+  created_by: "user_request"

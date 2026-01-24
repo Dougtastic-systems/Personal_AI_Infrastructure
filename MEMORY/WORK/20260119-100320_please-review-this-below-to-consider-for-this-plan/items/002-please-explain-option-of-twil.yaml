@@ -1,0 +1,11 @@
+id: "002"
+description: "please explain option of  Twilio Sync?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-19T10:10:02-08:00"
+completed_at: "2026-01-19T10:10:28-08:00"
+response_summary: "Twilio Sync stores messages in Twilio itself. Fast setup, but limited to messaging only."
+lineage:
+  created_by: "user_request"

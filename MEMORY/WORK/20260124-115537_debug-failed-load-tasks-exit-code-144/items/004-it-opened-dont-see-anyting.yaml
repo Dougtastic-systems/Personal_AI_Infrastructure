@@ -1,0 +1,11 @@
+id: "004"
+description: "it opened.  dont see anyting. look yourslef and advise"
+type: "question"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T12:02:27-08:00"
+completed_at: "2026-01-24T12:03:04-08:00"
+response_summary: "Fixed UX. Panel now expanded by default. Refresh browser to see usage data immediately."
+lineage:
+  created_by: "user_request"

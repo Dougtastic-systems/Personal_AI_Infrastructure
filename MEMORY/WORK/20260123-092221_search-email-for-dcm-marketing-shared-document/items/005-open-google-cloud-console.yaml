@@ -1,0 +1,11 @@
+id: "005"
+description: "open the google cloud console"
+type: "work"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T09:28:33-08:00"
+completed_at: "2026-01-23T09:28:43-08:00"
+response_summary: "Google Cloud Console opened. Create project, enable APIs, download OAuth credentials JSON."
+lineage:
+  created_by: "user_request"

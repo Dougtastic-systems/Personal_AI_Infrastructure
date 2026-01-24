@@ -1,0 +1,11 @@
+id: "015"
+description: "authorized."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T22:28:55-08:00"
+completed_at: "2026-01-22T22:29:34-08:00"
+response_summary: "Oura connected successfully. Yesterday readiness 86. Today's data available after morning sync."
+lineage:
+  created_by: "user_request"

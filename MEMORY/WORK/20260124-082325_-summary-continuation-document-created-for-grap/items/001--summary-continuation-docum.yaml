@@ -1,0 +1,15 @@
+id: "001"
+description: "📋 SUMMARY: Continuation document created for Graphiti pipeline design decisions                          
+                                                                                                            
+  🔍 ANALYSIS: The continuation file is complete and captures all key insights from this session:           
+  - Graphiti's 5-LLM-call architecture (the real bottleneck)                                                
+  - Cost analysis showing time is the problem, not money ($2-5 for"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T08:23:25-08:00"
+completed_at: "2026-01-24T08:23:42-08:00"
+response_summary: "Session started. Ready to continue Graphiti work or begin something new."
+lineage:
+  created_by: "user_request"

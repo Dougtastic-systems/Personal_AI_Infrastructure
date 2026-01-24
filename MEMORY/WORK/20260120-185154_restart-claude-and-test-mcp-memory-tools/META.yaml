@@ -1,0 +1,12 @@
+id: "20260120-185154_restart-claude-and-test-mcp-memory-tools"
+title: "Restart Claude and test MCP memory tools"
+created_at: "2026-01-20T18:51:54-08:00"
+completed_at: "2026-01-20T18:53:52-08:00"
+source: "SESSION"
+status: "COMPLETED"
+session_id: "4e6c2e03-2bf2-4edb-9127-a3ebcfa8e2ad"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

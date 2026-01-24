@@ -1,0 +1,11 @@
+id: "008"
+description: "it's asking for Website URL and Terms of Service URL.  what should I enter?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T22:13:28-08:00"
+completed_at: "2026-01-22T22:13:43-08:00"
+response_summary: "Use localhost:5180 for both Website URL and Terms of Service. They're just placeholders."
+lineage:
+  created_by: "user_request"

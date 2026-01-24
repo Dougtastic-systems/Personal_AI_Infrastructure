@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T18:35:09.261Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T18:35:09.261Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Created visual HTML briefing for the Nate B. Jones historical processing continuation."
+  next_step: "1. Run `bun ~/.claude/skills/_NATE/tools/gmail-fetch.ts --all` to bulk capture"
+  status: "System working for new content. Historical processing ready to begin."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Opened interactive HTML briefing showing system status, data flow, and decisions needed for historical processing.

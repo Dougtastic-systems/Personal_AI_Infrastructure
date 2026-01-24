@@ -1,0 +1,11 @@
+id: "001"
+description: "Look at my continuation prompts. I want to create a plan to install Neo4j locally to wire up to my PAA project. I want it in two phases. Download and install on my machine with the Neo4j console. And then the second would be to wire it up."
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T08:59:10-08:00"
+completed_at: "2026-01-20T09:01:39-08:00"
+response_summary: "Created two-phase Neo4j plan with install and PAA integration. Ready to start Phase 1."
+lineage:
+  created_by: "user_request"

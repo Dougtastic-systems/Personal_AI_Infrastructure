@@ -1,0 +1,12 @@
+id: "20260124-103120_refresh-the-observability-page"
+title: "Refresh the observability page"
+created_at: "2026-01-24T10:31:20-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "be79b733-89f7-4719-9f74-b85bddcbdb0b"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

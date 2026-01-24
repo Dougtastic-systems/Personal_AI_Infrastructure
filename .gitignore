@@ -66,3 +66,9 @@ credentials/
 .claude/pai_updates/
 .claude/pai_backups/
 .claude/.pai-sync-history
+
+# MEMORY - Sensitive/Large files to exclude
+MEMORY/captured/raw/          # Raw PDFs and dropped files (large binaries)
+MEMORY/**/transcript.jsonl    # Conversation transcripts (privacy)
+MEMORY/**/*.pdf               # Any PDFs anywhere in MEMORY
+MEMORY/learning/FAILURES/**/transcript.jsonl  # Failure transcripts

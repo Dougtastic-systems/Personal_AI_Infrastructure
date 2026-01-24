@@ -1,0 +1,12 @@
+id: "20260123-092221_search-email-for-dcm-marketing-shared-document"
+title: "Search email for DCM Marketing shared document"
+created_at: "2026-01-23T09:22:21-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "c56fde6e-8b5a-411d-a154-201b0ac83413"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T21:22:09.685Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T21:22:09.685Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Working on task"
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Graphiti at of . Seventy-four percent done, about three minutes left.

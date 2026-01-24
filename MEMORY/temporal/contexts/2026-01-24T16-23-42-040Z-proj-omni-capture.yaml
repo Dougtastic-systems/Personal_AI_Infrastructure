@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:23:42.040Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:23:42.040Z"
+transition: SESSION_END
+
+state:
+  what_doing: "New session started with previous Graphiti pipeline design context visible"
+  next_step: "- Say **\"Continue graphiti-pipeline-design\"** to pick up that exploration"
+  status: "Ready for new session"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Session started. Ready to continue Graphiti work or begin something new.

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:48:42.564Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:48:42.564Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Here's the full extraction JSON inline for your review."
+  next_step: "Continue work"
+  status: "Ready for your feedback on what to add, remove, or refine"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Full JSON displayed inline. Review and tell me what needs adjustment.

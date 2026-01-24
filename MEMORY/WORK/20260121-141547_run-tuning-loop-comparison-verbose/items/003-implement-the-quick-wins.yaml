@@ -1,0 +1,11 @@
+id: "003"
+description: "implement the quick wins"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-21T14:22:28-08:00"
+completed_at: "2026-01-21T14:26:04-08:00"
+response_summary: "Entity F1 improved 3.2 percent to 89.2. Recall up 9.5 percent. Four missing entities remain."
+lineage:
+  created_by: "user_request"

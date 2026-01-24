@@ -1,0 +1,12 @@
+id: "20260123-112425_extract-and-tag-design-comments-for-telos"
+title: "Extract and tag design comments for Telos"
+created_at: "2026-01-23T11:24:25-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "2ed8ed53-4db8-4319-83ac-aa35c438320e"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,11 @@
+id: "001"
+description: "with the json parsing how could we use this to ingest into graphiti + Neo4j  or just Neo4j?  what options have opend by having this process"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:50:09-08:00"
+completed_at: "2026-01-24T10:50:49-08:00"
+response_summary: "Three options: direct Neo4j load, Graphiti with pre-extracted data, or hybrid approach combining both."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,16 @@
+title: Statusline Context Counter Bug Fix
+type: bugfix
+date: 2026-01-24
+component: statusline-command.sh
+severity: medium
+status: resolved
+tags:
+  - statusline
+  - context-window
+  - v2.4-upgrade
+  - claude-code-compatibility
+summary: Fixed duplicate JSON parsing that overwrote fallback context percentage calculation
+files_modified:
+  - ~/.claude/statusline-command.sh
+related:
+  - https://github.com/anthropics/claude-code/issues/17959

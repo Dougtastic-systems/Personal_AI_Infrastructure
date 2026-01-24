@@ -1,0 +1,12 @@
+id: "20260123-202711_fix-issue-check-context-window-run-or-continue"
+title: "Fix issue, check context window, run or continue"
+created_at: "2026-01-23T20:27:11-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "fdf4918d-85ce-4d1d-ba37-f7d5339561a5"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T17:04:44.111Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T17:04:44.111Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Pausing here - you'll set up the Outlook forward rule, then we continue with Gmail API setup."
+  next_step: "Continue work"
+  status: ""
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Paused. Set up Outlook forward rule when ready. Core system operational. Come back anytime.

@@ -1,0 +1,11 @@
+id: "008"
+description: "create a continuation prompt for the xactly connect work.    I need to see the work.   I will be only interested in a small subset of the entire schema - my subject area.   And a visual way of seeing work as it happens.  systemized tooling + visibility + my taste = effective work."
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T12:21:04-08:00"
+completed_at: "2026-01-20T12:24:14-08:00"
+response_summary: "Created xConnect work continuation with visual tracking and subject area documentation."
+lineage:
+  created_by: "user_request"

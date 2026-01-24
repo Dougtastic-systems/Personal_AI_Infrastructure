@@ -1,0 +1,11 @@
+id: "009"
+description: "dont know how to navigate back to test user email"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T09:39:09-08:00"
+completed_at: "2026-01-23T09:39:21-08:00"
+response_summary: "Left sidebar, OAuth consent screen, scroll to Test users section, click Add Users."
+lineage:
+  created_by: "user_request"

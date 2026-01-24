@@ -1,0 +1,11 @@
+id: "001"
+description: "Please survey PAI capabilites for task/ project management to help me cooridante work across multiple domains inside PAI.  How could we use it do that.   Think from a master product manager or project manager perspective os simple yet effective ways for me to do this here.  Think ADHD freindly and that it will expend as we use this function"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T15:12:34-08:00"
+completed_at: "2026-01-22T15:15:49-08:00"
+response_summary: "PAI has 8 systems for project tracking. Missing piece: cross-domain \"Now\" layer for priorities."
+lineage:
+  created_by: "user_request"

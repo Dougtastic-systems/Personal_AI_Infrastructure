@@ -1,0 +1,11 @@
+id: "011"
+description: "That breakout for people mentioned works. Is there any value to doing something like that for companies mentioned and why they were mentioned? He uses those examples too. And are there any other points that how he mentions it and his attribution would add value to companies named, people named, I'm thinking tools used. And are we looking at all at the different prompting and other assets, bonus assets to add value to this?"
+type: "question"
+effort: "THOROUGH"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T08:55:43-08:00"
+completed_at: "2026-01-24T08:56:14-08:00"
+response_summary: "Extended schema to companies, tools, and assets offered—all with context and attribution."
+lineage:
+  created_by: "user_request"

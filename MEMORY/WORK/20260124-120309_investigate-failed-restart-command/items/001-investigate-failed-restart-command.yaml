@@ -1,0 +1,17 @@
+id: "001"
+description: "<task-notification>
+<task-id>ba90b98</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/ba90b98.output</output-file>
+<status>failed</status>
+<summary>Background command \"Restart to apply Max 20x default\" failed with exit code 137.</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/ba90b98.output"
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T12:03:09-08:00"
+completed_at: "2026-01-24T12:03:21-08:00"
+response_summary: "Ignore exit 137 notifications. Normal restart behavior. Server running fine at localhost 5172."
+lineage:
+  created_by: "user_request"

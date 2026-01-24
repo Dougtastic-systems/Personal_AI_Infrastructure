@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:47:59.384Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:47:59.384Z"
+transition: SESSION_END
+
+state:
+  what_doing: "First extraction complete for Email 1. Ready for your review and tuning feedback."
+  next_step: "1. Review the JSON (I can display it inline if helpful)"
+  status: "First pass complete, awaiting your feedback"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Extracted six mental models, six assertions with reasoning, five leverage points. Ready for your feedback.

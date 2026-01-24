@@ -1,0 +1,11 @@
+id: "009"
+description: "new html for revised ui"
+type: "work"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T13:02:24-08:00"
+completed_at: "2026-01-20T13:05:51-08:00"
+response_summary: "Revised prototype ready with collapsible sidebar and panels, cleaner dark theme."
+lineage:
+  created_by: "user_request"

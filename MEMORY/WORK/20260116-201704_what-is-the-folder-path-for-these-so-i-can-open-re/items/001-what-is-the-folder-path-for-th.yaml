@@ -1,0 +1,11 @@
+id: "001"
+description: "what is the folder path for these so I can open read one by one?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T20:17:04-08:00"
+completed_at: "2026-01-16T20:17:21-08:00"
+response_summary: "Workflows folder is at ~/.claude/skills/Art/Workflows/ — open with Finder or VS Code."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,12 @@
+id: "20260120-183523_does-running-in-terminal-run-into-the-same-context"
+title: "Does running in terminal run into the same context"
+created_at: "2026-01-20T18:35:23-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "384c608f-7e9f-4c78-9ea2-1c58c5ebbaaf"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

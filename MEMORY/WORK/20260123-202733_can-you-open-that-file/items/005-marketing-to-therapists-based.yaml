@@ -1,0 +1,17 @@
+id: "005"
+description: "Marketing to Therapists
+Based on the operational plans and marketing drafts found in your sources, here is a marketing piece designed to be sent to therapists (specifically formatted as an email or cover letter).
+This piece leverages the \"Map vs. Vehicle\" metaphor and the \"Intention/Action Gap\" concept to position the DCM as a necessary clinical partner rather than a competitor.
+
+Subject: Completing the Circle of Care: The \"Implementation Lab\" for Your Diagnosis
+Dear [Therapist Name],
+Your"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T20:37:07-08:00"
+completed_at: "2026-01-23T20:38:05-08:00"
+response_summary: "Refactored v2 adopts Rick's metaphors. Positions our content as clinical detail sheet supporting his pitch."
+lineage:
+  created_by: "user_request"

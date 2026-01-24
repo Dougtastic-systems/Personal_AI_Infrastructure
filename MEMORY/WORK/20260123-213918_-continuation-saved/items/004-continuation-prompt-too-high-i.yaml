@@ -1,0 +1,11 @@
+id: "004"
+description: "continuation prompt too high in context"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T22:17:53-08:00"
+completed_at: "2026-01-23T22:18:11-08:00"
+response_summary: "Condensed continuation file. Was ninety lines, now forty. Commands and context preserved."
+lineage:
+  created_by: "user_request"

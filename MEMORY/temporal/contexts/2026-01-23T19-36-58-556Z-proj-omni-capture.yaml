@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-23T19:36:58.556Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-23T19:36:58.556Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Working on task"
+  next_step: "When ready to test, say \"Continue shareable artifacts\" - we'll try the CodePen workflow with a real artifact and evaluate friction."
+  status: "Idea captured and indexed for future exploration."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Created continuation file for shareable artifacts workflow. Indexed. Resume with "continue shareable artifacts."

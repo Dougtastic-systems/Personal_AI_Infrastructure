@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T16:42:58.580Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T16:42:58.580Z"
+transition: SESSION_END
+
+state:
+  what_doing: "Great thinking—let's design a tuning session that validates extraction quality AND captures Nate's mental models specifically."
+  next_step: "1. I'll extract Email 1 (Jan 23 - \"Identity shift that unlocked throughput\")"
+  status: "Ready to start tuning with Email 1"
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Tuning session designed. Extract one email, review together, refine prompt, repeat five times.

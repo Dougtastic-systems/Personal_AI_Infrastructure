@@ -1,0 +1,12 @@
+id: "20260120-184055_please-make-a-continuation-prompt-so-that-i-can-op"
+title: "Please make a continuation prompt so that I can op"
+created_at: "2026-01-20T18:40:55-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "db035ad6-b9c5-4387-a81d-5bdcf23a8f8e"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

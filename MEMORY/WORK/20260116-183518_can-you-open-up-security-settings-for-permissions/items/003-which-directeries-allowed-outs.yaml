@@ -1,0 +1,11 @@
+id: "003"
+description: "which directeries allowed outside of project?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-16T18:42:15-08:00"
+completed_at: "2026-01-16T18:42:34-08:00"
+response_summary: "No external directories configured. Only tool permissions exist, no path-based allowances set."
+lineage:
+  created_by: "user_request"

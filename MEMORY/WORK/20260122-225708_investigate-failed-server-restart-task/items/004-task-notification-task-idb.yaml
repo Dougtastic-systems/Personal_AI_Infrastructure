@@ -1,0 +1,17 @@
+id: "004"
+description: "<task-notification>
+<task-id>b66ce1f</task-id>
+<output-file>/var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b66ce1f.output</output-file>
+<status>completed</status>
+<summary>Background command \"Start fresh server\" completed (exit code 0).</summary>
+</task-notification>
+Read the output file to retrieve the result: /var/folders/gc/glvhzzq52gdcq9qw46h1_ny80000gp/T/claude/-Users-DSnyder/tasks/b66ce1f.output"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-22T23:04:30-08:00"
+completed_at: "2026-01-22T23:04:36-08:00"
+response_summary: "Old server task finished. Dashboard running with yesterday's Oura data showing high capacity."
+lineage:
+  created_by: "user_request"

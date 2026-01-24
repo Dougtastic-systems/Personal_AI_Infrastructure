@@ -1,0 +1,24 @@
+# Context Snapshot - Auto-saved by PAI
+# Production Work Framework - Temporal Coordination
+# Saved: 2026-01-24T20:07:37.788Z
+
+work_item_id: "proj-omni-capture"
+timestamp: "2026-01-24T20:07:37.788Z"
+transition: SESSION_END
+
+state:
+  what_doing: "You're right - my dashboard shows **estimates from historical data**, not the real Claude limits."
+  next_step: "Options to fix:"
+  status: "Dashboard shows **estimates only**, not actual limits."
+
+environment:
+  auto_saved: true
+  session_type: claude_code
+
+scratch:
+  notes: |
+    Auto-captured at session end.
+    Full response available in session history.
+
+summary: |
+  Dashboard shows estimates from history, not real limits. Claude /status is the truth.

@@ -1,0 +1,11 @@
+id: "003"
+description: "so test in browser - just put that as URL on Chrome?"
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-20T14:29:25-08:00"
+completed_at: "2026-01-20T14:29:47-08:00"
+response_summary: "Servers running. Open localhost:3003 in Chrome. Test column autocomplete and Ctrl+Up/Down history."
+lineage:
+  created_by: "user_request"

@@ -1,0 +1,11 @@
+id: "003"
+description: "can you go to my gmail and create an email and attach?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T14:38:34-08:00"
+completed_at: "2026-01-24T14:39:14-08:00"
+response_summary: "Gmail compose opened in your browser. Drag the file from Finder to attach it."
+lineage:
+  created_by: "user_request"

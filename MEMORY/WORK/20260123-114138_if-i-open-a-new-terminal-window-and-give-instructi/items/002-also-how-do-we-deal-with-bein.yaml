@@ -1,0 +1,11 @@
+id: "002"
+description: "Also, how do we deal with being resource heavy to understand when we get too deep into a context window? So, do we spawn multiple agents to run in parallel? Five teams doing five emails at a time with handoffs, updating to the master to-do list and then grab the next one? Is that possible? Music Music Music Music"
+type: "question"
+effort: "STANDARD"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-23T11:43:13-08:00"
+completed_at: "2026-01-23T11:43:36-08:00"
+response_summary: "Yes, parallel agents with file handoffs and master todo. Build orchestration script for reflection processing."
+lineage:
+  created_by: "user_request"

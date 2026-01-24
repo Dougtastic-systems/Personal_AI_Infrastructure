@@ -1,0 +1,11 @@
+id: "016"
+description: "Thank you. I'm not sure. I right clicked on the file. I didn't see the option download now. I'm not sure. I'm not sure."
+type: "conversational"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-20T09:37:18-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"

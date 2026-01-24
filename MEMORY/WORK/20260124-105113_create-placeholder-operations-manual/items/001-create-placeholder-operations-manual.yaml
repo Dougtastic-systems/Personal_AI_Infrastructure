@@ -1,0 +1,11 @@
+id: "001"
+description: "i'm looking to create a place holder Operations manaual.   "
+type: "work"
+effort: "QUICK"
+source: "USER_PROMPT"
+status: "DONE"
+created_at: "2026-01-24T10:51:13-08:00"
+completed_at: "2026-01-24T10:52:24-08:00"
+response_summary: "Operations manual created with twelve sections, nine SOPs, and TBD markers for decisions."
+lineage:
+  created_by: "user_request"

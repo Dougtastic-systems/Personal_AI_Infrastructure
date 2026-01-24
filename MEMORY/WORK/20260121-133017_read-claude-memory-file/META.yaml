@@ -1,0 +1,12 @@
+id: "20260121-133017_read-claude-memory-file"
+title: "Read Claude memory file"
+created_at: "2026-01-21T13:30:17-08:00"
+completed_at: null
+source: "SESSION"
+status: "ACTIVE"
+session_id: "aab99850-16c0-4a74-963d-dff38db15c82"
+lineage:
+  tools_used: []
+  files_changed: []
+  agents_spawned: []
+parent: null

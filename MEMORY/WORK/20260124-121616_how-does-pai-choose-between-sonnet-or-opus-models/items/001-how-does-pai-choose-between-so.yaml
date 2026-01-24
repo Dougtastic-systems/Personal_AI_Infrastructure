@@ -1,0 +1,11 @@
+id: "001"
+description: "how does PAI choose between Sonnet or Opus models.  I'm trying to manage usage.   do a deep dive and advise on features in PAI around this.  And wen to use which and when?"
+type: "question"
+effort: "TRIVIAL"
+source: "USER_PROMPT"
+status: "ACTIVE"
+created_at: "2026-01-24T12:16:16-08:00"
+completed_at: null
+response_summary: null
+lineage:
+  created_by: "user_request"
