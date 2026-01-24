@@ -80,18 +80,34 @@ ls ~/.claude-backup-pre-${VERSION}/
 
 **QA Gate 3:** Backup directory exists with all content.
 
-### 2.2 Backup to GitHub (Optional but Recommended)
+### 2.2 Sync MEMORY to Git Repo (MANDATORY)
+
+**⚠️ DO NOT SKIP THIS STEP - Your learnings are not backed up without it!**
 
 ```bash
 cd /Users/DSnyder/Personal_AI_Infrastructure
 
-# Commit any local changes to your fork
+# Sync latest MEMORY from live installation to repo
+rsync -av --exclude='captured/raw/' --exclude='*.pdf' --exclude='transcript.jsonl' \
+  ~/.claude/MEMORY/ ./MEMORY/
+
+# Commit everything
 git add -A
-git commit -m "chore: Back up local customizations before ${VERSION} upgrade"
+git commit -m "chore: Pre-upgrade backup - MEMORY sync before ${VERSION} upgrade"
 git push origin main
+
+# Tag for easy rollback
+git tag pre-${VERSION}-backup
+git push origin pre-${VERSION}-backup
 ```
 
-**QA Gate 4:** Your fork on GitHub has your latest customizations.
+**QA Gate 4:** Your fork on GitHub has your latest MEMORY and customizations.
+
+**What this protects:**
+- All learnings in MEMORY/learnings/
+- All WORK session history
+- Continuations and backlog
+- State and captured content (excluding large PDFs)
 
 ---
 
@@ -417,7 +433,16 @@ daidentity.voiceId (if customized)
 | Date | Upgrade | Notes |
 |------|---------|-------|
 | 2026-01-16 | v2.2 → v2.3 | First documented upgrade. Discovered tilde bug. |
+| 2026-01-24 | v2.3 → v2.4 | Added MEMORY to git. Made git backup MANDATORY (was optional). Discovered MEMORY wasn't in version control. |
 
 ---
 
 **Remember:** Your backup is your safety net. Don't delete `~/.claude-backup-pre-vX.X` until you've run PAI successfully for at least a few days.
+
+## Lessons Learned
+
+### 2026-01-24: MEMORY Must Be in Git
+**Problem:** MEMORY folder (18MB of learnings) was never committed to git. Only filesystem backup existed.
+**Risk:** If filesystem backup lost, all learnings lost forever.
+**Fix:** Added MEMORY to git repo, made git sync MANDATORY before upgrades.
+**Key insight:** The upgrade guide said "Backup to GitHub (Optional)" - this was wrong. Git backup should be REQUIRED.
