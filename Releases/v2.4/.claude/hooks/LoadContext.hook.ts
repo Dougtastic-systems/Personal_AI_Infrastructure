@@ -153,6 +153,58 @@ interface ProgressFile {
   handoff_notes: string;
 }
 
+interface AutoContinuationState {
+  session_id: string;
+  prompt_count: number;
+  last_save: {
+    timestamp: string;
+    trigger: string;
+    prompt_count: number;
+    transcript_size_kb: number;
+  } | null;
+  saves_this_session: number;
+}
+
+/**
+ * Check for recent auto-saved continuation state.
+ * Returns the CONTINUATION.md content if found and <4 hours old.
+ */
+async function checkRecentContinuation(paiDir: string): Promise<string | null> {
+  try {
+    const stateFile = join(paiDir, 'MEMORY', 'STATE', 'auto-continuation-state.json');
+    if (!existsSync(stateFile)) return null;
+
+    const state: AutoContinuationState = JSON.parse(readFileSync(stateFile, 'utf-8'));
+    if (!state.last_save?.timestamp) return null;
+
+    // Check if save is less than 4 hours old
+    const saveTime = new Date(state.last_save.timestamp).getTime();
+    const now = Date.now();
+    const hoursSinceLastSave = (now - saveTime) / (1000 * 60 * 60);
+
+    if (hoursSinceLastSave > 4) {
+      console.error(`⏰ Auto-continuation too old (${hoursSinceLastSave.toFixed(1)} hours)`);
+      return null;
+    }
+
+    // Find the CONTINUATION.md from current-work
+    const currentWorkFile = join(paiDir, 'MEMORY', 'STATE', 'current-work.json');
+    if (!existsSync(currentWorkFile)) return null;
+
+    const currentWork = JSON.parse(readFileSync(currentWorkFile, 'utf-8'));
+    const continuationPath = join(paiDir, 'MEMORY', 'WORK', currentWork.session_dir, 'CONTINUATION.md');
+
+    if (!existsSync(continuationPath)) return null;
+
+    const content = readFileSync(continuationPath, 'utf-8');
+    console.error(`📋 Found recent auto-continuation (${hoursSinceLastSave.toFixed(1)} hours old)`);
+    return content;
+  } catch (err) {
+    console.error(`⚠️ Error checking auto-continuation: ${err}`);
+    return null;
+  }
+}
+
 async function checkActiveProgress(paiDir: string): Promise<string | null> {
   const progressDir = join(paiDir, 'MEMORY', 'STATE', 'progress');
 
@@ -306,6 +358,14 @@ This context is now active. Additional context loads dynamically as needed.
     if (activeProgress) {
       console.log(activeProgress);
       console.error('📋 Active work found from previous sessions');
+    }
+
+    // Check for recent auto-saved continuation
+    const recentContinuation = await checkRecentContinuation(paiDir);
+    if (recentContinuation) {
+      console.log('\n📋 AUTO-SAVED CONTEXT FROM PREVIOUS SESSION:\n');
+      console.log(recentContinuation);
+      console.log('\n---\n');
     }
 
     console.error('✅ PAI context injected into session');
