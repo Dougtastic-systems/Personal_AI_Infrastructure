@@ -1,0 +1,7 @@
+{
+  "repo_path": "/Users/DSnyder/Personal_AI_Infrastructure",
+  "release_path": "Releases/v2.4/.claude",
+  "install_path": "/Users/DSnyder/.claude",
+  "last_verified": "2026-01-24T16:35:00-08:00",
+  "notes": "Files edited in install_path must be copied to repo_path/release_path before commit"
+}
